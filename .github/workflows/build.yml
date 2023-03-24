@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 12 * * 6"  # 8 PM CST every Saturday
+    - cron: "0 23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,19 +17,19 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: |
-        sed -i '1,10 s/__PROXY__/${{ vars.PAC_PROXY }}/g' code.js  # 使用action 仓库变量，配置常变参数
+        sed -i '1,10 s/__PROXY__/${{ vars.PAC_PROXY }}/g' code.js  
         python3 build.py
         gzip -9 -k dist/*.txt
     - name: Generate release info
       id: release-info
-      run: python3 release-info.py
-    - uses: softprops/action-gh-release@v1
-      with:
-        name: ${{ steps.release-info.outputs.release_name }}
-        tag_name: ${{ steps.release-info.outputs.tag_name }}
-        body_path: ${{ steps.release-info.outputs.body_path }}
-        files: 'dist/*'
-    
+      #run: python3 release-info.py
+      # - uses: softprops/action-gh-release@v1
+      #   with:
+      #     name: ${{ steps.release-info.outputs.release_name }}
+      #     tag_name: ${{ steps.release-info.outputs.tag_name }}
+      #     body_path: ${{ steps.release-info.outputs.body_path }}
+      #     files: 'dist/*'
+      # 
     - name: config git
       uses: petronny/git-config-user@master
       with:
@@ -47,7 +47,7 @@ jobs:
         
     - name: add commit push    
       run: |
-        # git add -f -A dist/*.txt 
+        git add -f -A dist/*.txt 
         git add -f -A README.md
         git commit -m "[$(LANG=C date)] auto update" || exit 0
         [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
