@@ -20,8 +20,8 @@ jobs:
         sed -i '1,10 s/__PROXY__/${{ vars.PAC_PROXY }}/g' code.js  
         python3 build.py
         gzip -9 -k dist/*.txt
-    - name: Generate release info
-      id: release-info
+   # - name: Generate release info
+    #  id: release-info
       #run: python3 release-info.py
       # - uses: softprops/action-gh-release@v1
       #   with:
