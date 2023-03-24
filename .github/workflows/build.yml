@@ -38,8 +38,8 @@ jobs:
     - name: gen Readme.md    
       run: |
         set -x
-        sed -i 's#__REPO__#${{ github.repository }}#g' README-TEMPLATE.md # 当别人fork后，README 信息自动变更到他自己的仓库
-        mv -f README-TEMPlATE.md README.md
+        sed -i 's#__REPO__#${{ github.repository }}#g' README-TEMPLATE.md 
+        mv -f README-TEMPLATE.md README.md
 
     - name: remove Time in txt
       run: |
