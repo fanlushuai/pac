@@ -14,7 +14,7 @@ PAC scripts for proxies
 
 ## 使用
 
-### 方式一【过期】：
+### 方式一：
 
 获取方式：[本仓库的 Releases](https://github.com/iBug/pac/releases/latest)
 
@@ -23,7 +23,7 @@ PAC scripts for proxies
 
 本代码是为 Shadowsocks Windows 4.1.9 及以上版本设计的，若要在旧版本或使用其他代理软件中使用，请手动修改文件第 5 行 `__PROXY__` 为你的代理地址，详情见 [shadowsocks-windows#2761](https://github.com/shadowsocks/shadowsocks-windows/issues/2761)。
 
-### 方式二【推荐】：
+### 方式二：
 
 在线使用。引用dist目录中的文件的raw链接。或者使用其镜像加速链接（推荐）。如：
 
@@ -31,7 +31,7 @@ Github Raw: https://raw.githubusercontent.com/fanlushuai/pac/master/dist/pac-gfw
 
 FastGit: https://raw.fastgit.org/fanlushuai/pac/master/dist/pac-gfwlist-17mon.txt
 
-### 方式三【推荐】：
+### 方式三：
 
 在自己的github托管使用。
 
