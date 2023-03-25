@@ -39,7 +39,7 @@ FastGit: https://raw.fastgit.org/fanlushuai/pac/master/dist/pac-gfwlist-17mon.tx
 
 2. 修改权限。给action读写权限
 
-3. 添加action变量`PAC_PROXY`。位于 settings > secrets and variables > actions 。值如：SOCKS5 127.0.0.1:7890
+3. 添加action变量`PAC_PROXY`。位于 settings > secrets and variables > actions 。值如："SOCKS5 127.0.0.1:7890" (带引号)
 
 这样就有了一个自己随意搞的在线PAC。 
 
