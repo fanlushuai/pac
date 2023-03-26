@@ -5684,6 +5684,7 @@ var DOMAINS = {
     },
     "nusatrip": 0,
     "nuuvem": 0,
+    "olehdtv": 0,
     "onapp": 0,
     "ontrac": 0,
     "openai": 0,
@@ -6155,6 +6156,7 @@ var DOMAINS = {
     "anchorfree": 0,
     "aniscartujo": 0,
     "anobii": 0,
+    "anonfiles": 0,
     "anthonycalzadilla": 0,
     "aomiwang": 0,
     "apigee": 0,
@@ -6631,6 +6633,7 @@ var DOMAINS = {
     "istarshine": {
       "oversea": 0
     },
+    "itemfix": 0,
     "itshidden": 0,
     "ivacy": 0,
     "ixquick": 0,
@@ -6688,6 +6691,7 @@ var DOMAINS = {
     "laptoplockdown": 0,
     "larsgeorge": 0,
     "le-vpn": 0,
+    "ledger": 0,
     "lenwhite": 0,
     "leorockwell": 0,
     "levyhsu": {
@@ -7751,6 +7755,7 @@ var DOMAINS = {
     "iphonetaiwan": 0,
     "isgreat": 0,
     "isupportuyghurs": 0,
+    "italiatibet": 0,
     "iuhrdf": 0,
     "iyouport": 0,
     "izihost": {
@@ -8365,6 +8370,7 @@ var DOMAINS = {
     "fbcdn": 0,
     "whatsapp": 0,
     "1e100": 0,
+    "cloudfunctions": 0,
     "googlefiber": 0,
     "googlezip": 0,
     "recaptcha": {
@@ -8507,6 +8513,7 @@ var DOMAINS = {
     },
     "ironpython": 0,
     "ismprofessional": 0,
+    "ivpn": 0,
     "jsdelivr": 0,
     "jshell": {
       "fiddle": 0
@@ -11569,8 +11576,6 @@ var BLACKPAT = [
   "*isunaffairs.com*",
   "*isuntv.com*",
   "*itaboo.info*",
-  "*.italiatibet.org*",
-  "*download.ithome.com.tw*",
   "*ithelp.ithome.com.tw*",
   "*.itsky.it*",
   "*.itweet.net*",
