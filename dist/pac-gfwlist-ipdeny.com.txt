@@ -5961,6 +5961,9 @@ var DOMAINS = {
     "deepmind": 0,
     "deja": 0,
     "digisfera": 0,
+    "docker": {
+      "hub": 0
+    },
     "duck": 0,
     "feedburner": 0,
     "firebaseio": 0,
@@ -6912,6 +6915,7 @@ var DOMAINS = {
     "po2b": 0,
     "podbean": 0,
     "podictionary": 0,
+    "poe": 0,
     "pokerstars": 0,
     "poloniex": 0,
     "pornhd": 0,
@@ -9561,6 +9565,10 @@ var DOMAINS = {
   "fund": {
     "opentech": 0
   },
+  "link": {
+    "page": 0,
+    "vnet": 0
+  },
   "at": {
     "pinterest": 0
   },
@@ -9614,9 +9622,6 @@ var DOMAINS = {
   },
   "va": {
     "vaticannews": 0
-  },
-  "link": {
-    "vnet": 0
   },
   "ac": {
     "vpn": 0
