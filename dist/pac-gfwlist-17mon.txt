@@ -7338,6 +7338,7 @@ var DOMAINS = {
     "gjczz": 0,
     "gmgard": 0,
     "goagentplus": 0,
+    "godaddy": 0,
     "gofundme": 0,
     "goldbetsports": 0,
     "goldeneyevault": 0,
