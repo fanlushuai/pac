@@ -7133,6 +7133,7 @@ var DOMAINS = {
     "christianstudy": 0,
     "cirosantilli": 0,
     "citizencn": 0,
+    "civitai": 0,
     "ck101": 0,
     "cloudcone": {
       "app": 0
@@ -8408,7 +8409,6 @@ var DOMAINS = {
     },
     "1984bbs": 0,
     "51jav": 0,
-    "7-zip": 0,
     "89-64": 0,
     "acgbox": 0,
     "aei": 0,
@@ -8826,6 +8826,7 @@ var DOMAINS = {
   "taipei": {
     "arena": 0,
     "gov": 0,
+    "li": 0,
     "metro": 0
   },
   "tv": {
@@ -9266,9 +9267,6 @@ var DOMAINS = {
     "ccthere": 0,
     "chinaaid": 0,
     "chinadigitaltimes": 0,
-    "cjb": {
-      "vpn": 0
-    },
     "classicalguitarblog": 0,
     "creaders": 0,
     "crossthewall": 0,
@@ -9843,6 +9841,7 @@ var DOMAINS = {
     "btctrade": 0,
     "elgoog": 0,
     "lala": 0,
+    "monica": 0,
     "pt": 0,
     "zpn": 0
   },
@@ -10105,14 +10104,6 @@ var DOMAINS = {
     "sina": 1,
     "yahoo": 1
   },
-  "dev": {
-    "pages": 0,
-    "get": 0,
-    "google": 0,
-    "tfhub": 0,
-    "web": 0,
-    "workers": 0
-  },
   "design": {
     "facebook": 0
   },
@@ -10162,7 +10153,6 @@ var DOMAINS = {
     "safety": 0,
     "stories": 0,
     "sustainability": 0,
-    "translate": 0,
     "tv": 0
   },
   "page": {
@@ -10173,6 +10163,13 @@ var DOMAINS = {
     "get": 0,
     "rsshub": 0,
     "vercel": 0
+  },
+  "dev": {
+    "get": 0,
+    "google": 0,
+    "tfhub": 0,
+    "web": 0,
+    "workers": 0
   },
   "how": {
     "get": 0
