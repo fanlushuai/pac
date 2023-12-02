@@ -6759,6 +6759,7 @@ var DOMAINS = {
     "matainja": 0,
     "mathiew-badimon": 0,
     "matsushimakaede": 0,
+    "maturejp": 0,
     "mcadforums": 0,
     "meansys": 0,
     "mediachinese": 0,
@@ -8518,6 +8519,7 @@ var DOMAINS = {
     "ihakka": 0,
     "imgchili": 0,
     "imagezilla": 0,
+    "inkbunny": 0,
     "inmediahk": 0,
     "ipjetable": 0,
     "compython": {
@@ -9080,6 +9082,7 @@ var DOMAINS = {
   "news": {
     "matters": 0,
     "6do": 0,
+    "bad": 0,
     "manyvoices": 0
   },
   "club": {
@@ -9535,6 +9538,9 @@ var DOMAINS = {
   "ws": {
     "localdomain": 0,
     "rmbl": 0
+  },
+  "town": {
+    "matters": 0
   },
   "nz": {
     "co": {
@@ -11865,7 +11871,6 @@ var BLACKPAT = [
   "*maruta.be/forget*",
   "*.marxist.com*",
   "*.marxists.org/chinese*",
-  "http://maturejp.com*",
   "*mayimayi.com*",
   "*.maxing.jp*",
   "*.mcaf.ee*",
