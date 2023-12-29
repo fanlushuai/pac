@@ -230,6 +230,7 @@ var CHINA = [
   [0x24280000, 0xFFF80000], // 36.40.0.0/13
   [0x24300000, 0xFFFE0000], // 36.48.0.0/15
   [0x2432E200, 0xFFFFFE00], // 36.50.226.0/23
+  [0x2432FE00, 0xFFFFFE00], // 36.50.254.0/23
   [0x24330000, 0xFFFF0000], // 36.51.0.0/16
   [0x24380000, 0xFFF80000], // 36.56.0.0/13
   [0x24600000, 0xFFE00000], // 36.96.0.0/11
@@ -3006,7 +3007,9 @@ var CHINA = [
   [0x67FFD000, 0xFFFFFE00], // 103.255.208.0/23
   [0x67FFD400, 0xFFFFFC00], // 103.255.212.0/22
   [0x67FFE400, 0xFFFFFC00], // 103.255.228.0/22
-  [0x68A71000, 0xFFFFF000], // 104.167.16.0/20
+  [0x68A71200, 0xFFFFFE00], // 104.167.18.0/23
+  [0x68A71400, 0xFFFFFC00], // 104.167.20.0/22
+  [0x68A71800, 0xFFFFF800], // 104.167.24.0/21
   [0x68CF2000, 0xFFFFE000], // 104.207.32.0/19
   [0x6A000000, 0xFFFFFF00], // 106.0.0.0/24
   [0x6A000200, 0xFFFFFE00], // 106.0.2.0/23
@@ -6322,6 +6325,7 @@ var DOMAINS = {
     "communitychoicecu": 0,
     "comparitech": 0,
     "compileheart": 0,
+    "cool18": 0,
     "coolaler": 0,
     "coolder": 0,
     "coolstuffinc": 0,
@@ -7356,6 +7360,7 @@ var DOMAINS = {
     "wiredpen": 0,
     "wireguard": 0,
     "wisevid": 0,
+    "wn": 0,
     "woeser": 0,
     "wolfax": 0,
     "woolyss": 0,
@@ -7419,6 +7424,10 @@ var DOMAINS = {
     "yesasia": 0,
     "yespornplease": 0,
     "yidio": 0,
+    "yimg": {
+      "s": 0,
+      "xa": 0
+    },
     "yipub": 0,
     "yiyechat": 0,
     "you": 0,
@@ -7548,6 +7557,7 @@ var DOMAINS = {
     "prism-break": 0,
     "tinc-vpn": 0,
     "you-get": 0,
+    "obyte": 0,
     "tronscan": 0,
     "rocksdb": 0,
     "ampproject": 0,
@@ -7983,6 +7993,8 @@ var DOMAINS = {
     "wikimapia": 0,
     "whispersystems": 0,
     "wjbk": 0,
+    "wmflabs": 0,
+    "wokar": 0,
     "wqyd": 0,
     "x-wall": 0,
     "xiaoma": 0,
@@ -8384,6 +8396,7 @@ var DOMAINS = {
       "connect": 0
     },
     "fbcdn": 0,
+    "threads": 0,
     "whatsapp": 0,
     "1e100": 0,
     "cloudfunctions": 0,
@@ -8487,7 +8500,6 @@ var DOMAINS = {
     },
     "greatfirewallofchina": 0,
     "greenvpn": 0,
-    "greasespot": 0,
     "hackthatphone": 0,
     "hdtvb": 0,
     "he": {
@@ -8581,6 +8593,7 @@ var DOMAINS = {
     "pornmm": 0,
     "prayforchina": 0,
     "proxypy": 0,
+    "pstatic": 0,
     "pureconcepts": 0,
     "pximg": 0,
     "quitccp": 0,
@@ -8734,6 +8747,9 @@ var DOMAINS = {
       "abc": 0
     },
     "r0": 0,
+    "yandex": {
+      "disk": 0
+    },
     "com": {
       "zenmate": 0
     }
@@ -8789,6 +8805,7 @@ var DOMAINS = {
     "glorystar": 0,
     "lighti": 0,
     "me": 0,
+    "proton": 0,
     "sulian": 0,
     "textnow": 0,
     "uraban": 0,
@@ -8821,7 +8838,6 @@ var DOMAINS = {
     "monocloud": 0,
     "netalert": 0,
     "sogrady": 0,
-    "proton": 0,
     "qi-gong": 0,
     "riku": 0,
     "saiq": 0,
@@ -10672,7 +10688,6 @@ var BLACKPAT = [
   "*.contactmagazine.net*",
   "*.convio.net*",
   "*.coobay.com*",
-  "http://www.cool18.com/bbs*/*",
   "*.coolaler.com*",
   "*coolder.com*",
   "*.coolncute.com*",
@@ -13375,13 +13390,10 @@ var BLACKPAT = [
   "*.witnessleeteaching.com*",
   "*.witopia.net*",
   "*.wjbk.org*",
-  "http://wn.com*",
   "*.wnacg.com*",
   "*.wnacg.org*",
   "*.wo.tc*",
-  "http://woesermiddle-way.net/*",
   "*.wokar.org*",
-  "http://wokar.org*",
   "*wolfax.com*",
   "*woopie.jp*",
   "*woopie.tv*",
@@ -13488,7 +13500,6 @@ var BLACKPAT = [
   "*.yibaochina.com*",
   "*.yidio.com*",
   "*yilubbs.com*",
-  "*xa.yimg.com*",
   "*.yingsuoss.com*",
   "*.yipub.com*",
   "*yinlei.org/mt*",

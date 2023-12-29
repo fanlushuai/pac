@@ -7647,6 +7647,7 @@ var DOMAINS = {
     "communitychoicecu": 0,
     "comparitech": 0,
     "compileheart": 0,
+    "cool18": 0,
     "coolaler": 0,
     "coolder": 0,
     "coolstuffinc": 0,
@@ -8681,6 +8682,7 @@ var DOMAINS = {
     "wiredpen": 0,
     "wireguard": 0,
     "wisevid": 0,
+    "wn": 0,
     "woeser": 0,
     "wolfax": 0,
     "woolyss": 0,
@@ -8744,6 +8746,10 @@ var DOMAINS = {
     "yesasia": 0,
     "yespornplease": 0,
     "yidio": 0,
+    "yimg": {
+      "s": 0,
+      "xa": 0
+    },
     "yipub": 0,
     "yiyechat": 0,
     "you": 0,
@@ -8873,6 +8879,7 @@ var DOMAINS = {
     "prism-break": 0,
     "tinc-vpn": 0,
     "you-get": 0,
+    "obyte": 0,
     "tronscan": 0,
     "rocksdb": 0,
     "ampproject": 0,
@@ -9308,6 +9315,8 @@ var DOMAINS = {
     "wikimapia": 0,
     "whispersystems": 0,
     "wjbk": 0,
+    "wmflabs": 0,
+    "wokar": 0,
     "wqyd": 0,
     "x-wall": 0,
     "xiaoma": 0,
@@ -9709,6 +9718,7 @@ var DOMAINS = {
       "connect": 0
     },
     "fbcdn": 0,
+    "threads": 0,
     "whatsapp": 0,
     "1e100": 0,
     "cloudfunctions": 0,
@@ -9812,7 +9822,6 @@ var DOMAINS = {
     },
     "greatfirewallofchina": 0,
     "greenvpn": 0,
-    "greasespot": 0,
     "hackthatphone": 0,
     "hdtvb": 0,
     "he": {
@@ -9906,6 +9915,7 @@ var DOMAINS = {
     "pornmm": 0,
     "prayforchina": 0,
     "proxypy": 0,
+    "pstatic": 0,
     "pureconcepts": 0,
     "pximg": 0,
     "quitccp": 0,
@@ -10059,6 +10069,9 @@ var DOMAINS = {
       "abc": 0
     },
     "r0": 0,
+    "yandex": {
+      "disk": 0
+    },
     "com": {
       "zenmate": 0
     }
@@ -10114,6 +10127,7 @@ var DOMAINS = {
     "glorystar": 0,
     "lighti": 0,
     "me": 0,
+    "proton": 0,
     "sulian": 0,
     "textnow": 0,
     "uraban": 0,
@@ -10146,7 +10160,6 @@ var DOMAINS = {
     "monocloud": 0,
     "netalert": 0,
     "sogrady": 0,
-    "proton": 0,
     "qi-gong": 0,
     "riku": 0,
     "saiq": 0,
@@ -11997,7 +12010,6 @@ var BLACKPAT = [
   "*.contactmagazine.net*",
   "*.convio.net*",
   "*.coobay.com*",
-  "http://www.cool18.com/bbs*/*",
   "*.coolaler.com*",
   "*coolder.com*",
   "*.coolncute.com*",
@@ -14700,13 +14712,10 @@ var BLACKPAT = [
   "*.witnessleeteaching.com*",
   "*.witopia.net*",
   "*.wjbk.org*",
-  "http://wn.com*",
   "*.wnacg.com*",
   "*.wnacg.org*",
   "*.wo.tc*",
-  "http://woesermiddle-way.net/*",
   "*.wokar.org*",
-  "http://wokar.org*",
   "*wolfax.com*",
   "*woopie.jp*",
   "*woopie.tv*",
@@ -14813,7 +14822,6 @@ var BLACKPAT = [
   "*.yibaochina.com*",
   "*.yidio.com*",
   "*yilubbs.com*",
-  "*xa.yimg.com*",
   "*.yingsuoss.com*",
   "*.yipub.com*",
   "*yinlei.org/mt*",
