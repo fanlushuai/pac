@@ -6057,6 +6057,7 @@ var DOMAINS = {
     "tdesktop": {
       "updates": 0
     },
+    "telegramdownload": 0,
     "tweetdeck": 0,
     "twimg": 0,
     "twitpic": 0,
@@ -6271,6 +6272,7 @@ var DOMAINS = {
     "c-est-simple": 0,
     "cactusvpn": 0,
     "caijinglengyan": 0,
+    "calendarz": 0,
     "camfrog": 0,
     "cams": 0,
     "caochangqing": 0,
@@ -6602,6 +6604,8 @@ var DOMAINS = {
     "hqjapanesesex": 0,
     "hsselite": 0,
     "huaglad": 0,
+    "huffingtonpost": 0,
+    "huffpost": 0,
     "huhaitai": 0,
     "huhamhire": 0,
     "huhangfei": 0,
@@ -7579,7 +7583,10 @@ var DOMAINS = {
     "webmproject": 0,
     "webrtc": 0,
     "whatbrowser": 0,
+    "cdn-telegram": 0,
+    "graph": 0,
     "telegram": 0,
+    "telegram-cdn": 0,
     "teco-hk": 0,
     "teco-mo": 0,
     "wikimedia": 0,
@@ -8891,6 +8898,7 @@ var DOMAINS = {
     "cochina": 0,
     "decodet": 0,
     "feeder": 0,
+    "huggingface": 0,
     "pandapow": 0,
     "radioline": 0,
     "tcpspeed": 0,
@@ -9013,6 +9021,7 @@ var DOMAINS = {
   },
   "space": {
     "bangdream": 0,
+    "telegram": 0,
     "luckydesigner": 0
   },
   "so": {
@@ -9355,6 +9364,7 @@ var DOMAINS = {
   },
   "app": {
     "get": 0,
+    "comments": 0,
     "rsshub": 0,
     "vercel": 0
   },
@@ -9396,9 +9406,16 @@ var DOMAINS = {
   "company": {
     "x": 0
   },
+  "directory": {
+    "quiz": 0
+  },
   "dog": {
     "telegram": 0,
     "esu": 0
+  },
+  "ph": {
+    "telegra": 0,
+    "archive": 0
   },
   "pe": {
     "telesco": 0
@@ -9440,10 +9457,6 @@ var DOMAINS = {
   "li": {
     "archive": 0,
     "hongzhi": 0
-  },
-  "ph": {
-    "archive": 0,
-    "telegra": 0
   },
   "su": {
     "arethusa": 0
@@ -9499,6 +9512,9 @@ var DOMAINS = {
   },
   "cm": {
     "fw": 0
+  },
+  "photos": {
+    "generated": 0
   },
   "press": {
     "gfw": 0
@@ -9653,6 +9669,9 @@ var DOMAINS = {
   },
   "ac": {
     "vpn": 0
+  },
+  "bible": {
+    "wd": 0
   },
   "id": {
     "web": {
@@ -10004,7 +10023,6 @@ var BLACKPAT = [
   "*userapi.nytlog.com*",
   "*cn.nytstyle.com*",
   "*.steamcommunity.com*",
-  "*.telegramdownload.com*",
   "*.pscp.tv*",
   "*.t.co*",
   "*.tweetdeck.com*",
@@ -11498,7 +11516,6 @@ var BLACKPAT = [
   "*huaxia-news.com*",
   "*huaxiabao.org*",
   "*huaxin.ph*",
-  "*.huffingtonpost.com/rebiya-kadeer*",
   "*.huhangfei.com*",
   "*huiyi.in*",
   "*.hulkshare.com*",
