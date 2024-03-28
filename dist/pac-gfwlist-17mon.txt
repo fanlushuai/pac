@@ -6915,8 +6915,10 @@ var DOMAINS = {
     "boysmaster": 0,
     "carfax": 0,
     "casinobellini": 0,
+    "ciciai": 0,
     "clearsurance": 0,
     "costco": 0,
+    "coze": 0,
     "crunchyroll": 0,
     "d2pass": 0,
     "dawangidc": 0,
@@ -7727,7 +7729,8 @@ var DOMAINS = {
     },
     "entermap": 0,
     "evozi": {
-      "app": 0
+      "app": 0,
+      "apps": 0
     },
     "epochhk": 0,
     "epochtimes-bg": 0,
@@ -9361,6 +9364,7 @@ var DOMAINS = {
     "bbchat": 0,
     "bb-chat": 0,
     "boxun": 0,
+    "cableav": 0,
     "dlive": 0,
     "dropbooks": 0,
     "im": {
@@ -9618,7 +9622,8 @@ var DOMAINS = {
     "dcard": 0,
     "net": {
       "ebc": {
-        "fnc": 0
+        "fnc": 0,
+        "news": 0
       },
       "mymusic": 0
     },
@@ -9805,6 +9810,7 @@ var DOMAINS = {
     "dwnews": 0,
     "edgecastcdn": 0,
     "erights": 0,
+    "evschool": 0,
     "exploader": 0,
     "falundafa-pa": 0,
     "falunworld": 0,
@@ -10781,6 +10787,9 @@ var DOMAINS = {
   "li": {
     "archive": 0,
     "hongzhi": 0
+  },
+  "md": {
+    "archive": 0
   },
   "su": {
     "arethusa": 0
@@ -12303,8 +12312,6 @@ var BLACKPAT = [
   "*.euronews.com*",
   "*eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh*",
   "*eeas.europa.eu/statements-eeas/2015/151022*",
-  "*.evschool.net*",
-  "http://evschool.net*",
   "*.exchristian.hk*",
   "http://blog.excite.co.jp*",
   "*.expecthim.com*",
