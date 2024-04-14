@@ -9859,6 +9859,7 @@ var DOMAINS = {
     "huping": 0,
     "hutianyi": 0,
     "iblogserv-f": 0,
+    "icedrive": 0,
     "iconfactory": {
       "warbler": 0
     },
@@ -10973,6 +10974,9 @@ var DOMAINS = {
   },
   "vg": {
     "ritter": 0
+  },
+  "video": {
+    "rou": 0
   },
   "sg": {
     "com": {
@@ -12870,7 +12874,6 @@ var BLACKPAT = [
   "http://cn.ibtimes.com*",
   "*.ibvpn.com*",
   "*icams.com*",
-  "*blogs.icerocket.com/tag*",
   "*.icij.org*",
   "*.icoco.com*",
   "*w.idaiwan.com/forum*",
