@@ -6300,6 +6300,7 @@ var DOMAINS = {
     "centralnation": 0,
     "changp": 0,
     "channelnewsasia": 0,
+    "chatgpt": 0,
     "chaturbate": 0,
     "checkgfw": 0,
     "chenguangcheng": 0,
