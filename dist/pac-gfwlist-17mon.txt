@@ -7482,6 +7482,7 @@ var DOMAINS = {
     "twimg": 0,
     "twitpic": 0,
     "twitter": 0,
+    "x": 0,
     "v2ex": 0,
     "voacambodia": 0,
     "voachineseblog": 0,
