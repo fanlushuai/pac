@@ -9306,6 +9306,7 @@ var DOMAINS = {
     "pussthecat": {
       "nitter": 0
     },
+    "qbittorrent": 0,
     "qiangyou": 0,
     "qienkuen": 0,
     "quitccp": 0,
@@ -9587,6 +9588,7 @@ var DOMAINS = {
       "merit-times": 0,
       "nexttv": 0,
       "ntdtv": 0,
+      "qgirl": 0,
       "raidcall": 0,
       "readingtimes": 0,
       "recoveryversion": 0,
@@ -13850,7 +13852,6 @@ var BLACKPAT = [
   "*pythonhackers.com/p*",
   "*ss.pythonic.life/*",
   "*.qanote.com*",
-  "*.qgirl.com.tw*",
   "*.qi-gong.me*",
   "*.qidian.ca*",
   "*.qienkuen.org*",
