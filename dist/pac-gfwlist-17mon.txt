@@ -8565,6 +8565,7 @@ var DOMAINS = {
     },
     "tagwalk": 0,
     "taipeitimes": 0,
+    "taisounds": 0,
     "talkboxapp": 0,
     "talkcc": 0,
     "tapatalk": 0,
@@ -9246,6 +9247,9 @@ var DOMAINS = {
         "ocsp": 0
       }
     },
+    "lmsys": {
+      "chat": 0
+    },
     "lncn": 0,
     "lrip": 0,
     "lsm": 0,
@@ -9425,6 +9429,7 @@ var DOMAINS = {
     "wango": 0,
     "warroom": 0,
     "wefightcensorship": 0,
+    "weijingsheng": 0,
     "wengewang": 0,
     "wexiaobo": 0,
     "whyx": 0,
@@ -9498,6 +9503,7 @@ var DOMAINS = {
     "com": {
       "booktopia": 0,
       "ramcity": 0,
+      "1688": 0,
       "9news": 0,
       "aobo": 0,
       "oursteps": 0,
@@ -9508,7 +9514,8 @@ var DOMAINS = {
       "xxxx": 0
     },
     "net": {
-      "abc": 0
+      "abc": 0,
+      "radioaustralia": 0
     },
     "org": {
       "aspi": 0,
@@ -10006,6 +10013,7 @@ var DOMAINS = {
     "letscorp": 0,
     "liangyou": 0,
     "liaowangxizang": 0,
+    "liuxiaobo": 0,
     "longtermly": 0,
     "marxist": 0,
     "mercdn": 0,
@@ -10243,6 +10251,7 @@ var DOMAINS = {
     "peace": 0,
     "pinterest": 0,
     "psiphon": 0,
+    "radio-canada": 0,
     "sunmedia": 0,
     "toptip": 0,
     "uyghurcanadian": 0
@@ -11522,7 +11531,6 @@ var BLACKPAT = [
   "*.138.com*",
   "*141hongkong.com/forum*",
   "*.141tube.com*",
-  "*.1688.com.au*",
   "*.173ng.com*",
   "*.177pic.info*",
   "*.17t17p.com*",
@@ -13277,17 +13285,14 @@ var BLACKPAT = [
   "*.liuhanyu.com*",
   "*.liujianshu.com*",
   "*.liuxiaobo.net*",
-  "http://liuxiaobo.net*",
   "*liuxiaotong.com*",
   "*.livedoor.jp*",
   "*.liveleak.com*",
-  "*.livestation.com*",
   "*livestream.com*",
   "*.livevideo.com*",
   "*.liwangyang.com*",
   "*lizhizhuangbi.com*",
   "*lkcn.net*",
-  "*.llss.me/*",
   "*.load.to*",
   "*.lobsangwangyal.com*",
   "*.localdomain.ws*",
@@ -13877,11 +13882,7 @@ var BLACKPAT = [
   "*.qvodzy.org*",
   "*nemesis2.qx.net/pages/MyEnTunnel*",
   "*qxbbs.org*",
-  "*.ra.gg*",
-  "http://ra.gg/*",
-  "*.radicalparty.org*",
   "*radicalparty.org*",
-  "*radioaustralia.net.au*",
   "*.radiohilight.net*",
   "*opml.radiotime.com*",
   "*.raidtalk.com.tw*",
@@ -14811,7 +14812,6 @@ var BLACKPAT = [
   "*.wefong.com*",
   "*weiboleak.com*",
   "*.weihuo.org*",
-  "*weijingsheng.org*",
   "*.weiming.info*",
   "*weiquanwang.org*",
   "http://weisuo.ws*",
