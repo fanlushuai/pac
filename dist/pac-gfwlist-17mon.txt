@@ -9887,6 +9887,7 @@ var DOMAINS = {
     "alforattv": 0,
     "alwaysdata": 0,
     "andfaraway": 0,
+    "apkpure": 0,
     "appsocks": 0,
     "askynz": 0,
     "azurewebsites": {
@@ -10666,6 +10667,7 @@ var DOMAINS = {
   "ai": {
     "bitz": 0,
     "api": 0,
+    "devv": 0,
     "wombo": 0
   },
   "ar": {
@@ -11714,7 +11716,6 @@ var BLACKPAT = [
   "*.apetube.com*",
   "*.apigee.com*",
   "*.apkmonk.com/app*",
-  "*apkpure.com*",
   "*.aplusvpn.com*",
   "*.appdownloader.net/Android*",
   "*.appledaily.com*",
