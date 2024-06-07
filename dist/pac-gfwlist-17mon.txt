@@ -8150,6 +8150,7 @@ var DOMAINS = {
         "cdn": 0
       }
     },
+    "libertysculpturepark": 0,
     "line-apps": 0,
     "lingvodics": 0,
     "linkedin": 0,
@@ -8820,6 +8821,7 @@ var DOMAINS = {
     "wowporn": 0,
     "wowgirls": 0,
     "wpoforum": 0,
+    "writesonic": 0,
     "wsj": 0,
     "wufafangwen": 0,
     "wuguoguang": 0,
@@ -9594,6 +9596,7 @@ var DOMAINS = {
       "inside": 0,
       "kingstone": 0,
       "lama": 0,
+      "libertytimes": 0,
       "ltn": 0,
       "merit-times": 0,
       "nexttv": 0,
@@ -9723,6 +9726,7 @@ var DOMAINS = {
       "hakkatv": 0,
       "hwayue": 0,
       "kagyuoffice": 0,
+      "lighten": 0,
       "pct": 0,
       "pts": 0,
       "rti": 0,
@@ -10745,6 +10749,7 @@ var DOMAINS = {
     },
     "jpush": 1,
     "daxa": 0,
+    "lightnovel": 0,
     "org": {
       "openwrt": 1
     },
@@ -13267,10 +13272,7 @@ var BLACKPAT = [
   "*.liangyou.net*",
   "*.lianyue.net*",
   "*.liaowangxizang.net*",
-  "*.libertytimes.com.tw*",
   "*blogs.libraryinformationtechnology.com/jxyz*",
-  "*.lighten.org.tw*",
-  "*.lightnovel.cn*",
   "*limiao.net*",
   "*linkuswell.com*",
   "*abitno.linpie.com/use-ipv6-to-fuck-gfw*",
@@ -15068,7 +15070,6 @@ var WHITEPAT = [
   "http://xx.wwwhost.biz*",
   "https://www.ampproject.org*",
   "https://cdn.ampproject.org*",
-  "https://www.lightnovel.cn*",
   "http://nrch.culture.tw/*",
   "http://translate.google.cn*",
   "http://www.google.cn/maps*",
