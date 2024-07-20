@@ -5593,6 +5593,7 @@ var DOMAINS = {
     "afreecatv": 0,
     "akiba-web": 0,
     "altrec": 0,
+    "anthropic": 0,
     "apartmentratings": 0,
     "apartments": 0,
     "asianspiss": 0,
@@ -5875,6 +5876,7 @@ var DOMAINS = {
     "bitfinex": 0,
     "bithumb": 0,
     "bitmex": 0,
+    "bnbstatic": 0,
     "btc98": 0,
     "bybit": 0,
     "c2cx": 0,
@@ -8161,6 +8163,14 @@ var DOMAINS = {
     "vuku": 0,
     "xjp": 0
   },
+  "ai": {
+    "claude": 0,
+    "bitz": 0,
+    "api": 0,
+    "devv": 0,
+    "perplexity": 0,
+    "wombo": 0
+  },
   "tw": {
     "comico": {
       "images": 0,
@@ -9264,12 +9274,6 @@ var DOMAINS = {
   },
   "one": {
     "big": 0
-  },
-  "ai": {
-    "bitz": 0,
-    "api": 0,
-    "devv": 0,
-    "wombo": 0
   },
   "ar": {
     "com": {
