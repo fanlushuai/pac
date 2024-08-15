@@ -7315,6 +7315,7 @@ var DOMAINS = {
     "urlborg": 0,
     "urlparser": 0,
     "usacn": 0,
+    "uscardforum": 0,
     "utopianpal": 0,
     "uwants": 0,
     "uyghurpress": 0,
@@ -9155,6 +9156,7 @@ var DOMAINS = {
       "@": 0,
       "static": 1
     },
+    "storj": 0,
     "tianti": 0,
     "twaud": 0,
     "typora": 0,
@@ -13281,7 +13283,6 @@ var BLACKPAT = [
   "*myshare.url.com.tw/*",
   "*us.to*",
   "*.usaip.eu*",
-  "*dalailama.usc.edu*",
   "*.usocctn.com*",
   "*.ustream.tv*",
   "*usus.cc*",
