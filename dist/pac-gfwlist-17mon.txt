@@ -7352,6 +7352,7 @@ var DOMAINS = {
     "fbworkmail": 0,
     "instagram": 0,
     "messenger": 0,
+    "meta": 0,
     "oculus": 0,
     "oculuscdn": 0,
     "sl-reverse": {
@@ -8958,6 +8959,7 @@ var DOMAINS = {
       "ssl": 0
     },
     "bloomberg": 0,
+    "facebook": 0,
     "addictedtocoffee": 0,
     "asianwomensfilm": 0,
     "barton": 0,
@@ -10141,6 +10143,7 @@ var DOMAINS = {
     "tibettimes": 0,
     "tipas": 0,
     "torguard": 0,
+    "tortoisesvn": 0,
     "tunnelblick": 0,
     "turbobit": 0,
     "lecloud": 0,
