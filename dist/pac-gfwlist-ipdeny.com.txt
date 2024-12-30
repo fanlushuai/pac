@@ -6062,6 +6062,7 @@ var DOMAINS = {
     "picasaweb": 0,
     "questvisual": 0,
     "redhotlabs": 0,
+    "snapseed": 0,
     "synergyse": 0,
     "thinkwithgoogle": 0,
     "tiltbrush": 0,
@@ -6592,6 +6593,7 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "haijiao": 0,
     "happy-vpn": 0,
     "hardsextube": 0,
     "haygo": 1,
@@ -7391,6 +7393,7 @@ var DOMAINS = {
     "vpnunlimitedapp": 0,
     "vpnvip": 0,
     "vporn": 0,
+    "vrchat": 0,
     "vtunnel": 0,
     "w3schools": 0,
     "waffle1999": 0,
@@ -7760,6 +7763,7 @@ var DOMAINS = {
     "daliulian": 0,
     "dastrassi": 0,
     "de-sci": 0,
+    "deepai": 0,
     "democrats": 0,
     "diaoyuislands": 0,
     "digitalnomadsproject": 0,
@@ -8431,7 +8435,8 @@ var DOMAINS = {
   "social": {
     "counter": 0,
     "g0v": 0,
-    "mastodon": 0
+    "mastodon": 0,
+    "bsky": 0
   },
   "kr": {
     "co": {
@@ -9231,7 +9236,6 @@ var DOMAINS = {
   "club": {
     "mohu": 0,
     "91vps": 0,
-    "hacg": 0,
     "jfqu36": 0
   },
   "ml": {
@@ -9478,9 +9482,16 @@ var DOMAINS = {
     "business": 0,
     "get": 0
   },
+  "new": {
+    "docs": 0,
+    "sheets": 0,
+    "slides": 0,
+    "whats": 0
+  },
   "app": {
     "get": 0,
     "comments": 0,
+    "bsky": 0,
     "rsshub": 0,
     "vercel": 0
   },
@@ -10579,7 +10590,6 @@ var BLACKPAT = [
   "*bbs.brockbbs.com*",
   "*brucewang.net*",
   "*.brutaltgp.com*",
-  "*.bt2mag.com*",
   "*.btaia.com*",
   "*.btbtav.com*",
   "*.btku.me*",
@@ -11464,15 +11474,6 @@ var BLACKPAT = [
   "*.h-moe.com*",
   "http://h-moe.com*",
   "*h1n1china.org*",
-  "*.hacg.club*",
-  "*.hacg.in*",
-  "http://hacg.in*",
-  "*.hacg.li*",
-  "http://hacg.li*",
-  "*.hacg.me*",
-  "http://hacg.me*",
-  "*.hacg.red*",
-  "http://hacg.red*",
   "*.hacken.cc/bbs*",
   "*.hacker.org*",
   "*hahlo.com*",
