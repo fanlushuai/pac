@@ -2129,7 +2129,6 @@ var CHINA = [
   [0x67858800, 0xFFFFFC00], // 103.133.136.0/22
   [0x6785B000, 0xFFFFFC00], // 103.133.176.0/22
   [0x6785E800, 0xFFFFFC00], // 103.133.232.0/22
-  [0x67860C00, 0xFFFFFF00], // 103.134.12.0/24
   [0x6786C400, 0xFFFFFC00], // 103.134.196.0/22
   [0x6786E800, 0xFFFFFE00], // 103.134.232.0/23
   [0x67875000, 0xFFFFFC00], // 103.135.80.0/22
@@ -6607,6 +6606,7 @@ var DOMAINS = {
     "heroku": {
       "id": 0
     },
+    "herokuapp": 0,
     "heungkongdiscuss": 0,
     "hexieshe": 0,
     "heyuedi": 0,
@@ -6644,6 +6644,7 @@ var DOMAINS = {
     "hougaige": 0,
     "howtoforge": 0,
     "hoxx": 0,
+    "hpjav": 0,
     "hqjapanesesex": 0,
     "hsselite": 0,
     "huaglad": 0,
@@ -6954,6 +6955,7 @@ var DOMAINS = {
       "wiki": 0
     },
     "pbxes": 0,
+    "pcgamestorrents": 0,
     "pdproxy": 0,
     "peacehall": 0,
     "perfect-privacy": 0,
@@ -7944,6 +7946,7 @@ var DOMAINS = {
     "ozvoice": 0,
     "pastie": 0,
     "pbxes": 0,
+    "pcij": 0,
     "pekingduck": 0,
     "peopo": 0,
     "politicalchina": 0,
@@ -8640,6 +8643,7 @@ var DOMAINS = {
     "htkou": 0,
     "huping": 0,
     "hutianyi": 0,
+    "iavian": 0,
     "iblogserv-f": 0,
     "icedrive": 0,
     "iconfactory": {
@@ -9231,6 +9235,7 @@ var DOMAINS = {
     "matters": 0,
     "6do": 0,
     "bad": 0,
+    "ground": 0,
     "manyvoices": 0
   },
   "club": {
@@ -11518,7 +11523,6 @@ var BLACKPAT = [
   "*.helpzhuling.org*",
   "*hentaitube.tv*",
   "*.hentaivideoworld.com*",
-  "*heqinglian.net*",
   "*.hexieshe.com*",
   "*app.heywire.com*",
   "*.heyzo.com*",
@@ -12388,7 +12392,6 @@ var BLACKPAT = [
   "*pbwiki.com*",
   "*pcdvd.com.tw*",
   "*.pchome.com.tw*",
-  "http://pcij.org*",
   "*.pcstore.com.tw*",
   "*pdetails.com*",
   "*peacefire.org*",
