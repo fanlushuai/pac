@@ -9613,11 +9613,8 @@ var DOMAINS = {
     "wombo": 0
   },
   "tw": {
-    "comico": {
-      "images": 0,
-      "static": 0
-    },
     "com": {
+      "cnbeta": 0,
       "dingchin": 0,
       "yahoo": {
         "buy": 0
@@ -9666,6 +9663,10 @@ var DOMAINS = {
       "wealth": 0,
       "yes123": 0,
       "zdnet": 0
+    },
+    "comico": {
+      "images": 0,
+      "static": 0
     },
     "technews": 0,
     "dailyview": 0,

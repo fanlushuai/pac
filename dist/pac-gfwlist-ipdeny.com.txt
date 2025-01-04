@@ -3883,6 +3883,7 @@ var CHINA = [
   [0xA1F81400, 0xFFFFFE00], // 161.248.20.0/23
   [0xA1F82A00, 0xFFFFFE00], // 161.248.42.0/23
   [0xA1F85400, 0xFFFFFE00], // 161.248.84.0/23
+  [0xA1F85C00, 0xFFFFFE00], // 161.248.92.0/23
   [0xA20E0000, 0xFFFF0000], // 162.14.0.0/16
   [0xA2690000, 0xFFFF0000], // 162.105.0.0/16
   [0xA3000000, 0xFFFF0000], // 163.0.0.0/16
@@ -8224,11 +8225,8 @@ var DOMAINS = {
     "wombo": 0
   },
   "tw": {
-    "comico": {
-      "images": 0,
-      "static": 0
-    },
     "com": {
+      "cnbeta": 0,
       "dingchin": 0,
       "yahoo": {
         "buy": 0
@@ -8277,6 +8275,10 @@ var DOMAINS = {
       "wealth": 0,
       "yes123": 0,
       "zdnet": 0
+    },
+    "comico": {
+      "images": 0,
+      "static": 0
     },
     "technews": 0,
     "dailyview": 0,
