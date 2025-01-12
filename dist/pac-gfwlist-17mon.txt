@@ -7142,7 +7142,6 @@ var DOMAINS = {
     "terabox": 0,
     "thinkgeek": 0,
     "thebodyshop-usa": 0,
-    "tiktok": 0,
     "tracfone": 0,
     "twerkingbutt": 0,
     "uukanshu": 0,
@@ -7482,6 +7481,9 @@ var DOMAINS = {
       "updates": 0
     },
     "telegramdownload": 0,
+    "tiktok": 0,
+    "tiktokv": 0,
+    "tiktokcdn-us": 0,
     "tweetdeck": 0,
     "twimg": 0,
     "twitpic": 0,
@@ -7542,6 +7544,7 @@ var DOMAINS = {
     "18board": 0,
     "1984bbs": 0,
     "1991way": 0,
+    "1point3acres": 0,
     "2021hkcharter": 0,
     "233abc": 0,
     "32red": 0,
@@ -7560,6 +7563,7 @@ var DOMAINS = {
     "881903": 0,
     "8964museum": 0,
     "91porn": 0,
+    "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
     "a-normal-day": 0,
@@ -7618,6 +7622,7 @@ var DOMAINS = {
     "atdmt": 0,
     "atlanta168": 0,
     "atnext": 0,
+    "audacy": 0,
     "avg": 0,
     "avgle": 0,
     "avoision": 0,
@@ -8548,6 +8553,7 @@ var DOMAINS = {
     "spicevpn": 0,
     "spideroak": 0,
     "spotflux": 0,
+    "spreaker": 0,
     "sproutcore": 0,
     "squirrelvpn": 0,
     "ss-link": 0,
@@ -8630,7 +8636,6 @@ var DOMAINS = {
     "tibettelegraph": 0,
     "tibettruth": 0,
     "tigervpn": 0,
-    "tiktokv": 0,
     "timesnownews": 0,
     "timtales": 0,
     "tiney": {
@@ -8955,6 +8960,7 @@ var DOMAINS = {
     "info-graf": 0,
     "iphonix": 0,
     "pinterest": 0,
+    "radio-en-ligne": 0,
     "rfi": 0,
     "ultravpn": 0
   },
@@ -9003,6 +9009,7 @@ var DOMAINS = {
     "g-area": 0,
     "ghidra-sre": 0,
     "khatrimaza": 0,
+    "miraheze": 0,
     "phmsociety": 0,
     "pytorch": 0,
     "soylentnews": 0,
@@ -9117,6 +9124,8 @@ var DOMAINS = {
     "cdjp": 0,
     "cdp1998": 0,
     "cdp2006": 0,
+    "cdpeu": 0,
+    "cdpusa": 0,
     "cdpweb": 0,
     "cdpwu": 0,
     "cfr": 0,
@@ -9154,6 +9163,7 @@ var DOMAINS = {
     "daliulian": 0,
     "dastrassi": 0,
     "de-sci": 0,
+    "deadhouse": 0,
     "deepai": 0,
     "democrats": 0,
     "diaoyuislands": 0,
@@ -9249,6 +9259,7 @@ var DOMAINS = {
     "insecam": 0,
     "institut-tibetain": 0,
     "internet": 0,
+    "internetfreedom": 0,
     "ipfire": 0,
     "iphonetaiwan": 0,
     "isgreat": 0,
@@ -9383,6 +9394,7 @@ var DOMAINS = {
     "signal": 0,
     "simplecd": 0,
     "sitemaps": 0,
+    "sleazyfork": 0,
     "softether": 0,
     "sohfrance": 0,
     "sos": 0,
@@ -9628,6 +9640,7 @@ var DOMAINS = {
       "cna": 0,
       "cts": 0,
       "cw": 0,
+      "ddc": 0,
       "e-classical": 0,
       "ftv": 0,
       "ftvnews": 0,
@@ -9644,6 +9657,8 @@ var DOMAINS = {
       "libertytimes": 0,
       "ltn": 0,
       "merit-times": 0,
+      "momoshop": 0,
+      "money-link": 0,
       "nexttv": 0,
       "ntdtv": 0,
       "python": 0,
@@ -9797,6 +9812,7 @@ var DOMAINS = {
         "fnc": 0,
         "news": 0
       },
+      "hst": 0,
       "mymusic": 0
     },
     "ecimg": 0,
@@ -10602,6 +10618,7 @@ var DOMAINS = {
     "tianti": 0,
     "twaud": 0,
     "typora": 0,
+    "z-lib": 0,
     "zeronet": 0
   },
   "cloud": {
@@ -10660,7 +10677,9 @@ var DOMAINS = {
   "us": {
     "rixcloud": 0,
     "xuehua": 0,
+    "tiktokv": 0,
     "aculo": 0,
+    "band": 0,
     "careerengine": {
       "posts": 0
     },
@@ -10774,6 +10793,7 @@ var DOMAINS = {
       "bbc": 0,
       "bbci": 0,
       "barnabu": 0,
+      "cdpuk": 0,
       "dabr": 0,
       "dailymail": 0,
       "englishfromengland": 0,
@@ -11036,6 +11056,9 @@ var DOMAINS = {
   "network": {
     "fanqiang": 0
   },
+  "audio": {
+    "fish": 0
+  },
   "cm": {
     "fw": 0
   },
@@ -11057,12 +11080,16 @@ var DOMAINS = {
     "goodhope": 0
   },
   "live": {
-    "hkmap": 0
+    "hkmap": 0,
+    "inherit": 0
   },
   "mo": {
     "com": {
       "hojemacau": 0
     }
+  },
+  "men": {
+    "hsex": 0
   },
   "bz": {
     "iask": 0
@@ -11627,10 +11654,7 @@ var BLACKPAT = [
   "http://*.1mobile.tw*",
   "*.2-hand.info*",
   "*.2000fun.com/bbs*",
-  "*.2008xianzhang.info*",
   "*21andy.com/blog*",
-  "*.21join.com*",
-  "*.21pron.com*",
   "*21sextury.com*",
   "*.228.net.tw*",
   "*24smile.org*",
@@ -11850,7 +11874,6 @@ var BLACKPAT = [
   "http://*2.bahamut.com.tw*",
   "*.baijie.org*",
   "*.banana-vpn.com*",
-  "*.band.us*",
   "*.bandwagonhost.com*",
   "*.bangbrosnetwork.com*",
   "*.bangchen.net*",
@@ -12085,11 +12108,6 @@ var BLACKPAT = [
   "*cdp1998.org*",
   "*cdp2006.org*",
   "*.cdpa.url.tw*",
-  "*cdpeu.org*",
-  "*cdpusa.org*",
-  "*cdpweb.org*",
-  "*cdpwu.org*",
-  "*.cecc.gov*",
   "*.centurys.net*",
   "http://centurys.net*",
   "*.cfhks.org.hk*",
@@ -12331,9 +12349,7 @@ var BLACKPAT = [
   "*daxa.cn*",
   "*cn.dayabook.com*",
   "*.daylife.com/topic/dalai_lama*",
-  "*.dbc.hk/main*",
   "*dcmilitary.com*",
-  "*.ddc.com.tw*",
   "*.ddhw.info*",
   "*.de-sci.org*",
   "*.definebabe.com*",
@@ -13018,7 +13034,6 @@ var BLACKPAT = [
   "*.hrtsea.com*",
   "*.hrw.org*",
   "*hrweb.org*",
-  "http://hst.net.tw*",
   "*.hstern.net*",
   "*.hstt.net*",
   "*.htkou.net*",
@@ -13106,7 +13121,6 @@ var BLACKPAT = [
   "*website.informer.com*",
   "http://insecam.org*",
   "*internetdefenseleague.org*",
-  "*internetfreedom.org*",
   "*.inthenameofconfuciusmovie.com*",
   "*inxian.com*",
   "*ipalter.com*",
@@ -13505,8 +13519,6 @@ var BLACKPAT = [
   "*.mofaxiehui.com*",
   "*.mofos.com*",
   "*molihua.org*",
-  "*.money-link.com.tw*",
-  "http://money-link.com.tw*",
   "http://www.monlamit.org*",
   "*.moonbbs.com*",
   "*bbs.morbell.com*",
@@ -15018,7 +15030,6 @@ var BLACKPAT = [
   "*zacebook.com*",
   "*.zalmos.com*",
   "*.zaobao.com*",
-  "http://zaobao.com.sg*",
   "*.zaozon.com*",
   "*.zello.com*",
   "*.zengjinyan.org*",
