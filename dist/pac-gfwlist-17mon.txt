@@ -7467,6 +7467,9 @@ var DOMAINS = {
     "youtubekids": 0,
     "ytimg": 0,
     "zynamics": 0,
+    "microsoft": {
+      "copilot": 0
+    },
     "naughtyamerica": 0,
     "nyt": 0,
     "nytco": 0,
@@ -7652,6 +7655,9 @@ var DOMAINS = {
     "betvictor": 0,
     "bgvpn": 0,
     "bianlei": 1,
+    "bibliocommons": {
+      "vpl": 0
+    },
     "bigjapanesesex": 0,
     "bitchute": 0,
     "bitshare": 0,
@@ -7788,6 +7794,7 @@ var DOMAINS = {
     "dailysabah": 0,
     "dalailamaworld": 0,
     "darrenliuwei": 0,
+    "dashlane": 0,
     "dbgjd": 0,
     "deadline": 0,
     "dessci": 0,
@@ -9098,6 +9105,7 @@ var DOMAINS = {
     "bannedbook": 0,
     "bestforchina": 0,
     "bfnn": 0,
+    "biblesforamerica": 0,
     "bignews": 0,
     "bitcointalk": 0,
     "bjzc": 0,
@@ -9130,6 +9138,7 @@ var DOMAINS = {
     "cdpwu": 0,
     "cfr": 0,
     "change": 0,
+    "chanworld": 0,
     "china18": 0,
     "china21": 0,
     "chinaaffairs": 0,
@@ -9667,6 +9676,7 @@ var DOMAINS = {
       "readingtimes": 0,
       "recoveryversion": 0,
       "ruten": 0,
+      "sanmin": 0,
       "sina": {
         "magazines": 0
       },
@@ -10437,6 +10447,12 @@ var DOMAINS = {
     },
     "x": 0
   },
+  "pro": {
+    "popai": 0,
+    "huobi": 0,
+    "net-fits": 0,
+    "plexvpn": 0
+  },
   "za": {
     "co": {
       "qq": 0
@@ -10502,6 +10518,7 @@ var DOMAINS = {
       "yahoo": 0,
       "am730": 0,
       "appledaily": 0,
+      "carousell": 0,
       "discuss": 0,
       "greenfieldbookstore": 0,
       "logos": 0,
@@ -10769,11 +10786,6 @@ var DOMAINS = {
     "theprint": 0,
     "xcafe": 0
   },
-  "pro": {
-    "huobi": 0,
-    "net-fits": 0,
-    "plexvpn": 0
-  },
   "sc": {
     "huobi": 0
   },
@@ -10792,6 +10804,7 @@ var DOMAINS = {
     "co": {
       "bbc": 0,
       "bbci": 0,
+      "abebooks": 0,
       "barnabu": 0,
       "cdpuk": 0,
       "dabr": 0,
@@ -10952,8 +10965,7 @@ var DOMAINS = {
     "quiz": 0
   },
   "dog": {
-    "telegram": 0,
-    "esu": 0
+    "telegram": 0
   },
   "ph": {
     "telegra": 0,
@@ -11930,8 +11942,6 @@ var BLACKPAT = [
   "*.bianlei.com*",
   "*biantailajiao.com*",
   "*biantailajiao.in*",
-  "*.biblesforamerica.org*",
-  "http://biblesforamerica.org*",
   "*.bic2011.org*",
   "*bigfools.com*",
   "*.bignews.org*",
@@ -12347,7 +12357,6 @@ var BLACKPAT = [
   "*.david-kilgour.com*",
   "http://david-kilgour.com*",
   "*daxa.cn*",
-  "*cn.dayabook.com*",
   "*.daylife.com/topic/dalai_lama*",
   "*dcmilitary.com*",
   "*.ddhw.info*",
@@ -12512,7 +12521,6 @@ var BLACKPAT = [
   "*.eroprofile.com*",
   "*.eroticsaloon.net*",
   "*.eslite.com*",
-  "*wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95*",
   "*.etaa.org.au*",
   "*.etadult.com*",
   "*etaiwannews.com*",
@@ -14031,7 +14039,6 @@ var BLACKPAT = [
   "*.salvation.org.hk*",
   "*.samair.ru/proxy/type-01*",
   "*.sambhota.org*",
-  "*.sanmin.com.tw*",
   "*sapikachu.net*",
   "*savemedia.com*",
   "*.savetibet.de*",
