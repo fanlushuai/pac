@@ -6993,6 +6993,7 @@ var CHINA = [
 
 var DOMAINS = {
   "com": {
+    "500px": 0,
     "afreecatv": 0,
     "airitilibrary": 0,
     "akiba-web": 0,
@@ -7090,6 +7091,9 @@ var DOMAINS = {
     "monster": 0,
     "moodyz": 0,
     "moonbingo": 0,
+    "msn": {
+      "www": 0
+    },
     "mybet": 0,
     "mypikpak": 0,
     "nationwide": 0,
@@ -7114,6 +7118,9 @@ var DOMAINS = {
     },
     "nusatrip": 0,
     "nuuvem": 0,
+    "nyinfor": {
+      "bbs": 0
+    },
     "olehdtv": 0,
     "onapp": 0,
     "ontrac": 0,
@@ -7169,6 +7176,7 @@ var DOMAINS = {
     "xn--9pr62r24a": 0,
     "abebooks": 0,
     "amazonaws": {
+      "s3-ap-southeast-1": 0,
       "s3-ap-southeast-2": 0
     },
     "9cache": 0,
@@ -7432,6 +7440,7 @@ var DOMAINS = {
     "googlepagecreator": 0,
     "googleplay": 0,
     "googleplus": 0,
+    "googlescholar": 0,
     "googlesource": 0,
     "googleusercontent": 0,
     "googlevideo": 0,
@@ -7457,6 +7466,7 @@ var DOMAINS = {
     "synergyse": 0,
     "thinkwithgoogle": 0,
     "tiltbrush": 0,
+    "ua5v": 0,
     "urchin": 0,
     "waymo": 0,
     "webpkgcache": 0,
@@ -7617,6 +7627,7 @@ var DOMAINS = {
     "apkmonk": 0,
     "apkplz": 0,
     "apkpure": 0,
+    "appadvice": 0,
     "appbrain": 0,
     "appledaily": 0,
     "aptoide": 0,
@@ -7675,6 +7686,7 @@ var DOMAINS = {
     "bitshare": 0,
     "bitvise": 0,
     "bl-doujinsouko": 0,
+    "blacked": 0,
     "blackvpn": 0,
     "blinkx": 0,
     "blockcn": 0,
@@ -7713,6 +7725,7 @@ var DOMAINS = {
     "brutaltgp": 0,
     "bt95": 0,
     "btdig": 0,
+    "btguard": 0,
     "buffered": 0,
     "bullguard": 0,
     "bullogger": 0,
@@ -7867,6 +7880,7 @@ var DOMAINS = {
     "epochtimestr": 0,
     "epochweek": 0,
     "epochweekly": 0,
+    "eporner": 0,
     "erodaizensyu": 0,
     "erodoujinlog": 0,
     "erodoujinworld": 0,
@@ -8178,6 +8192,7 @@ var DOMAINS = {
     "kwok7": 0,
     "kyoyue": 0,
     "kyzyhello": 0,
+    "kzaobao": 0,
     "lagranepoca": 0,
     "laptoplockdown": 0,
     "larsgeorge": 0,
@@ -8194,6 +8209,7 @@ var DOMAINS = {
       }
     },
     "libertysculpturepark": 0,
+    "lilaoshibushinilaoshi": 0,
     "line-apps": 0,
     "lingvodics": 0,
     "linkedin": 0,
@@ -8391,6 +8407,7 @@ var DOMAINS = {
     "picturedip": {
       "img*": 0
     },
+    "pigav": 0,
     "pin-cong": 0,
     "pin6": 0,
     "pinimg": 0,
@@ -8462,6 +8479,11 @@ var DOMAINS = {
     "pshvpn": 0,
     "psiphon3": 0,
     "pttgame": 0,
+    "pugpig": {
+      "content": {
+        "main-ecnpaper-economist": 0
+      }
+    },
     "pullfolio": 0,
     "purepdf": 0,
     "purevpn": 0,
@@ -8522,6 +8544,9 @@ var DOMAINS = {
     "secretchina": 0,
     "securetunnel": 0,
     "securitykiss": 0,
+    "seehua": {
+      "news": 0
+    },
     "seevpn": 0,
     "sensortower": 0,
     "sevenload": 0,
@@ -8600,6 +8625,7 @@ var DOMAINS = {
     "steel-storm": 0,
     "steganos": 0,
     "sthoo": 0,
+    "stitcher": 0,
     "storagenewsletter": 0,
     "storify": 0,
     "stoweboyd": 0,
@@ -8656,10 +8682,10 @@ var DOMAINS = {
     "threadreaderapp": 0,
     "thestandnews": 0,
     "thetibetpost": 0,
-    "thetinhat": 0,
     "thetvdb": 0,
     "thewirechina": 0,
     "thinkingtaiwan": 0,
+    "thisav": 0,
     "throughnightsfire": 0,
     "thywords": 0,
     "tiananmenduizhi": 0,
@@ -8711,6 +8737,11 @@ var DOMAINS = {
     "tuvpn": 0,
     "tumblr": 0,
     "slutmoonbeam": 0,
+    "tvb": {
+      "forum": 0,
+      "inews-api": 0
+    },
+    "tvboxnow": 0,
     "tvunetworks": 0,
     "twapperkeeper": 0,
     "twblogger": 0,
@@ -8770,6 +8801,7 @@ var DOMAINS = {
     },
     "u9un": 0,
     "udn": 0,
+    "ultravpn": 0,
     "cn": {
       "unblock": 0
     },
@@ -8792,6 +8824,7 @@ var DOMAINS = {
     "v2raycn": 0,
     "v2raytech": 0,
     "valeursactuelles": 0,
+    "vansky": 0,
     "venetianmacao": 0,
     "versavpn": 0,
     "verybs": 0,
@@ -8820,6 +8853,7 @@ var DOMAINS = {
     "vpnpick": 0,
     "vpnpop": 0,
     "vpnpronet": 0,
+    "vpnproxymaster": 0,
     "vpnreactor": 0,
     "vpnreviewz": 0,
     "vpnshazam": 0,
@@ -8839,7 +8873,9 @@ var DOMAINS = {
     "waltermartin": 0,
     "want-daily": 0,
     "waselpro": 0,
+    "watchinese": 0,
     "wattpad": 0,
+    "waybig": 0,
     "wearn": 0,
     "wechatlawsuit": 0,
     "wenxuecity": 0,
@@ -8996,56 +9032,8 @@ var DOMAINS = {
     "youdao": 1,
     "zhongsou": 1
   },
-  "fr": {
-    "agnesb": 0,
-    "epochtimes": 0,
-    "flecheinthepeche": 0,
-    "incredibox": 0,
-    "info-graf": 0,
-    "iphonix": 0,
-    "pinterest": 0,
-    "radio-en-ligne": 0,
-    "rfi": 0,
-    "ultravpn": 0
-  },
-  "de": {
-    "angela-merkel": 0,
-    "desipro": 0,
-    "webpack": {
-      "ssl": 0
-    },
-    "bloomberg": 0,
-    "facebook": 0,
-    "addictedtocoffee": 0,
-    "asianwomensfilm": 0,
-    "barton": 0,
-    "berlinerbericht": 0,
-    "bild": 0,
-    "blog": 0,
-    "chinesen": 0,
-    "citypopulation": 0,
-    "csuchen": 0,
-    "dajiyuan": 0,
-    "deutsche-welle": 0,
-    "dolc": 0,
-    "dw": 0,
-    "epochtimes": 0,
-    "helpster": 0,
-    "i2p2": 0,
-    "mobileways": 0,
-    "otto": 0,
-    "pinterest": 0,
-    "privacybox": 0,
-    "prosiben": 0,
-    "savetibet": 0,
-    "shellfire": 0,
-    "tibet-initiative": 0,
-    "tibetgermany": 0,
-    "twibble": 0,
-    "welt": 0,
-    "wikileaks": 0
-  },
   "org": {
+    "500px": 0,
     "angola": 0,
     "assimp": 0,
     "byrut": 0,
@@ -9216,6 +9204,7 @@ var DOMAINS = {
     "democrats": 0,
     "diaoyuislands": 0,
     "digitalnomadsproject": 0,
+    "diyin": 0,
     "dnscrypt": 0,
     "doourbest": 0,
     "doublethinklab": 0,
@@ -9224,6 +9213,7 @@ var DOMAINS = {
     "duihuahrjournal": 0,
     "dvorak": 0,
     "e-hentai": 0,
+    "eastasiaforum": 0,
     "engagedaily": 0,
     "ernestmandel": 0,
     "etizer": 0,
@@ -9472,6 +9462,7 @@ var DOMAINS = {
     "themoviedb": 0,
     "thepiratebay": 0,
     "thewgo": 0,
+    "thirdmill": 0,
     "thomasbernhard": 0,
     "tiandixing": 0,
     "tiantibooks": 0,
@@ -9516,6 +9507,7 @@ var DOMAINS = {
     "uproxy": 0,
     "uscnpm": 0,
     "ustibetcommittee": 0,
+    "uyghur-j": 0,
     "uyghuraa": 0,
     "uyghuramerican": 0,
     "uyghurbiz": 0,
@@ -9566,6 +9558,55 @@ var DOMAINS = {
     "zhongmeng": 0,
     "zhuichaguoji": 0
   },
+  "fr": {
+    "agnesb": 0,
+    "epochtimes": 0,
+    "flecheinthepeche": 0,
+    "incredibox": 0,
+    "info-graf": 0,
+    "iphonix": 0,
+    "pinterest": 0,
+    "radio-en-ligne": 0,
+    "rfi": 0,
+    "ultravpn": 0
+  },
+  "de": {
+    "angela-merkel": 0,
+    "desipro": 0,
+    "webpack": {
+      "ssl": 0
+    },
+    "bloomberg": 0,
+    "facebook": 0,
+    "addictedtocoffee": 0,
+    "asianwomensfilm": 0,
+    "barton": 0,
+    "berlinerbericht": 0,
+    "bild": 0,
+    "blog": 0,
+    "chinesen": 0,
+    "citypopulation": 0,
+    "csuchen": 0,
+    "dajiyuan": 0,
+    "deutsche-welle": 0,
+    "dolc": 0,
+    "dw": 0,
+    "epochtimes": 0,
+    "helpster": 0,
+    "i2p2": 0,
+    "mobileways": 0,
+    "otto": 0,
+    "pinterest": 0,
+    "privacybox": 0,
+    "prosiben": 0,
+    "savetibet": 0,
+    "shellfire": 0,
+    "tibet-initiative": 0,
+    "tibetgermany": 0,
+    "twibble": 0,
+    "welt": 0,
+    "wikileaks": 0
+  },
   "taipei": {
     "arena": 0,
     "gov": 0,
@@ -9585,6 +9626,7 @@ var DOMAINS = {
     "avdb": 0,
     "bbchat": 0,
     "bb-chat": 0,
+    "blip": 0,
     "boxun": 0,
     "cableav": 0,
     "dlive": 0,
@@ -9627,6 +9669,7 @@ var DOMAINS = {
     },
     "net": {
       "abc": 0,
+      "chinesenews": 0,
       "radioaustralia": 0
     },
     "org": {
@@ -9683,6 +9726,8 @@ var DOMAINS = {
     "character": 0,
     "devv": 0,
     "jan": 0,
+    "javfinder": 0,
+    "mlc": 0,
     "perplexity": 0,
     "wombo": 0
   },
@@ -9743,7 +9788,8 @@ var DOMAINS = {
       "uforadio": 0,
       "wealth": 0,
       "yes123": 0,
-      "zdnet": 0
+      "zdnet": 0,
+      "zmedia": 0
     },
     "comico": {
       "images": 0,
@@ -9759,11 +9805,15 @@ var DOMAINS = {
       },
       "data": 0,
       "epa": 0,
+      "exam": 0,
+      "ey": 0,
       "fa": 0,
       "fda": 0,
       "hpa": 0,
       "immigration": 0,
       "itaiwan": 0,
+      "judicial": 0,
+      "ly": 0,
       "mjib": 0,
       "moeaic": 0,
       "mofa": 0,
@@ -9865,6 +9915,7 @@ var DOMAINS = {
       "taedp": 0,
       "taiwanncf": 0,
       "taiwantt": 0,
+      "tfc-taiwan": 0,
       "tibet": 0,
       "tpi": 0,
       "wufi": 0,
@@ -9893,6 +9944,7 @@ var DOMAINS = {
     },
     "im88": 0,
     "inote": 0,
+    "memes": 0,
     "moptt": 0,
     "newtalk": 0,
     "okk": 0,
@@ -9925,6 +9977,9 @@ var DOMAINS = {
   },
   "mil": {
     "darpa": 0,
+    "dma": 0,
+    "soc": 0,
+    "uscg": 0,
     "usfk": 0,
     "usmc": 0,
     "af": 0,
@@ -9941,8 +9996,7 @@ var DOMAINS = {
     "ng": {
       "co": 0
     },
-    "nga": 0,
-    "soc": 0
+    "nga": 0
   },
   "gg": {
     "discord": 0
@@ -10202,12 +10256,16 @@ var DOMAINS = {
     "quitccp": 0,
     "radiohilight": 0,
     "redchinacn": 0,
+    "reimu": {
+      "blog": 0
+    },
     "reutersmedia": 0,
     "rocket-inc": 0,
     "rolia": 0,
     "rutracker": 0,
     "secureservercdn": 0,
     "seezone": 0,
+    "sehuatang": 0,
     "sesawe": 0,
     "sethwklein": 0,
     "sexinsex": 0,
@@ -10242,6 +10300,7 @@ var DOMAINS = {
     "tibetexpress": 0,
     "tibettimes": 0,
     "tipas": 0,
+    "toptoon": 0,
     "torguard": 0,
     "tortoisesvn": 0,
     "tunnelblick": 0,
@@ -10338,7 +10397,10 @@ var DOMAINS = {
     "vpngate": 0,
     "wikiwiki": 0,
     "woopie": 0,
-    "xcity": 0
+    "xcity": 0,
+    "or": {
+      "yasukuni": 0
+    }
   },
   "ee": {
     "eesti": 0,
@@ -10653,7 +10715,8 @@ var DOMAINS = {
     "popvote": 0,
     "rthk": 0,
     "sacom": 0,
-    "stage64": 0
+    "stage64": 0,
+    "unwire": 0
   },
   "space": {
     "bangdream": 0,
@@ -10707,6 +10770,7 @@ var DOMAINS = {
     "codeshare": 0,
     "doub": 0,
     "firetweet": 0,
+    "fountmedia": 0,
     "geph": 0,
     "git": 0,
     "github": 0,
@@ -10809,14 +10873,16 @@ var DOMAINS = {
     "sadpanda": 0,
     "srocket": 0,
     "thedw": 0,
-    "tibethouse": 0
+    "tibethouse": 0,
+    "ultrasurf": 0
   },
   "is": {
     "unseen": 0,
     "workflow": {
       "blog": 0
     },
-    "archive": 0
+    "archive": 0,
+    "hypothes": 0
   },
   "tools": {
     "ssr": 0
@@ -10834,6 +10900,7 @@ var DOMAINS = {
     "faiththedog": 0,
     "falunasia": 0,
     "fanglizhi": 0,
+    "fireofliberty": 0,
     "freedomchina": 0,
     "geekheart": 0,
     "gzone-anime": 0,
@@ -10928,7 +10995,8 @@ var DOMAINS = {
     "bloomberg": 0,
     "googleapis": 0,
     "google": {
-      "groups": 0
+      "groups": 0,
+      "translate": 1
     },
     "jpush": 1,
     "daxa": 0,
@@ -10936,7 +11004,6 @@ var DOMAINS = {
     "org": {
       "openwrt": 1
     },
-    "sjum": 0,
     "com": {
       "wallproxy": 1,
       "sina": 1,
@@ -11035,9 +11102,6 @@ var DOMAINS = {
   "gle": {
     "goo": 0
   },
-  "comUSA": {
-    "googlescholar": 0
-  },
   "soy": {
     "iam": 0
   },
@@ -11058,15 +11122,16 @@ var DOMAINS = {
   "company": {
     "x": 0
   },
+  "ph": {
+    "legra": 0,
+    "telegra": 0,
+    "archive": 0
+  },
   "directory": {
     "quiz": 0
   },
   "dog": {
     "telegram": 0
-  },
-  "ph": {
-    "telegra": 0,
-    "archive": 0
   },
   "pe": {
     "telesco": 0
@@ -11128,9 +11193,6 @@ var DOMAINS = {
   },
   "art": {
     "beijing2022": 0
-  },
-  "tv/": {
-    "blip": 0
   },
   "st": {
     "br": 0
@@ -11217,6 +11279,16 @@ var DOMAINS = {
     "onion": 0,
     "ow": 0
   },
+  "ch": {
+    "ishr": 0,
+    "lematin": 0,
+    "mad-ar": 0,
+    "gotdns": 0,
+    "swissinfo": 0,
+    "tibetoffice": 0,
+    "tibetswiss": 0,
+    "wikileaks": 0
+  },
   "mp": {
     "j": 0
   },
@@ -11226,18 +11298,12 @@ var DOMAINS = {
   "life": {
     "kxsw": 0
   },
-  "ch": {
-    "lematin": 0,
-    "mad-ar": 0,
-    "gotdns": 0,
-    "swissinfo": 0,
-    "tibetoffice": 0,
-    "tibetswiss": 0,
-    "wikileaks": 0
-  },
   "ws": {
     "localdomain": 0,
     "rmbl": 0
+  },
+  "run": {
+    "mangmang": 0
   },
   "town": {
     "matters": 0
@@ -11374,6 +11440,9 @@ var DOMAINS = {
   },
   "sk": {
     "yadi": 0
+  },
+  "tokyo": {
+    "yunomi": 0
   },
   "la": {
     "zuo": 0
@@ -12298,7 +12367,6 @@ var BLACKPAT = [
   "*.chinesedaily.com*",
   "*.chinesedemocracy.com*",
   "*.chinesen.de*",
-  "*.chinesenews.net.au/*",
   "*.chinesepen.org*",
   "*.chinesetalks.net/ch*",
   "*.chingcheong.com*",
@@ -12613,7 +12681,6 @@ var BLACKPAT = [
   "*epochtimes.com*",
   "*.epochtimes.cz*",
   "*.epochweek.com*",
-  "*.eporner.com*",
   "*.equinenow.com*",
   "*erabaru.net*",
   "*.eracom.com.tw*",
@@ -12730,7 +12797,6 @@ var BLACKPAT = [
   "*finler.net*",
   "*.firearmsworld.net*",
   "http://firearmsworld.net*",
-  "*.fireofliberty.org*",
   "*.firetweet.io*",
   "*.flagsonline.it*",
   "*fleshbot.com*",
@@ -13540,7 +13606,6 @@ var BLACKPAT = [
   "*megavideo.com*",
   "*.meltoday.com*",
   "*.memehk.com*",
-  "*memorybbs.com*",
   "*.memri.org*",
   "*.memrijttm.org*",
   "*.mercyprophet.org*",
@@ -13622,7 +13687,6 @@ var BLACKPAT = [
   "*.mqxd.org*",
   "http://mqxd.org*",
   "*mrtweet.com*",
-  "*news.hk.msn.com*",
   "*news.msn.com.tw*",
   "*msguancha.com*",
   "*.mswe1.org*",
@@ -13979,7 +14043,6 @@ var BLACKPAT = [
   "*.psiphontoday.com*",
   "*.ptt.cc*",
   "*.puffstore.com*",
-  "*.puuko.com*",
   "*.punyu.com/puny*",
   "*.purplelotus.org*",
   "*.pursuestar.com*",
@@ -14126,11 +14189,9 @@ var BLACKPAT = [
   "*securityinabox.org*",
   "https://securityinabox.org*",
   "*.securitykiss.com*",
-  "*news.seehua.com*",
   "*seesmic.com*",
   "*sejie.com*",
   "*.sendspace.com*",
-  "http://tweets.seraph.me/*",
   "*sesawe.net*",
   "*.sesawe.org*",
   "*.setn.com*",
@@ -14464,8 +14525,6 @@ var BLACKPAT = [
   "*.theync.com*",
   "http://theync.com*",
   "*.thinkingtaiwan.com*",
-  "*.thisav.com*",
-  "http://thisav.com*",
   "*.thlib.org*",
   "*.thongdreams.com*",
   "*threatchaos.com*",
@@ -14629,12 +14688,8 @@ var BLACKPAT = [
   "*.tv.com*",
   "http://tv.com*",
   "*tvants.com*",
-  "*forum.tvb.com*",
-  "*news.tvb.com/list/world*",
-  "*news.tvb.com/local*",
   "*news.tvbs.com.tw*",
   "*.tvboxnow.com*",
-  "http://tvboxnow.com/*",
   "*tvider.com*",
   "*.tvmost.com.hk*",
   "*.tvplayvideos.com*",
@@ -14727,7 +14782,6 @@ var BLACKPAT = [
   "*.ulike.net*",
   "*ukcdp.co.uk*",
   "*ukliferadio.co.uk*",
-  "*ultravpn.fr*",
   "*ultraxs.com*",
   "*umich.edu/~falun*",
   "*.unblocker.yt*",
@@ -14772,7 +14826,6 @@ var BLACKPAT = [
   "*.uwants.com*",
   "*.uwants.net*",
   "*uyghur.co.uk*",
-  "http://uyghur-j.org*",
   "*uygur.org*",
   "http://uymaarip.com/*",
   "*.v2ray.com*",
@@ -14781,7 +14834,6 @@ var BLACKPAT = [
   "*.vanemu.cn*",
   "*.vanilla-jp.com*",
   "*.vanpeople.com*",
-  "*vansky.com*",
   "*.vegasred.com*",
   "*.velkaepocha.sk*",
   "*.venbbs.com*",
@@ -14876,10 +14928,8 @@ var BLACKPAT = [
   "*wangruoshui.net*",
   "*www.wangruowang.org*",
   "*wapedia.mobi/zhsimp*",
-  "*.watchinese.com*",
   "*.wattpad.com*",
   "*.makzhou.warehouse333.com*",
-  "*washeng.net*",
   "*.watch8x.com*",
   "*.wdf5.com*",
   "*.wearehairy.com*",
@@ -15117,20 +15167,7 @@ var BLACKPAT = [
   "*.zuola.com*",
   "*.zynaima.com*",
   "*zyzc9.com*",
-  "*.zzcartoon.com*",
-  "*64memo*",
-  "*aHR0cHM6Ly95ZWNsLm5ldA*",
-  "*freenet*",
-  "*.google.*/falun*",
-  "*phobos.apple.com*/video*",
-  "*q=freedom*",
-  "*q%3Dfreedom*",
-  "*remembering_tiananmen_20_years*",
-  "*search*safeweb*",
-  "*q=triangle*",
-  "*q%3DTriangle*",
-  "*ultrareach*",
-  "*ultrasurf*"
+  "*.zzcartoon.com*"
 ];
 
 var WHITEPAT = [
@@ -15140,7 +15177,6 @@ var WHITEPAT = [
   "https://www.ampproject.org*",
   "https://cdn.ampproject.org*",
   "http://nrch.culture.tw/*",
-  "http://translate.google.cn*",
   "http://www.google.cn/maps*",
   "http://ime.baidu.jp*"
 ];
