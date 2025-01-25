@@ -7701,17 +7701,20 @@ var DOMAINS = {
     "telegram-cdn": 0,
     "teco-hk": 0,
     "teco-mo": 0,
+    "wikidata": 0,
     "wikimedia": 0,
+    "wikibooks": 0,
+    "wikiversity": 0,
     "wikiquote": {
       "zh": 0
     },
     "wikinews": {
       "zh": 0
     },
-    "wikipedia": {
-      "ja": 0,
-      "@": 0
-    },
+    "wikivoyage": 0,
+    "wiktionary": 0,
+    "wikipedia": 0,
+    "wmfusercontent": 0,
     "1984bbs": 0,
     "51jav": 0,
     "89-64": 0,
