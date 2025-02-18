@@ -7021,6 +7021,7 @@ var DOMAINS = {
     "picturedip": {
       "img*": 0
     },
+    "picuki": 0,
     "pigav": 0,
     "pin-cong": 0,
     "pin6": 0,
@@ -8593,7 +8594,8 @@ var DOMAINS = {
       "coinrail": 0,
       "epochtimes": 0,
       "pinterest": 0
-    }
+    },
+    "news1": 0
   },
   "mil": {
     "darpa": 0,
@@ -9781,6 +9783,11 @@ var DOMAINS = {
     "hidemy": 0,
     "psblog": 0
   },
+  "icu": {
+    "611study": 0,
+    "unstable": 0,
+    "xixicui": 0
+  },
   "world": {
     "6do": 0
   },
@@ -10030,10 +10037,6 @@ var DOMAINS = {
     "net": {
       "trt": 0
     }
-  },
-  "icu": {
-    "unstable": 0,
-    "xixicui": 0
   },
   "va": {
     "vaticannews": 0
@@ -13008,7 +13011,6 @@ var BLACKPAT = [
   "*tw.streetvoice.com*",
   "*.strikingly.com*",
   "*.strongwindpress.com*",
-  "*.student.tw/db*",
   "*stupidvideos.com*",
   "*.successfn.com*",
   "*panamapapers.sueddeutsche.de*",
