@@ -3901,6 +3901,7 @@ var CHINA = [
   [0xA33D7100, 0xFFFFFF00], // 163.61.113.0/24
   [0xA33DB200, 0xFFFFFE00], // 163.61.178.0/23
   [0xA33DCA00, 0xFFFFFE00], // 163.61.202.0/23
+  [0xA33DD600, 0xFFFFFE00], // 163.61.214.0/23
   [0xA37D0000, 0xFFFF0000], // 163.125.0.0/16
   [0xA38E0000, 0xFFFF0000], // 163.142.0.0/16
   [0xA3B10000, 0xFFFF0000], // 163.177.0.0/16
@@ -5657,6 +5658,7 @@ var DOMAINS = {
     "here": {
       "wego": 0
     },
+    "grok": 0,
     "hmoegirl": 0,
     "hmvdigital": 0,
     "homedepot": 0,
@@ -8544,6 +8546,7 @@ var DOMAINS = {
       "yam": 0
     },
     "civilmedia": 0,
+    "cofacts": 0,
     "culture": 0,
     "dcard": 0,
     "net": {

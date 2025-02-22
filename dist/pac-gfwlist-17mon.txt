@@ -7044,6 +7044,7 @@ var DOMAINS = {
     "here": {
       "wego": 0
     },
+    "grok": 0,
     "hmoegirl": 0,
     "hmvdigital": 0,
     "homedepot": 0,
@@ -9931,6 +9932,7 @@ var DOMAINS = {
       "yam": 0
     },
     "civilmedia": 0,
+    "cofacts": 0,
     "culture": 0,
     "dcard": 0,
     "net": {
