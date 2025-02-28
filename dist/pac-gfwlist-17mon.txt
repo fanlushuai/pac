@@ -11217,6 +11217,10 @@ var DOMAINS = {
   "st": {
     "br": 0
   },
+  "network": {
+    "bsky": 0,
+    "fanqiang": 0
+  },
   "tl": {
     "bx": 0,
     "mtw": 0
@@ -11246,9 +11250,6 @@ var DOMAINS = {
   },
   "ie": {
     "epochtimes": 0
-  },
-  "network": {
-    "fanqiang": 0
   },
   "audio": {
     "fish": 0
