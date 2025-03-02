@@ -6016,9 +6016,7 @@ var DOMAINS = {
     "deepmind": 0,
     "deja": 0,
     "digisfera": 0,
-    "docker": {
-      "hub": 0
-    },
+    "docker": 0,
     "duck": 0,
     "feedburner": 0,
     "firebaseio": 0,
@@ -6161,6 +6159,7 @@ var DOMAINS = {
       "mall": {
         "tw": 0
       },
+      "tw": 0,
       "mobi": {
         "tw": 0
       },
@@ -6310,6 +6309,7 @@ var DOMAINS = {
     "blogger": 0,
     "bloglines": 0,
     "bloglovin": 0,
+    "bootstrapcdn": 0,
     "bloomfortune": 0,
     "blubrry": 0,
     "bmdru": 0,
@@ -6452,6 +6452,7 @@ var DOMAINS = {
     "dollf": 0,
     "dongtaiwang": 0,
     "dontmovetochina": 0,
+    "doosho": 0,
     "dotplane": 0,
     "dotsub": 0,
     "dotvpn": 0,
@@ -6861,6 +6862,7 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "mangabz": 0,
     "madrau": 0,
     "madthumbs": 0,
     "martincartoons": 0,
@@ -6927,6 +6929,7 @@ var DOMAINS = {
     "myparagliding": 0,
     "mypopescu": 0,
     "myspacecdn": 0,
+    "newthuhole": 0,
     "nakido": 0,
     "namsisi": 0,
     "nanyang": 0,
@@ -6989,6 +6992,9 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "pendrivelinux": 0,
+    "points-media": 0,
+    "pkuanvil": 0,
     "pachosting": 0,
     "pacopacomama": 0,
     "pagodabox": 0,
@@ -7140,6 +7146,7 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "syosetu": 0,
     "s-cute": 0,
     "s1heng": 0,
     "s8forum": 0,
@@ -7263,6 +7270,7 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "thuhole": 0,
     "t-g": 0,
     "t66y": 0,
     "t91y": {
@@ -7675,6 +7683,7 @@ var DOMAINS = {
     "joinmastodon": 0,
     "msa-it": 0,
     "openvpn": 0,
+    "pixiv": 0,
     "prism-break": 0,
     "tinc-vpn": 0,
     "you-get": 0,
@@ -7840,6 +7849,7 @@ var DOMAINS = {
     "eu": 0,
     "exhentai": 0,
     "exmormon": 0,
+    "f-droid": 0,
     "factpedia": 0,
     "falundafa-florida": 0,
     "falundafa-nc": 0,
@@ -7943,6 +7953,7 @@ var DOMAINS = {
       "@": 0,
       "music": 1
     },
+    "kpkuang": 0,
     "kagyuoffice": 0,
     "kantie": 0,
     "kingdomsalvation": 0,
@@ -8155,6 +8166,7 @@ var DOMAINS = {
     "wexiaobo": 0,
     "whyx": 0,
     "wikileaks": 0,
+    "wilsoncenter": 0,
     "collateralmurder": 0,
     "wikimapia": 0,
     "whispersystems": 0,
@@ -8252,6 +8264,7 @@ var DOMAINS = {
     "cableav": 0,
     "dlive": 0,
     "dropbooks": 0,
+    "hoy": 0,
     "im": {
       "@": 0,
       "myvlog": 1
@@ -8329,6 +8342,7 @@ var DOMAINS = {
       "nic": 0
     },
     "dysfz": 0,
+    "fanbox": 0,
     "gaymap": 0,
     "moeshare": 0,
     "netme": 0,
@@ -8859,6 +8873,7 @@ var DOMAINS = {
       "demo": 0
     },
     "overplay": 0,
+    "photonmedia": 0,
     "panluan": 0,
     "pao-pao": 0,
     "pawoo": 0,
@@ -8931,6 +8946,9 @@ var DOMAINS = {
     "tortoisesvn": 0,
     "tunnelblick": 0,
     "turbobit": 0,
+    "typekit": {
+      "use": 0
+    },
     "lecloud": 0,
     "twstar": 0,
     "uberproxy": 0,
@@ -8996,6 +9014,7 @@ var DOMAINS = {
     "twitter": 0,
     "ameblo": 0,
     "baidu": 0,
+    "ci-en": 0,
     "conoha": 0,
     "dl-laby": 0,
     "epochtimes": 0,
@@ -9462,8 +9481,10 @@ var DOMAINS = {
   },
   "moe": {
     "niu": 0,
+    "bangumi": 0,
     "mymoe": 0,
     "nat": 0,
+    "paimon": 0,
     "skk": {
       "lab": 0
     },
@@ -9550,7 +9571,10 @@ var DOMAINS = {
     "zhenlibu": 0
   },
   "one": {
-    "big": 0
+    "big": 0,
+    "metacubex": {
+      "wiki": 0
+    }
   },
   "ar": {
     "com": {
@@ -9603,6 +9627,7 @@ var DOMAINS = {
       "my-private-network": 0,
       "national-lottery": 0,
       "pinterest": 0,
+      "thechasernews": 0,
       "telegraph": 0,
       "tibetrelieffund": 0,
       "ukliferadio": 0,
@@ -9661,6 +9686,7 @@ var DOMAINS = {
   },
   "se": {
     "facebook": 0,
+    "annas-archive": 0,
     "acgnx": 0,
     "desc": 0,
     "dilber": 0,
@@ -9794,6 +9820,9 @@ var DOMAINS = {
   "world": {
     "6do": 0
   },
+  "rip": {
+    "acg": 0
+  },
   "bar": {
     "alive": 0
   },
@@ -9863,6 +9892,9 @@ var DOMAINS = {
   },
   "ie": {
     "epochtimes": 0
+  },
+  "bg": {
+    "free": 0
   },
   "audio": {
     "fish": 0
@@ -10032,6 +10064,11 @@ var DOMAINS = {
   "sa": {
     "com": {
       "stc": 0
+    }
+  },
+  "monster": {
+    "thu": {
+      "hole": 0
     }
   },
   "nu": {
@@ -10437,7 +10474,6 @@ var BLACKPAT = [
   "*meme.yahoo.com*",
   "*tw.answers.yahoo.com*",
   "https://tw.answers.yahoo.com*",
-  "*tw.yahoo.com*",
   "*tw.myblog.yahoo.com*",
   "*pulse.yahoo.com*",
   "*upcoming.yahoo.com*",
