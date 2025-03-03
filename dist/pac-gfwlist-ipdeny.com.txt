@@ -5606,6 +5606,9 @@ var CHINA = [
 
 var DOMAINS = {
   "com": {
+    "ptwxz": 0,
+    "piaotia": 0,
+    "wunderground": 0,
     "500px": 0,
     "afreecatv": 0,
     "airitilibrary": 0,
@@ -5620,7 +5623,8 @@ var DOMAINS = {
     "banorte": 0,
     "beeg": 0,
     "bing": {
-      "global": 0
+      "global": 0,
+      "sydney": 0
     },
     "boysmaster": 0,
     "carfax": 0,
@@ -5800,14 +5804,12 @@ var DOMAINS = {
     "businessinsider": 0,
     "boomssr": 0,
     "bwgyhw": 0,
-    "chinatimes": 0,
     "depositphotos": 0,
     "documentingreality": 0,
     "doubibackup": 0,
     "encyclopedia": 0,
     "fangeqiang": 0,
     "fanqiangdang": 0,
-    "feedly": 0,
     "flyzy2005": 0,
     "foreignpolicy": 0,
     "goregrish": 0,
@@ -5998,7 +6000,10 @@ var DOMAINS = {
     "adsense": 0,
     "advertisercommunity": 0,
     "agoogleaday": 0,
-    "android": 0,
+    "android": {
+      "@": 0,
+      "ci": 1
+    },
     "androidify": 0,
     "androidtv": 0,
     "appspot": 0,
@@ -6133,38 +6138,7 @@ var DOMAINS = {
       },
       "evchk": 0
     },
-    "flurry": {
-      "data": 0
-    },
-    "yahoo": {
-      "bid": {
-        "page": 0,
-        "tw": 0
-      },
-      "hk": 0,
-      "knowledge": {
-        "hk": 0,
-        "tw": 0
-      },
-      "money": {
-        "tw": 0
-      },
-      "myblog": {
-        "hk": 0
-      },
-      "news": {
-        "hk": 0,
-        "tw": 0
-      },
-      "mall": {
-        "tw": 0
-      },
-      "tw": 0,
-      "mobi": {
-        "tw": 0
-      },
-      "search": 0
-    },
+    "yahoo": 0,
     "000webhost": 0,
     "10musume": 0,
     "12bet": 0,
@@ -6347,6 +6321,9 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "cfsh99": {
+      "zh-hans": 0
+    },
     "c-est-simple": 0,
     "cactusvpn": 0,
     "caijinglengyan": 0,
@@ -6471,6 +6448,7 @@ var DOMAINS = {
     "dw-world": 0,
     "dwnews": 0,
     "dynawebinc": 0,
+    "elconfidencial": 0,
     "e-gold": 0,
     "earthvpn": 0,
     "edubridge": 0,
@@ -6601,7 +6579,6 @@ var DOMAINS = {
     "github": 0,
     "githubcopilot": 0,
     "githubusercontent": 0,
-    "githubassets": 0,
     "gjczz": 0,
     "gmgard": 0,
     "goagentplus": 0,
@@ -6636,6 +6613,7 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "haiwaikan": 0,
     "haijiao": 0,
     "happy-vpn": 0,
     "hardsextube": 0,
@@ -6700,6 +6678,7 @@ var DOMAINS = {
     "hung-ya": 0,
     "hwinfo": 0,
     "hyperrate": 0,
+    "imago-images": 0,
     "i2runner": 0,
     "i818hk": 0,
     "ibvpn": 0,
@@ -6750,6 +6729,8 @@ var DOMAINS = {
     "ivonblog": 0,
     "ixquick": 0,
     "iyouport": 0,
+    "javdb": 0,
+    "jifangge": 0,
     "jackjia": {
       "blog": 0
     },
@@ -6862,6 +6843,11 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "mi": {
+      "c": 0
+    },
+    "missav": 0,
+    "mahjongsoul": 0,
     "mangabz": 0,
     "madrau": 0,
     "madthumbs": 0,
@@ -7146,6 +7132,8 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "slides": 0,
+    "suno": 0,
     "syosetu": 0,
     "s-cute": 0,
     "s1heng": 0,
@@ -7490,7 +7478,6 @@ var DOMAINS = {
     "vrchat": 0,
     "vrporn": 0,
     "vtunnel": 0,
-    "w3schools": 0,
     "waffle1999": 0,
     "wallmama": 0,
     "wallpapercasa": 0,
@@ -7618,7 +7605,6 @@ var DOMAINS = {
     "yzzk": 0,
     "zalmos": 0,
     "zannel": 0,
-    "zaobao": 0,
     "zello": 0,
     "zenmate": 0,
     "zerohedge": 0,
@@ -7656,6 +7642,10 @@ var DOMAINS = {
     "weibo": 1,
     "youdao": 1,
     "zhongsou": 1
+  },
+  "pl": {
+    "miuipolska": 0,
+    "wikileaks": 0
   },
   "org": {
     "500px": 0,
@@ -7716,23 +7706,24 @@ var DOMAINS = {
     "telegram-cdn": 0,
     "teco-hk": 0,
     "teco-mo": 0,
+    "mediawiki": 0,
     "wikidata": 0,
     "wikimedia": 0,
     "wikibooks": 0,
     "wikiversity": 0,
+    "wikisource": 0,
     "wikiquote": {
-      "zh": 0
-    },
-    "wikinews": {
       "zh": 0
     },
     "wikivoyage": 0,
     "wiktionary": 0,
     "wikipedia": 0,
     "wmfusercontent": 0,
+    "18comic": 0,
     "1984bbs": 0,
     "51jav": 0,
     "89-64": 0,
+    "annas-archive": 0,
     "acgbox": 0,
     "aei": 0,
     "airvpn": 0,
@@ -7846,7 +7837,6 @@ var DOMAINS = {
     "engagedaily": 0,
     "ernestmandel": 0,
     "etizer": 0,
-    "eu": 0,
     "exhentai": 0,
     "exmormon": 0,
     "f-droid": 0,
@@ -8057,6 +8047,7 @@ var DOMAINS = {
     "rsf": 0,
     "rsf-chinese": 0,
     "rtalabel": 0,
+    "sehuatang": 0,
     "savetibet": 0,
     "savetibetstore": 0,
     "saveuighur": 0,
@@ -8084,6 +8075,8 @@ var DOMAINS = {
     "statueofdemocracy": 0,
     "studentsforafreetibet": 0,
     "sylfoundation": 0,
+    "tukaani": 0,
+    "thetatoken": 0,
     "taipeisociety": 0,
     "tanc": 0,
     "tbcollege": 0,
@@ -8256,6 +8249,7 @@ var DOMAINS = {
     "periscope": 0,
     "pscp": 0,
     "1pondo": 0,
+    "av01": 0,
     "avdb": 0,
     "bbchat": 0,
     "bb-chat": 0,
@@ -8292,6 +8286,7 @@ var DOMAINS = {
       "1688": 0,
       "9news": 0,
       "aobo": 0,
+      "illawarramercury": 0,
       "oursteps": 0,
       "smh": 0,
       "theaustralian": {
@@ -8324,7 +8319,10 @@ var DOMAINS = {
   "br": {
     "com": {
       "centauro": 0,
-      "jornaldacidadeonline": 0
+      "jornaldacidadeonline": 0,
+      "lorenzetti": {
+        "www": 0
+      }
     },
     "facebook": 0
   },
@@ -8335,6 +8333,7 @@ var DOMAINS = {
     "kknews": 0,
     "5278": 0,
     "b-ok": 0,
+    "clipconverter": 0,
     "cccat": 0,
     "cz": {
       "ifan": 0,
@@ -8344,12 +8343,15 @@ var DOMAINS = {
     "dysfz": 0,
     "fanbox": 0,
     "gaymap": 0,
+    "mywife": 0,
     "moeshare": 0,
     "netme": 0,
     "on": 0,
     "ptt": 0,
     "sex8": 0,
+    "tomp3": 0,
     "tiny": 0,
+    "vern": 0,
     "vocus": 0,
     "vuku": 0,
     "xjp": 0
@@ -8359,20 +8361,22 @@ var DOMAINS = {
     "bitz": 0,
     "api": 0,
     "character": 0,
+    "dify": {
+      "cloud": 0
+    },
     "devv": 0,
     "jan": 0,
     "javfinder": 0,
     "mlc": 0,
     "perplexity": 0,
+    "suno": 0,
     "wombo": 0
   },
   "tw": {
     "com": {
       "cnbeta": 0,
       "dingchin": 0,
-      "yahoo": {
-        "buy": 0
-      },
+      "yahoo": 0,
       "1-apple": 0,
       "appledaily": 0,
       "bnext": 0,
@@ -8386,6 +8390,7 @@ var DOMAINS = {
       "cw": 0,
       "ddc": 0,
       "e-classical": 0,
+      "free": 0,
       "ftv": 0,
       "ftvnews": 0,
       "gamer": 0,
@@ -8547,7 +8552,6 @@ var DOMAINS = {
       "kagyuoffice": 0,
       "lighten": 0,
       "pct": 0,
-      "pts": 0,
       "rti": 0,
       "taedp": 0,
       "taiwanncf": 0,
@@ -8740,6 +8744,7 @@ var DOMAINS = {
     "breakwall": 0,
     "bumingbai": 0,
     "bwh1": 0,
+    "colacloud": 0,
     "cablegatesearch": 0,
     "catch22": 0,
     "ccthere": 0,
@@ -8764,6 +8769,9 @@ var DOMAINS = {
     "dwnews": 0,
     "edgecastcdn": 0,
     "erights": 0,
+    "ettoday": {
+      "*": 0
+    },
     "evschool": 0,
     "exploader": 0,
     "falundafa-pa": 0,
@@ -9049,7 +9057,8 @@ var DOMAINS = {
   },
   "ee": {
     "eesti": 0,
-    "paste": 0
+    "paste": 0,
+    "linktr": 0
   },
   "ru": {
     "fastpic": 0,
@@ -9392,6 +9401,13 @@ var DOMAINS = {
     "pt": 0,
     "zpn": 0
   },
+  "run": {
+    "comfastgpt": {
+      "feedly": 0
+    },
+    "fastgpt": 0,
+    "mangmang": 0
+  },
   "site": {
     "free-ss": 0,
     "wingy": 0
@@ -9417,6 +9433,7 @@ var DOMAINS = {
     "doub": 0,
     "firetweet": 0,
     "fountmedia": 0,
+    "gitbook": 0,
     "geph": 0,
     "git": 0,
     "github": 0,
@@ -9432,6 +9449,7 @@ var DOMAINS = {
     },
     "spatial": 0,
     "storj": 0,
+    "typeset": 0,
     "tianti": 0,
     "twaud": 0,
     "typora": 0,
@@ -9467,7 +9485,8 @@ var DOMAINS = {
   "club": {
     "mohu": 0,
     "91vps": 0,
-    "jfqu36": 0
+    "jfqu36": 0,
+    "madou": 0
   },
   "ml": {
     "mohu": 0,
@@ -9691,9 +9710,11 @@ var DOMAINS = {
     "desc": 0,
     "dilber": 0,
     "epochtimes": 0,
+    "go-to-zlibrary": 0,
     "ipredator": 0,
     "nobel": 0,
-    "pinterest": 0
+    "pinterest": 0,
+    "singlelogin": 0
   },
   "watch": {
     "fb": 0
@@ -9745,6 +9766,9 @@ var DOMAINS = {
     "google": 0,
     "tfhub": 0,
     "web": 0,
+    "unlock-music": {
+      "demo": 0
+    },
     "workers": 0
   },
   "how": {
@@ -9893,6 +9917,9 @@ var DOMAINS = {
   "ie": {
     "epochtimes": 0
   },
+  "zone": {
+    "froth": 0
+  },
   "bg": {
     "free": 0
   },
@@ -9919,6 +9946,9 @@ var DOMAINS = {
   "school": {
     "goodhope": 0
   },
+  "saxo": {
+    "home": 0
+  },
   "live": {
     "hkmap": 0,
     "inherit": 0
@@ -9938,7 +9968,10 @@ var DOMAINS = {
     "ibit": 0
   },
   "tech": {
-    "igfw": 0
+    "igfw": 0,
+    "funami": {
+      "wikiless": 0
+    }
   },
   "ly": {
     "img": 0,
@@ -9968,8 +10001,17 @@ var DOMAINS = {
     "localdomain": 0,
     "rmbl": 0
   },
-  "run": {
-    "mangmang": 0
+  "org/*-*/firefox/addon/ublock-origin/*": {
+    "mozilla": {
+      "addons": 0
+    }
+  },
+  "xpi": {
+    "org/firefox/downloads/file/*/ublock_origin-*": {
+      "mozilla": {
+        "addons": 0
+      }
+    }
   },
   "town": {
     "matters": 0
@@ -10095,9 +10137,6 @@ var DOMAINS = {
   },
   "com/": {
     "wforum": 0
-  },
-  "pl": {
-    "wikileaks": 0
   },
   "tc": {
     "wo": 0
@@ -10466,18 +10505,7 @@ var BLACKPAT = [
   "*zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82*",
   "*cn.uncyclopedia.wikia.com*",
   "*zh.uncyclopedia.wikia.com*",
-  "http://zh.wikisource.org*",
-  "*news.yahoo.com/china-blocks-bbc*",
-  "*hk.rd.yahoo.com*",
-  "*hk.search.yahoo.com/search*",
-  "*hk.video.news.yahoo.com/video*",
-  "*meme.yahoo.com*",
-  "*tw.answers.yahoo.com*",
-  "https://tw.answers.yahoo.com*",
-  "*tw.myblog.yahoo.com*",
-  "*pulse.yahoo.com*",
-  "*upcoming.yahoo.com*",
-  "*video.yahoo.com*",
+  "*wikinews.org*",
   "*.030buy.com*",
   "*.0rz.tw*",
   "http://0rz.tw*",
@@ -11358,9 +11386,7 @@ var BLACKPAT = [
   "*.etaa.org.au*",
   "*.etadult.com*",
   "*etaiwannews.com*",
-  "*.ettoday.net/news/20151216/614081*",
   "*etvonline.hk*",
-  "*.eu.org*",
   "*.eucasino.com*",
   "*.eulam.com*",
   "*.eurekavpt.com*",
@@ -13782,7 +13808,6 @@ var BLACKPAT = [
   "*.yzzk.com*",
   "*zacebook.com*",
   "*.zalmos.com*",
-  "*.zaobao.com*",
   "*.zaozon.com*",
   "*.zello.com*",
   "*.zengjinyan.org*",
