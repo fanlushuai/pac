@@ -5606,6 +5606,7 @@ var CHINA = [
 
 var DOMAINS = {
   "com": {
+    "zoominfo": 0,
     "ptwxz": 0,
     "piaotia": 0,
     "wunderground": 0,
@@ -5624,6 +5625,7 @@ var DOMAINS = {
     "beeg": 0,
     "bing": {
       "global": 0,
+      "www": 0,
       "sydney": 0
     },
     "boysmaster": 0,
@@ -5652,7 +5654,7 @@ var DOMAINS = {
     "fnac": 0,
     "funkyimg": 0,
     "fxnetworks": 0,
-    "gettyimages": 0,
+    "gettyimages": 1,
     "getuploader": 0,
     "glype": 0,
     "go141": 0,
@@ -5674,10 +5676,6 @@ var DOMAINS = {
     },
     "ilbe": 0,
     "ilovelongtoes": 0,
-    "imlive": 0,
-    "iqiyi": {
-      "tw": 0
-    },
     "javhuge": 0,
     "javlibrary": 0,
     "jcpenney": 0,
@@ -5788,6 +5786,19 @@ var DOMAINS = {
     "zamimg": 0,
     "zattoo": 0,
     "zozotown": 0,
+    "c3pool": 0,
+    "unmineable": 0,
+    "antpool": 0,
+    "cruxpool": 0,
+    "miningpoolhub": 0,
+    "huobipool": 0,
+    "poolbinance": 0,
+    "sparkpool": 0,
+    "xnpool": 0,
+    "beepool": 0,
+    "spiderpool": 0,
+    "btc": 0,
+    "w-pool": 0,
     "xn--4gq171p": 0,
     "xn--i2ru8q2qg": 0,
     "xn--noss43i": 0,
@@ -5955,6 +5966,9 @@ var DOMAINS = {
     "xbtce": 0,
     "zb": 0,
     "read01": 0,
+    "datalabour": {
+      "social": 0
+    },
     "aol": {
       "aolchannels": 0,
       "video": 0,
@@ -5995,6 +6009,14 @@ var DOMAINS = {
       "hongkong": 0
     },
     "ftchinese": 0,
+    "googleapis": {
+      "translate": 0,
+      "clientservices": 1,
+      "fonts": 1,
+      "storage": 1,
+      "update": 1,
+      "safebrowsing": 1
+    },
     "466453": 0,
     "admob": 0,
     "adsense": 0,
@@ -6028,14 +6050,6 @@ var DOMAINS = {
     "ggpht": 0,
     "gmail": 0,
     "gmodules": 0,
-    "googleapis": {
-      "@": 0,
-      "clientservices": 1,
-      "fonts": 1,
-      "storage": 1,
-      "update": 1,
-      "safebrowsing": 1
-    },
     "googleapps": 0,
     "googleartproject": 0,
     "googleblog": 0,
@@ -6109,8 +6123,10 @@ var DOMAINS = {
     "nytstyle": 0,
     "steamcommunity": 0,
     "steampowered": {
-      "store": 0
+      "store": 0,
+      "api": 0
     },
+    "steamstatic": 0,
     "tdesktop": {
       "updates": 0
     },
@@ -6139,6 +6155,7 @@ var DOMAINS = {
       "evchk": 0
     },
     "yahoo": 0,
+    "611study": 0,
     "000webhost": 0,
     "10musume": 0,
     "12bet": 0,
@@ -6170,6 +6187,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "akinator": 0,
     "a-normal-day": 0,
     "aboluowang": 0,
     "acast": 0,
@@ -6238,6 +6256,7 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "blocktempo": 0,
     "babylonbee": 0,
     "backchina": 0,
     "badiucao": 0,
@@ -6406,6 +6425,7 @@ var DOMAINS = {
     "curvefish": 0,
     "cyberghostvpn": 0,
     "cynscribe": 0,
+    "doubiyunbackup": 0,
     "dadazim": 0,
     "dailidaili": 0,
     "dailymotion": 0,
@@ -6448,6 +6468,9 @@ var DOMAINS = {
     "dw-world": 0,
     "dwnews": 0,
     "dynawebinc": 0,
+    "etherscan": {
+      "cn": 0
+    },
     "elconfidencial": 0,
     "e-gold": 0,
     "earthvpn": 0,
@@ -6595,10 +6618,7 @@ var DOMAINS = {
     "goreforum": 0,
     "gotrusted": 0,
     "grammaly": 0,
-    "gravatar": {
-      "@": 0,
-      "cn": 1
-    },
+    "gravatar": 0,
     "grindr": 0,
     "grotty-monday": 0,
     "gtricks": 0,
@@ -6729,6 +6749,7 @@ var DOMAINS = {
     "ivonblog": 0,
     "ixquick": 0,
     "iyouport": 0,
+    "jav321": 0,
     "javdb": 0,
     "jifangge": 0,
     "jackjia": {
@@ -6843,6 +6864,7 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "mercari": 0,
     "mi": {
       "c": 0
     },
@@ -6955,6 +6977,8 @@ var DOMAINS = {
     "nvdst": 0,
     "nybooks": 0,
     "nypost": 0,
+    "onedrive": 0,
+    "olelive": 0,
     "oann": 0,
     "odysee": 0,
     "officeoftibet": 0,
@@ -6978,6 +7002,7 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "potatso": 0,
     "pendrivelinux": 0,
     "points-media": 0,
     "pkuanvil": 0,
@@ -7198,7 +7223,6 @@ var DOMAINS = {
     "smartmailcloud": {
       "app": 0
     },
-    "snapchat": 0,
     "snaptu": 0,
     "sndcdn": 0,
     "socialblade": 0,
@@ -7258,6 +7282,8 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "tinyurl": 0,
+    "textnow": 0,
     "thuhole": 0,
     "t-g": 0,
     "t66y": 0,
@@ -7433,6 +7459,7 @@ var DOMAINS = {
     "uwants": 0,
     "uyghurpress": 0,
     "uyghurtribunal": 0,
+    "vocaroo": 0,
     "v2ray": 0,
     "v2raycn": 0,
     "v2raytech": 0,
@@ -7536,7 +7563,8 @@ var DOMAINS = {
       "minghuiyw": 0,
       "wo3ttt": 0,
       "sujiatun": 0,
-      "xijie": 0
+      "xijie": 0,
+      "ifreechina": 0
     },
     "wp": 0,
     "wowporn": 0,
@@ -7549,6 +7577,7 @@ var DOMAINS = {
     "wujieliulan": 0,
     "wuyanblog": 0,
     "wwitv": 0,
+    "xt": 0,
     "x-berry": 0,
     "x-art": 0,
     "x3guide": 0,
@@ -7603,6 +7632,8 @@ var DOMAINS = {
     "yulghun": 0,
     "yvesgeleyn": 0,
     "yzzk": 0,
+    "zhongzidi": 0,
+    "zooqle": 0,
     "zalmos": 0,
     "zannel": 0,
     "zello": 0,
@@ -7661,6 +7692,10 @@ var DOMAINS = {
     "pytorch": 0,
     "soylentnews": 0,
     "sprite": 0,
+    "crazypool": 0,
+    "flypool": 0,
+    "nanopool": 0,
+    "beepool": 0,
     "xn--czq75pvv1aj5c": 0,
     "bitterwinter": 0,
     "cmcn": 0,
@@ -7764,6 +7799,7 @@ var DOMAINS = {
     "bullog": 0,
     "business-humanrights": 0,
     "bypasscensorship": 0,
+    "crosswall": 0,
     "c-span": 0,
     "c-spanvideo": 0,
     "campaignforuyghurs": 0,
@@ -7839,6 +7875,7 @@ var DOMAINS = {
     "etizer": 0,
     "exhentai": 0,
     "exmormon": 0,
+    "freess": 0,
     "f-droid": 0,
     "factpedia": 0,
     "falundafa-florida": 0,
@@ -7869,6 +7906,7 @@ var DOMAINS = {
     "frontlinedefenders": 0,
     "fscked": 0,
     "futuremessage": 0,
+    "gfwatch": 0,
     "gardennetworks": 0,
     "getfoxyproxy": 0,
     "getlantern": 0,
@@ -7967,6 +8005,9 @@ var DOMAINS = {
     "lupm": 0,
     "lvhai": 0,
     "lzmtnews": 0,
+    "moegirl": {
+      "m": 0
+    },
     "matrix": 0,
     "md-t": 0,
     "mercyprophet": 0,
@@ -8146,6 +8187,7 @@ var DOMAINS = {
     "vimperator": 0,
     "voicettank": 0,
     "vot": 0,
+    "work2icu": 0,
     "waltermartin": 0,
     "wan-press": {
       "www": 0
@@ -8266,6 +8308,7 @@ var DOMAINS = {
     "iwara": 0,
     "jable": 0,
     "landofhope": 0,
+    "nbyy": 0,
     "ntd": 0,
     "tibetonline": 0,
     "top": 0,
@@ -8328,6 +8371,7 @@ var DOMAINS = {
   },
   "cc": {
     "chobit": 0,
+    "binancezh": 0,
     "xn--oiq": 0,
     "nitter": 0,
     "kknews": 0,
@@ -8389,6 +8433,7 @@ var DOMAINS = {
       "cts": 0,
       "cw": 0,
       "ddc": 0,
+      "epochtimes": 0,
       "e-classical": 0,
       "free": 0,
       "ftv": 0,
@@ -8586,6 +8631,7 @@ var DOMAINS = {
     },
     "im88": 0,
     "inote": 0,
+    "myjs": 0,
     "memes": 0,
     "moptt": 0,
     "newtalk": 0,
@@ -8605,6 +8651,7 @@ var DOMAINS = {
     "counter": 0,
     "g0v": 0,
     "mastodon": 0,
+    "mstdn": 0,
     "bsky": 0,
     "chaos": 0
   },
@@ -8665,6 +8712,8 @@ var DOMAINS = {
     "nflxvideo": 0,
     "ulop": 0,
     "wizcrafts": 0,
+    "hiveon": 0,
+    "r-pool": 0,
     "behance": 0,
     "daum": 0,
     "feedx": 0,
@@ -8680,9 +8729,7 @@ var DOMAINS = {
     "livecoin": 0,
     "yobit": 0,
     "china-mmm": 0,
-    "cloudfront": {
-      "d3rhr7kgmtrq1v": 0
-    },
+    "cloudfront": 0,
     "facebook": {
       "connect": 0
     },
@@ -8732,6 +8779,8 @@ var DOMAINS = {
     "azurewebsites": {
       "boxun*": 0
     },
+    "btbit": 0,
+    "betaclouds": 0,
     "bayvoice": 0,
     "bestvpnforchina": 0,
     "bloodshed": 0,
@@ -8777,6 +8826,14 @@ var DOMAINS = {
     "falundafa-pa": 0,
     "falunworld": 0,
     "fastly": {
+      "ssl": {
+        "global": {
+          "*": 0
+        }
+      },
+      "freetls": {
+        "*": 0
+      },
       "map": {
         "nytimes": 0
       }
@@ -8843,6 +8900,7 @@ var DOMAINS = {
     "ironpython": 0,
     "ismprofessional": 0,
     "ivpn": 0,
+    "justmysocks": 0,
     "javmobile": 0,
     "jsdelivr": 0,
     "jshell": {
@@ -8979,6 +9037,9 @@ var DOMAINS = {
     "wsj": 0,
     "xiaxiaoqiang": 0,
     "xuchao": 0,
+    "yandex": {
+      "storage": 0
+    },
     "yecl": 0,
     "yegle": 0,
     "yhcw": 0,
@@ -9005,7 +9066,8 @@ var DOMAINS = {
       },
       "kadokawa": 0,
       "kk-whys": 0,
-      "oricon": 0
+      "oricon": 0,
+      "rakuten": 0
     },
     "kawaiikawaii": 0,
     "mvg": 0,
@@ -9031,11 +9093,13 @@ var DOMAINS = {
       "www": 1
     },
     "eyevio": 0,
+    "fril": 0,
     "giga-web": 0,
     "go": {
       "jma": 0,
       "npa": 0
     },
+    "mercari": 0,
     "megalodon": 0,
     "mixi": 0,
     "naver": {
@@ -9045,6 +9109,7 @@ var DOMAINS = {
     "nicovideo": 0,
     "orn": 0,
     "pinterest": 0,
+    "r10s": 0,
     "tibethouse": 0,
     "twipple": 0,
     "vpngate": 0,
@@ -9091,6 +9156,35 @@ var DOMAINS = {
     "ilove80": 0,
     "lesoir": 0
   },
+  "*": {
+    "gettyimages": 0
+  },
+  "cn": {
+    "gettyimages": 1,
+    "666pool": 0,
+    "uupool": 0,
+    "bloomberg": 0,
+    "google": {
+      "groups": 0,
+      "translate": 1
+    },
+    "jpush": 1,
+    "daxa": 0,
+    "lightnovel": 0,
+    "org": {
+      "openwrt": 1
+    },
+    "com": {
+      "wallproxy": 1,
+      "sina": 1,
+      "uluai": 1
+    },
+    "zmw": 0,
+    "ip": 1,
+    "gov": 1,
+    "sina": 1,
+    "yahoo": 1
+  },
   "eu": {
     "glass8": 0,
     "xiaomi": 0,
@@ -9113,6 +9207,7 @@ var DOMAINS = {
     "hmvdigital": 0,
     "wenzhao": 0,
     "bcex": 0,
+    "o3o": 0,
     "24hrs": 0,
     "51": 0,
     "cbc": 0,
@@ -9131,11 +9226,38 @@ var DOMAINS = {
     "toptip": 0,
     "uyghurcanadian": 0
   },
+  "co": {
+    "imlive": 0,
+    "podcast": 0,
+    "bnn": 0,
+    "huobi": 0,
+    "g": 0,
+    "t": 0,
+    "vine": 0,
+    "allconnected": 0,
+    "betternet": 0,
+    "bnews": 0,
+    "carrd": 0,
+    "cccat": 0,
+    "cochina": 0,
+    "decodet": 0,
+    "feeder": 0,
+    "huggingface": 0,
+    "kuaichedao": 0,
+    "pandapow": 0,
+    "radioline": 0,
+    "tcpspeed": 0,
+    "net": {
+      "twister": 0
+    },
+    "x": 0
+  },
   "kg": {
     "lih": 0
   },
   "me": {
     "mangafox": 0,
+    "okpool": 0,
     "disconnect": 0,
     "glorystar": 0,
     "lighti": 0,
@@ -9147,6 +9269,7 @@ var DOMAINS = {
     "zzcloud": 0,
     "exrates": 0,
     "huobi": 0,
+    "bgme": 0,
     "fb": 0,
     "m": 0,
     "nytcn": 0,
@@ -9221,31 +9344,6 @@ var DOMAINS = {
   "cz": {
     "ntdtv": 0
   },
-  "co": {
-    "podcast": 0,
-    "bnn": 0,
-    "huobi": 0,
-    "g": 0,
-    "t": 0,
-    "vine": 0,
-    "allconnected": 0,
-    "betternet": 0,
-    "bnews": 0,
-    "carrd": 0,
-    "cccat": 0,
-    "cochina": 0,
-    "decodet": 0,
-    "feeder": 0,
-    "huggingface": 0,
-    "kuaichedao": 0,
-    "pandapow": 0,
-    "radioline": 0,
-    "tcpspeed": 0,
-    "net": {
-      "twister": 0
-    },
-    "x": 0
-  },
   "pro": {
     "popai": 0,
     "huobi": 0,
@@ -9301,7 +9399,67 @@ var DOMAINS = {
     "tweetmylast": 0
   },
   "vn": {
-    "zim": 0
+    "zim": 0,
+    "archive": 0
+  },
+  "top": {
+    "zhizhu": 0,
+    "dpool": 0
+  },
+  "io": {
+    "flexpool": 0,
+    "ipfs": 0,
+    "nofile": 0,
+    "six-degrees": 0,
+    "dragonex": 0,
+    "etherscan": 0,
+    "gate": 0,
+    "opensea": 0,
+    "simpleswap": 0,
+    "gcr": 0,
+    "getmdl": 0,
+    "material": 0,
+    "shattered": 0,
+    "apiary": 0,
+    "bwbx": {
+      "assets": 0
+    },
+    "codeshare": 0,
+    "doub": 0,
+    "firetweet": 0,
+    "fountmedia": 0,
+    "gitbook": 0,
+    "geph": 0,
+    "git": 0,
+    "github": 0,
+    "hackmd": 0,
+    "mathable": 0,
+    "mega": 0,
+    "mod": 0,
+    "pen": 0,
+    "statically": {
+      "cdn": 0
+    },
+    "scramble": 0,
+    "soup": {
+      "@": 0,
+      "static": 1
+    },
+    "spatial": 0,
+    "storj": 0,
+    "tardigrade": 0,
+    "typeset": 0,
+    "tianti": 0,
+    "twaud": 0,
+    "typora": 0,
+    "z-lib": 0,
+    "zeronet": 0
+  },
+  "icu": {
+    "xn--11xs86f": 0,
+    "611study": 0,
+    "unstable": 0,
+    "xixicui": 0
   },
   "xn--q9jyb4c": {
     "xn--p8j9a0d9c9a": 0
@@ -9363,6 +9521,7 @@ var DOMAINS = {
     "hku": {
       "jmsc": 0
     },
+    "litenews": 0,
     "lausan": 0,
     "left21": 0,
     "ourtv": 0,
@@ -9375,6 +9534,7 @@ var DOMAINS = {
   },
   "space": {
     "bangdream": 0,
+    "douchi": 0,
     "telegram": 0,
     "luckydesigner": 0
   },
@@ -9399,6 +9559,8 @@ var DOMAINS = {
     "lala": 0,
     "monica": 0,
     "pt": 0,
+    "token": 0,
+    "tokenlon": 0,
     "zpn": 0
   },
   "run": {
@@ -9411,50 +9573,6 @@ var DOMAINS = {
   "site": {
     "free-ss": 0,
     "wingy": 0
-  },
-  "io": {
-    "ipfs": 0,
-    "nofile": 0,
-    "six-degrees": 0,
-    "dragonex": 0,
-    "etherscan": 0,
-    "gate": 0,
-    "opensea": 0,
-    "simpleswap": 0,
-    "gcr": 0,
-    "getmdl": 0,
-    "material": 0,
-    "shattered": 0,
-    "apiary": 0,
-    "bwbx": {
-      "assets": 0
-    },
-    "codeshare": 0,
-    "doub": 0,
-    "firetweet": 0,
-    "fountmedia": 0,
-    "gitbook": 0,
-    "geph": 0,
-    "git": 0,
-    "github": 0,
-    "hackmd": 0,
-    "mathable": 0,
-    "mega": 0,
-    "mod": 0,
-    "pen": 0,
-    "scramble": 0,
-    "soup": {
-      "@": 0,
-      "static": 1
-    },
-    "spatial": 0,
-    "storj": 0,
-    "typeset": 0,
-    "tianti": 0,
-    "twaud": 0,
-    "typora": 0,
-    "z-lib": 0,
-    "zeronet": 0
   },
   "cloud": {
     "mastodon": 0,
@@ -9470,6 +9588,7 @@ var DOMAINS = {
     "hexieshe": 0,
     "honven": 0,
     "jfqu37": 0,
+    "mirror": 0,
     "uvwxyz": 0,
     "yyjlymb": 0
   },
@@ -9501,6 +9620,7 @@ var DOMAINS = {
   "moe": {
     "niu": 0,
     "bangumi": 0,
+    "catbox": 0,
     "mymoe": 0,
     "nat": 0,
     "paimon": 0,
@@ -9526,6 +9646,9 @@ var DOMAINS = {
     },
     "devio": 0,
     "dit-inc": 0,
+    "donmai": {
+      "danbooru": 0
+    },
     "eastturkistangovernmentinexile": 0,
     "flgg": 0,
     "foxdie": 0,
@@ -9537,6 +9660,7 @@ var DOMAINS = {
     "livingonline": 0,
     "nobodycanstop": 0,
     "referer": 0,
+    "ssrshare": 0,
     "sadpanda": 0,
     "srocket": 0,
     "thedw": 0,
@@ -9628,6 +9752,34 @@ var DOMAINS = {
   "finance": {
     "solv": 0
   },
+  "dev": {
+    "go5": 0,
+    "get": 0,
+    "google": 0,
+    "tfhub": 0,
+    "web": 0,
+    "unlock-music": {
+      "demo": 0
+    },
+    "workers": 0
+  },
+  "ci": {
+    "ns": {
+      "me": 0
+    },
+    "edu": {
+      "social": 0
+    }
+  },
+  "sale": {
+    "moresci": 0
+  },
+  "onl": {
+    "slashine": 0
+  },
+  "online": {
+    "mastodon": 0
+  },
   "pw": {
     "avmoo": 0
   },
@@ -9663,30 +9815,6 @@ var DOMAINS = {
       "myforum": 0
     }
   },
-  "cn": {
-    "bloomberg": 0,
-    "googleapis": 0,
-    "google": {
-      "groups": 0,
-      "translate": 1
-    },
-    "jpush": 1,
-    "daxa": 0,
-    "lightnovel": 0,
-    "org": {
-      "openwrt": 1
-    },
-    "com": {
-      "wallproxy": 1,
-      "sina": 1,
-      "uluai": 1
-    },
-    "zmw": 0,
-    "ip": 1,
-    "gov": 1,
-    "sina": 1,
-    "yahoo": 1
-  },
   "design": {
     "facebook": 0
   },
@@ -9714,6 +9842,7 @@ var DOMAINS = {
     "ipredator": 0,
     "nobel": 0,
     "pinterest": 0,
+    "share-videos": 0,
     "singlelogin": 0
   },
   "watch": {
@@ -9760,16 +9889,6 @@ var DOMAINS = {
     "glarity": 0,
     "rsshub": 0,
     "vercel": 0
-  },
-  "dev": {
-    "get": 0,
-    "google": 0,
-    "tfhub": 0,
-    "web": 0,
-    "unlock-music": {
-      "demo": 0
-    },
-    "workers": 0
   },
   "how": {
     "get": 0
@@ -9823,6 +9942,7 @@ var DOMAINS = {
     "uk": {
       "siteks": 0
     },
+    "torrentgalaxy": 0,
     "tibet": 0
   },
   "city": {
@@ -9835,11 +9955,6 @@ var DOMAINS = {
     "2047": 0,
     "hidemy": 0,
     "psblog": 0
-  },
-  "icu": {
-    "611study": 0,
-    "unstable": 0,
-    "xixicui": 0
   },
   "world": {
     "6do": 0
@@ -9866,6 +9981,11 @@ var DOMAINS = {
   },
   "md": {
     "archive": 0
+  },
+  "today": {
+    "archive": 0,
+    "qiandao": 0,
+    "twelve": 0
   },
   "su": {
     "arethusa": 0
@@ -9903,6 +10023,9 @@ var DOMAINS = {
   "xxx": {
     "catfightpayperview": 0,
     "rule34": 0
+  },
+  "cash": {
+    "d": 0
   },
   "mobi": {
     "dabr": 0
@@ -9946,6 +10069,15 @@ var DOMAINS = {
   "school": {
     "goodhope": 0
   },
+  "tr": {
+    "com": {
+      "halktv": 0,
+      "kanald": 0
+    },
+    "net": {
+      "trt": 0
+    }
+  },
   "saxo": {
     "home": 0
   },
@@ -9960,6 +10092,9 @@ var DOMAINS = {
   },
   "men": {
     "hsex": 0
+  },
+  "works": {
+    "improd": 0
   },
   "bz": {
     "iask": 0
@@ -10071,10 +10206,6 @@ var DOMAINS = {
   "sh": {
     "ppy": 0
   },
-  "today": {
-    "qiandao": 0,
-    "twelve": 0
-  },
   "lu": {
     "qiwen": 0,
     "wikileaks": 0
@@ -10116,10 +10247,8 @@ var DOMAINS = {
   "nu": {
     "tibet": 0
   },
-  "tr": {
-    "net": {
-      "trt": 0
-    }
+  "help": {
+    "v2": 0
   },
   "va": {
     "vaticannews": 0
@@ -10143,6 +10272,9 @@ var DOMAINS = {
   },
   "red": {
     "wuw": 0
+  },
+  "pub": {
+    "xt": 0
   },
   "sk": {
     "yadi": 0
@@ -10379,12 +10511,6 @@ var BLACKPAT = [
   "*.yourtrap.com*",
   "*.zyns.com*",
   "*.zzux.com*",
-  "*d1b183sg0nvnuh.cloudfront.net*",
-  "https://d1b183sg0nvnuh.cloudfront.net*",
-  "*d1c37gjwa26taa.cloudfront.net*",
-  "https://d1c37gjwa26taa.cloudfront.net*",
-  "*d3c33hcgiwev3.cloudfront.net*",
-  "https://d3c33hcgiwev3.cloudfront.net*",
   "*.3d-game.com*",
   "*.4irc.com*",
   "*.b0ne.com*",
@@ -10411,7 +10537,6 @@ var BLACKPAT = [
   "*.dynu.com*",
   "*.dynu.net*",
   "*.freeddns.org*",
-  "*cdninstagram.com*",
   "*.facebook.com*",
   "*.instagram.com*",
   "*.ftchinese.com*",
@@ -10710,10 +10835,6 @@ var BLACKPAT = [
   "http://appshopper.com*",
   "*.aptoide.com*",
   "*.archive.fo*",
-  "*.archive.is*",
-  "*.archive.li*",
-  "*archive.today*",
-  "https://archive.today*",
   "*.arctosia.com*",
   "*.arethusa.su*",
   "*.art4tibet1998.org*",
@@ -11257,7 +11378,6 @@ var BLACKPAT = [
   "*dongtaiwang.com*",
   "*.dongtaiwang.net*",
   "*.dongyangjing.com*",
-  "http://danbooru.donmai.us*",
   "*.dontfilter.us*",
   "*.dorjeshugden.com*",
   "*.dotplane.com*",
@@ -12477,7 +12597,6 @@ var BLACKPAT = [
   "*.nhentai.net*",
   "http://nhentai.net*",
   "*.nhk-ondemand.jp*",
-  "*.nicovideo.jp/watch*",
   "*av.nightlife141.com*",
   "*ninecommentaries.com*",
   "*.ninjacloak.com*",
