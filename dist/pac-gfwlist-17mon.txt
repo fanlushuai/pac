@@ -7563,6 +7563,366 @@ var CHINA = [
 ];
 
 var DOMAINS = {
+  "net": {
+    "blogjav": 0,
+    "discordapp": 0,
+    "dm530": 0,
+    "fakku": 0,
+    "hinet": {
+      "cdn": {
+        "gamer-cds": 0,
+        "gamer2-cds": 0
+      }
+    },
+    "javhub": 0,
+    "jims": 0,
+    "matome-plus": 0,
+    "mattwilcox": 0,
+    "netflix": 0,
+    "nflximg": 0,
+    "nflxso": 0,
+    "nflxvideo": 0,
+    "ulop": 0,
+    "wizcrafts": 0,
+    "hiveon": 0,
+    "r-pool": 0,
+    "behance": 0,
+    "daum": 0,
+    "feedx": 0,
+    "jintian": 0,
+    "line-scdn": 0,
+    "nitter": 0,
+    "pixiv": 0,
+    "pixivsketch": 0,
+    "quoracdn": 0,
+    "sspanel": 0,
+    "taiwanjustice": 0,
+    "bitbay": 0,
+    "livecoin": 0,
+    "yobit": 0,
+    "china-mmm": 0,
+    "cloudfront": 0,
+    "facebook": {
+      "connect": 0
+    },
+    "fbcdn": 0,
+    "threads": 0,
+    "whatsapp": 0,
+    "1e100": 0,
+    "cloudfunctions": 0,
+    "googlefiber": 0,
+    "googlezip": 0,
+    "recaptcha": {
+      "admin": 0,
+      "api": 0,
+      "api-secure": 0,
+      "api-verify": 0
+    },
+    "jtvnw": 0,
+    "ttvnw": 0,
+    "twitchcdn": 0,
+    "yahoo": {
+      "duckduckgo-owned-server": 0
+    },
+    "1000giri": 0,
+    "10beasts": 0,
+    "12vpn": 0,
+    "8z1": 0,
+    "9bis": 0,
+    "ai-kan": 0,
+    "aiph": 0,
+    "akamai": {
+      "e": {
+        "a248": 0
+      }
+    },
+    "akamaized": {
+      "abematv": 0,
+      "linear-abematv": 0,
+      "vod-abematv": 0
+    },
+    "al-qimmah": 0,
+    "alforattv": 0,
+    "alwaysdata": 0,
+    "andfaraway": 0,
+    "apkpure": 0,
+    "appsocks": 0,
+    "askynz": 0,
+    "azurewebsites": {
+      "boxun*": 0
+    },
+    "btbit": 0,
+    "betaclouds": 0,
+    "bayvoice": 0,
+    "bestvpnforchina": 0,
+    "bloodshed": 0,
+    "bolehvpn": 0,
+    "box": {
+      "dl": 0,
+      "developers": 0
+    },
+    "bravotube": 0,
+    "breakwall": 0,
+    "bumingbai": 0,
+    "bwh1": 0,
+    "colacloud": 0,
+    "cablegatesearch": 0,
+    "catch22": 0,
+    "ccthere": 0,
+    "chinaaid": 0,
+    "chinadigitaltimes": 0,
+    "classicalguitarblog": 0,
+    "creaders": 0,
+    "crossthewall": 0,
+    "crossvpn": 0,
+    "cuiweiping": 0,
+    "cutscenes": 0,
+    "d100": 0,
+    "danke4china": 0,
+    "delcamp": 0,
+    "deviantart": 0,
+    "furl": 0,
+    "dmcdn": 0,
+    "dnssec": 0,
+    "dongtaiwang": 0,
+    "douhokanko": 0,
+    "drgan": 0,
+    "dwnews": 0,
+    "edgecastcdn": 0,
+    "erights": 0,
+    "ettoday": {
+      "*": 0
+    },
+    "evschool": 0,
+    "exploader": 0,
+    "falundafa-pa": 0,
+    "falunworld": 0,
+    "fastly": {
+      "ssl": {
+        "global": {
+          "*": 0
+        }
+      },
+      "freetls": {
+        "*": 0
+      },
+      "map": {
+        "nytimes": 0
+      }
+    },
+    "faz": 0,
+    "fengzhenghu": 0,
+    "findyoutube": 0,
+    "flowhongkong": 0,
+    "freeyoutubeproxy": 0,
+    "frommel": 0,
+    "fuckcnnic": 0,
+    "gaoming": 0,
+    "geek-art": 0,
+    "geti2p": 0,
+    "gizlen": 0,
+    "globaljihad": 0,
+    "globalrescue": 0,
+    "globalvpn": 0,
+    "gmx": {
+      "suche": 0
+    },
+    "greatfirewallofchina": 0,
+    "greenvpn": 0,
+    "hackthatphone": 0,
+    "hdtvb": 0,
+    "he": {
+      "ordns": 0
+    },
+    "hecaitou": 0,
+    "helixstudios": {
+      "cdn": 0
+    },
+    "heqinglian": 0,
+    "hexxeh": 0,
+    "hideman": 0,
+    "hihistory": 0,
+    "hkacg": 0,
+    "hkusu": 0,
+    "homeip": {
+      "derekhsu": 0
+    },
+    "hsjp": 0,
+    "htkou": 0,
+    "huping": 0,
+    "hutianyi": 0,
+    "iavian": 0,
+    "iblogserv-f": 0,
+    "icedrive": 0,
+    "iconfactory": {
+      "warbler": 0
+    },
+    "igcd": 0,
+    "igfw": 0,
+    "ignitedetroit": 0,
+    "ihakka": 0,
+    "imgchili": 0,
+    "imagezilla": 0,
+    "inkbunny": 0,
+    "inmediahk": 0,
+    "ipjetable": 0,
+    "compython": {
+      "ironbigfools": 0
+    },
+    "ironpython": 0,
+    "ismprofessional": 0,
+    "ivpn": 0,
+    "justmysocks": 0,
+    "javmobile": 0,
+    "jsdelivr": 0,
+    "jshell": {
+      "fiddle": 0
+    },
+    "junefourth-20": 0,
+    "junglobal": {
+      "bbs": 0
+    },
+    "justmysocks1": 0,
+    "k-doujin": 0,
+    "keontech": 0,
+    "kompozer": 0,
+    "kqes": 0,
+    "laqingdan": 0,
+    "leafyvpn": 0,
+    "letscorp": 0,
+    "liangyou": 0,
+    "liaowangxizang": 0,
+    "liuxiaobo": 0,
+    "longtermly": 0,
+    "marxist": 0,
+    "mercdn": 0,
+    "minzhuhua": 0,
+    "mobatek": 0,
+    "mullvad": 0,
+    "muzi": 0,
+    "naitik": 0,
+    "nekoslovakia": 0,
+    "neowin": 0,
+    "nutaku": 0,
+    "opendemocracy": 0,
+    "openid": 0,
+    "openvpn": 0,
+    "opera-mini": {
+      "demo": 0
+    },
+    "overplay": 0,
+    "photonmedia": 0,
+    "panluan": 0,
+    "pao-pao": 0,
+    "pawoo": 0,
+    "oauth": {
+      "wiki": 0
+    },
+    "peing": 0,
+    "penchinese": 0,
+    "pentalogic": {
+      "blog": 0
+    },
+    "photodharma": 0,
+    "pixnet": 0,
+    "pokerstars": 0,
+    "pornmm": 0,
+    "prayforchina": 0,
+    "proxypy": 0,
+    "pstatic": 0,
+    "pureconcepts": 0,
+    "pximg": 0,
+    "quitccp": 0,
+    "radiohilight": 0,
+    "redchinacn": 0,
+    "reimu": {
+      "blog": 0
+    },
+    "reutersmedia": 0,
+    "rocket-inc": 0,
+    "rolia": 0,
+    "rutracker": 0,
+    "south-plus": 0,
+    "secureservercdn": 0,
+    "seezone": 0,
+    "sehuatang": 0,
+    "sesawe": 0,
+    "sethwklein": 0,
+    "sexinsex": 0,
+    "site90": 0,
+    "slideshare": 0,
+    "socks-proxy": 0,
+    "sockslist": 0,
+    "softlayer": {
+      "cdn": 0
+    },
+    "soulcaliburhentai": 0,
+    "sowiki": {
+      "wlx": 0
+    },
+    "sstmlt": 0,
+    "stboy": 0,
+    "stoptibetcrisis": 0,
+    "streamingthe": 0,
+    "supervpn": 0,
+    "surrenderat20": 0,
+    "swissvpn": 0,
+    "switchvpn": 0,
+    "taiwandaily": 0,
+    "taiwanhot": 0,
+    "talkonly": 0,
+    "taup": 0,
+    "techviz": 0,
+    "thehun": 0,
+    "tiananmenuniv": 0,
+    "tibet": 0,
+    "tibetaction": 0,
+    "tibetexpress": 0,
+    "tibettimes": 0,
+    "tipas": 0,
+    "toptoon": 0,
+    "torguard": 0,
+    "tortoisesvn": 0,
+    "tunnelblick": 0,
+    "turbobit": 0,
+    "typekit": {
+      "use": 0
+    },
+    "lecloud": 0,
+    "twstar": 0,
+    "uberproxy": 0,
+    "vewas": 0,
+    "vpn": 0,
+    "vpnforgame": 0,
+    "vpngate": 0,
+    "vpninja": 0,
+    "vpnintouch": 0,
+    "vpser": 1,
+    "wanderinghorse": 0,
+    "wangafu": 0,
+    "watchmygf": 0,
+    "web2project": 0,
+    "wezone": 0,
+    "whoer": 0,
+    "willw": 0,
+    "witopia": 0,
+    "workersthebig": 0,
+    "worldvpn": 0,
+    "wsj": 0,
+    "xiaxiaoqiang": 0,
+    "xuchao": 0,
+    "yandex": {
+      "storage": 0
+    },
+    "yecl": 0,
+    "yegle": 0,
+    "yhcw": 0,
+    "yunchao": 0,
+    "yysub": 0,
+    "zhanbin": 0,
+    "zhongguotese": 0,
+    "zophar": 0
+  },
   "com": {
     "zoominfo": 0,
     "ptwxz": 0,
@@ -7764,7 +8124,8 @@ var DOMAINS = {
     "abebooks": 0,
     "amazonaws": {
       "s3-ap-southeast-1": 0,
-      "s3-ap-southeast-2": 0
+      "s3-ap-southeast-2": 0,
+      "s3-ap-*": 0
     },
     "9cache": 0,
     "9gag": 0,
@@ -7825,6 +8186,7 @@ var DOMAINS = {
     "raxcdn": {
       "secure": 0
     },
+    "redditspace": 0,
     "reddit": 0,
     "redditmedia": 0,
     "redditstatic": 0,
@@ -7927,6 +8289,9 @@ var DOMAINS = {
     "datalabour": {
       "social": 0
     },
+    "amazon": {
+      "payments-jp": 0
+    },
     "aol": {
       "aolchannels": 0,
       "video": 0,
@@ -7969,6 +8334,7 @@ var DOMAINS = {
     "ftchinese": 0,
     "googleapis": {
       "translate": 0,
+      "maps": 0,
       "clientservices": 1,
       "fonts": 1,
       "storage": 1,
@@ -8034,7 +8400,13 @@ var DOMAINS = {
     "googleusercontent": 0,
     "googlevideo": 0,
     "googleweblight": 0,
-    "gstatic": 0,
+    "gstatic": {
+      "@": 0,
+      "connectivitycheck": 1,
+      "csi": 1,
+      "fonts": 1,
+      "ssl": 1
+    },
     "gvt0": 0,
     "gvt1": {
       "@": 0,
@@ -8145,6 +8517,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "aljazeera": 0,
     "akinator": 0,
     "a-normal-day": 0,
     "aboluowang": 0,
@@ -8204,7 +8577,6 @@ var DOMAINS = {
     "assembla": 0,
     "astrill": 0,
     "atlaspost": 0,
-    "atdmt": 0,
     "atlanta168": 0,
     "atnext": 0,
     "audacy": 0,
@@ -8298,6 +8670,7 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "campaign-archive": 0,
     "cfsh99": {
       "zh-hans": 0
     },
@@ -8426,9 +8799,7 @@ var DOMAINS = {
     "dw-world": 0,
     "dwnews": 0,
     "dynawebinc": 0,
-    "etherscan": {
-      "cn": 0
-    },
+    "etherscan": 0,
     "elconfidencial": 0,
     "e-gold": 0,
     "earthvpn": 0,
@@ -8707,6 +9078,7 @@ var DOMAINS = {
     "ivonblog": 0,
     "ixquick": 0,
     "iyouport": 0,
+    "justmysockscn": 0,
     "jav321": 0,
     "javdb": 0,
     "jifangge": 0,
@@ -8822,6 +9194,7 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "mergersandinquisitions": 0,
     "mercari": 0,
     "mi": {
       "c": 0
@@ -8935,6 +9308,7 @@ var DOMAINS = {
     "nvdst": 0,
     "nybooks": 0,
     "nypost": 0,
+    "onevps": 0,
     "onedrive": 0,
     "olelive": 0,
     "oann": 0,
@@ -8960,6 +9334,7 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "proxz": 0,
     "potatso": 0,
     "pendrivelinux": 0,
     "points-media": 0,
@@ -9004,7 +9379,6 @@ var DOMAINS = {
     "pin6": 0,
     "pinimg": 0,
     "pinoy-n": 0,
-    "pinterest": 0,
     "pixeldrain": 0,
     "pixelqi": 0,
     "pkqjiasu": 0,
@@ -9115,6 +9489,8 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "ssrtool": 0,
+    "silvergatebank": 0,
     "slides": 0,
     "suno": 0,
     "syosetu": 0,
@@ -9144,6 +9520,7 @@ var DOMAINS = {
     },
     "seevpn": 0,
     "sensortower": 0,
+    "setn": 0,
     "sevenload": 0,
     "sex": 0,
     "sex3": 0,
@@ -9240,6 +9617,9 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "streamguys1": {
+      "tunein": 0
+    },
     "tinyurl": 0,
     "textnow": 0,
     "thuhole": 0,
@@ -9307,6 +9687,7 @@ var DOMAINS = {
     "tmagazine": 0,
     "tnaflix": 0,
     "to-porno": 0,
+    "togetter": 0,
     "tokyo-porn-tube": 0,
     "tokyocn": 0,
     "topsy": 0,
@@ -9826,6 +10207,8 @@ var DOMAINS = {
     "duihua": 0,
     "duihuahrjournal": 0,
     "dvorak": 0,
+    "edx-cdn": 0,
+    "everipedia": 0,
     "e-hentai": 0,
     "eastasiaforum": 0,
     "engagedaily": 0,
@@ -10046,6 +10429,7 @@ var DOMAINS = {
     "rsf": 0,
     "rsf-chinese": 0,
     "rtalabel": 0,
+    "synapse": 0,
     "sehuatang": 0,
     "savetibet": 0,
     "savetibetstore": 0,
@@ -10191,7 +10575,6 @@ var DOMAINS = {
     "incredibox": 0,
     "info-graf": 0,
     "iphonix": 0,
-    "pinterest": 0,
     "radio-en-ligne": 0,
     "rfi": 0,
     "ultravpn": 0
@@ -10222,7 +10605,6 @@ var DOMAINS = {
     "i2p2": 0,
     "mobileways": 0,
     "otto": 0,
-    "pinterest": 0,
     "privacybox": 0,
     "prosiben": 0,
     "savetibet": 0,
@@ -10255,6 +10637,7 @@ var DOMAINS = {
     "bb-chat": 0,
     "blip": 0,
     "boxun": 0,
+    "chinauncensored": 0,
     "cableav": 0,
     "dlive": 0,
     "dropbooks": 0,
@@ -10268,6 +10651,7 @@ var DOMAINS = {
     "landofhope": 0,
     "nbyy": 0,
     "ntd": 0,
+    "tou": 0,
     "tibetonline": 0,
     "top": 0,
     "torrentkitty": 0,
@@ -10342,6 +10726,7 @@ var DOMAINS = {
       "mike": 0,
       "nic": 0
     },
+    "disp": 0,
     "dysfz": 0,
     "fanbox": 0,
     "gaymap": 0,
@@ -10404,10 +10789,11 @@ var DOMAINS = {
         "ebook": 0
       },
       "inside": 0,
+      "kingkong": 0,
       "kingstone": 0,
+      "ltn": 0,
       "lama": 0,
       "libertytimes": 0,
-      "ltn": 0,
       "merit-times": 0,
       "momoshop": 0,
       "money-link": 0,
@@ -10597,6 +10983,7 @@ var DOMAINS = {
     "peoplenews": 0,
     "pourquoi": 0,
     "presidentlee": 0,
+    "qianmo": 0,
     "qianbai": 0,
     "rti": 0,
     "shopee": 0,
@@ -10618,8 +11005,7 @@ var DOMAINS = {
       "crossfire": 0,
       "ytn": 0,
       "coinrail": 0,
-      "epochtimes": 0,
-      "pinterest": 0
+      "epochtimes": 0
     },
     "news1": 0
   },
@@ -10650,363 +11036,6 @@ var DOMAINS = {
   "gg": {
     "discord": 0
   },
-  "net": {
-    "discordapp": 0,
-    "dm530": 0,
-    "fakku": 0,
-    "hinet": {
-      "cdn": {
-        "gamer-cds": 0,
-        "gamer2-cds": 0
-      }
-    },
-    "javhub": 0,
-    "jims": 0,
-    "matome-plus": 0,
-    "mattwilcox": 0,
-    "netflix": 0,
-    "nflximg": 0,
-    "nflxso": 0,
-    "nflxvideo": 0,
-    "ulop": 0,
-    "wizcrafts": 0,
-    "hiveon": 0,
-    "r-pool": 0,
-    "behance": 0,
-    "daum": 0,
-    "feedx": 0,
-    "jintian": 0,
-    "line-scdn": 0,
-    "nitter": 0,
-    "pixiv": 0,
-    "pixivsketch": 0,
-    "quoracdn": 0,
-    "sspanel": 0,
-    "taiwanjustice": 0,
-    "bitbay": 0,
-    "livecoin": 0,
-    "yobit": 0,
-    "china-mmm": 0,
-    "cloudfront": 0,
-    "facebook": {
-      "connect": 0
-    },
-    "fbcdn": 0,
-    "threads": 0,
-    "whatsapp": 0,
-    "1e100": 0,
-    "cloudfunctions": 0,
-    "googlefiber": 0,
-    "googlezip": 0,
-    "recaptcha": {
-      "admin": 0,
-      "api": 0,
-      "api-secure": 0,
-      "api-verify": 0
-    },
-    "jtvnw": 0,
-    "ttvnw": 0,
-    "twitchcdn": 0,
-    "yahoo": {
-      "duckduckgo-owned-server": 0
-    },
-    "1000giri": 0,
-    "10beasts": 0,
-    "12vpn": 0,
-    "8z1": 0,
-    "9bis": 0,
-    "ai-kan": 0,
-    "aiph": 0,
-    "akamai": {
-      "e": {
-        "a248": 0
-      }
-    },
-    "akamaized": {
-      "abematv": 0,
-      "linear-abematv": 0,
-      "vod-abematv": 0
-    },
-    "al-qimmah": 0,
-    "alforattv": 0,
-    "alwaysdata": 0,
-    "andfaraway": 0,
-    "apkpure": 0,
-    "appsocks": 0,
-    "askynz": 0,
-    "azurewebsites": {
-      "boxun*": 0
-    },
-    "btbit": 0,
-    "betaclouds": 0,
-    "bayvoice": 0,
-    "bestvpnforchina": 0,
-    "bloodshed": 0,
-    "bolehvpn": 0,
-    "box": {
-      "dl": 0,
-      "developers": 0
-    },
-    "bravotube": 0,
-    "breakwall": 0,
-    "bumingbai": 0,
-    "bwh1": 0,
-    "colacloud": 0,
-    "cablegatesearch": 0,
-    "catch22": 0,
-    "ccthere": 0,
-    "chinaaid": 0,
-    "chinadigitaltimes": 0,
-    "classicalguitarblog": 0,
-    "creaders": 0,
-    "crossthewall": 0,
-    "crossvpn": 0,
-    "cuiweiping": 0,
-    "cutscenes": 0,
-    "d100": 0,
-    "danke4china": 0,
-    "delcamp": 0,
-    "deviantart": 0,
-    "furl": 0,
-    "dmcdn": 0,
-    "dnssec": 0,
-    "dongtaiwang": 0,
-    "douhokanko": 0,
-    "drgan": 0,
-    "dwnews": 0,
-    "edgecastcdn": 0,
-    "erights": 0,
-    "ettoday": {
-      "*": 0
-    },
-    "evschool": 0,
-    "exploader": 0,
-    "falundafa-pa": 0,
-    "falunworld": 0,
-    "fastly": {
-      "ssl": {
-        "global": {
-          "*": 0
-        }
-      },
-      "freetls": {
-        "*": 0
-      },
-      "map": {
-        "nytimes": 0
-      }
-    },
-    "faz": 0,
-    "fengzhenghu": 0,
-    "findyoutube": 0,
-    "flowhongkong": 0,
-    "freeyoutubeproxy": 0,
-    "frommel": 0,
-    "fuckcnnic": 0,
-    "gaoming": 0,
-    "geek-art": 0,
-    "geti2p": 0,
-    "gizlen": 0,
-    "globaljihad": 0,
-    "globalrescue": 0,
-    "globalvpn": 0,
-    "gmx": {
-      "suche": 0
-    },
-    "greatfirewallofchina": 0,
-    "greenvpn": 0,
-    "hackthatphone": 0,
-    "hdtvb": 0,
-    "he": {
-      "ordns": 0
-    },
-    "hecaitou": 0,
-    "helixstudios": {
-      "cdn": 0
-    },
-    "heqinglian": 0,
-    "hexxeh": 0,
-    "hideman": 0,
-    "hihistory": 0,
-    "hkacg": 0,
-    "hkusu": 0,
-    "homeip": {
-      "derekhsu": 0
-    },
-    "hsjp": 0,
-    "htkou": 0,
-    "huping": 0,
-    "hutianyi": 0,
-    "iavian": 0,
-    "iblogserv-f": 0,
-    "icedrive": 0,
-    "iconfactory": {
-      "warbler": 0
-    },
-    "igcd": 0,
-    "igfw": 0,
-    "ignitedetroit": 0,
-    "ihakka": 0,
-    "imgchili": 0,
-    "imagezilla": 0,
-    "inkbunny": 0,
-    "inmediahk": 0,
-    "ipjetable": 0,
-    "compython": {
-      "ironbigfools": 0
-    },
-    "ironpython": 0,
-    "ismprofessional": 0,
-    "ivpn": 0,
-    "justmysocks": 0,
-    "javmobile": 0,
-    "jsdelivr": 0,
-    "jshell": {
-      "fiddle": 0
-    },
-    "junefourth-20": 0,
-    "junglobal": {
-      "bbs": 0
-    },
-    "justmysocks1": 0,
-    "k-doujin": 0,
-    "keontech": 0,
-    "kompozer": 0,
-    "kqes": 0,
-    "laqingdan": 0,
-    "leafyvpn": 0,
-    "letscorp": 0,
-    "liangyou": 0,
-    "liaowangxizang": 0,
-    "liuxiaobo": 0,
-    "longtermly": 0,
-    "marxist": 0,
-    "mercdn": 0,
-    "minzhuhua": 0,
-    "mobatek": 0,
-    "mullvad": 0,
-    "muzi": 0,
-    "naitik": 0,
-    "nekoslovakia": 0,
-    "neowin": 0,
-    "nutaku": 0,
-    "opendemocracy": 0,
-    "openid": 0,
-    "openvpn": 0,
-    "opera-mini": {
-      "demo": 0
-    },
-    "overplay": 0,
-    "photonmedia": 0,
-    "panluan": 0,
-    "pao-pao": 0,
-    "pawoo": 0,
-    "oauth": {
-      "wiki": 0
-    },
-    "peing": 0,
-    "penchinese": 0,
-    "pentalogic": {
-      "blog": 0
-    },
-    "photodharma": 0,
-    "pixnet": 0,
-    "pokerstars": 0,
-    "pornmm": 0,
-    "prayforchina": 0,
-    "proxypy": 0,
-    "pstatic": 0,
-    "pureconcepts": 0,
-    "pximg": 0,
-    "quitccp": 0,
-    "radiohilight": 0,
-    "redchinacn": 0,
-    "reimu": {
-      "blog": 0
-    },
-    "reutersmedia": 0,
-    "rocket-inc": 0,
-    "rolia": 0,
-    "rutracker": 0,
-    "secureservercdn": 0,
-    "seezone": 0,
-    "sehuatang": 0,
-    "sesawe": 0,
-    "sethwklein": 0,
-    "sexinsex": 0,
-    "site90": 0,
-    "slideshare": 0,
-    "socks-proxy": 0,
-    "sockslist": 0,
-    "softlayer": {
-      "cdn": 0
-    },
-    "soulcaliburhentai": 0,
-    "sowiki": {
-      "wlx": 0
-    },
-    "sstmlt": 0,
-    "stboy": 0,
-    "stoptibetcrisis": 0,
-    "streamingthe": 0,
-    "supervpn": 0,
-    "surrenderat20": 0,
-    "swissvpn": 0,
-    "switchvpn": 0,
-    "taiwandaily": 0,
-    "taiwanhot": 0,
-    "talkonly": 0,
-    "taup": 0,
-    "techviz": 0,
-    "thehun": 0,
-    "tiananmenuniv": 0,
-    "tibet": 0,
-    "tibetaction": 0,
-    "tibetexpress": 0,
-    "tibettimes": 0,
-    "tipas": 0,
-    "toptoon": 0,
-    "torguard": 0,
-    "tortoisesvn": 0,
-    "tunnelblick": 0,
-    "turbobit": 0,
-    "typekit": {
-      "use": 0
-    },
-    "lecloud": 0,
-    "twstar": 0,
-    "uberproxy": 0,
-    "vpn": 0,
-    "vpnforgame": 0,
-    "vpngate": 0,
-    "vpninja": 0,
-    "vpnintouch": 0,
-    "vpser": 1,
-    "wanderinghorse": 0,
-    "wangafu": 0,
-    "watchmygf": 0,
-    "web2project": 0,
-    "wezone": 0,
-    "whoer": 0,
-    "willw": 0,
-    "witopia": 0,
-    "workersthebig": 0,
-    "worldvpn": 0,
-    "wsj": 0,
-    "xiaxiaoqiang": 0,
-    "xuchao": 0,
-    "yandex": {
-      "storage": 0
-    },
-    "yecl": 0,
-    "yegle": 0,
-    "yhcw": 0,
-    "yunchao": 0,
-    "yysub": 0,
-    "zhanbin": 0,
-    "zhongguotese": 0,
-    "zophar": 0
-  },
   "jp": {
     "co": {
       "dmm": 0,
@@ -11014,6 +11043,7 @@ var DOMAINS = {
       "japantimes": 0,
       "amazon": 0,
       "yahoo": {
+        "shopping": 0,
         "auctions": 0,
         "blogs": 0,
         "search": 0
@@ -11066,7 +11096,6 @@ var DOMAINS = {
     "nexton-net": 0,
     "nicovideo": 0,
     "orn": 0,
-    "pinterest": 0,
     "r10s": 0,
     "tibethouse": 0,
     "twipple": 0,
@@ -11115,7 +11144,8 @@ var DOMAINS = {
     "lesoir": 0
   },
   "*": {
-    "gettyimages": 0
+    "gettyimages": 0,
+    "pinterest": 0
   },
   "cn": {
     "gettyimages": 1,
@@ -11132,6 +11162,7 @@ var DOMAINS = {
     "org": {
       "openwrt": 1
     },
+    "pinterest": 1,
     "com": {
       "wallproxy": 1,
       "sina": 1,
@@ -11176,7 +11207,6 @@ var DOMAINS = {
     "kwcg": 0,
     "metrolife": 0,
     "peace": 0,
-    "pinterest": 0,
     "psiphon": 0,
     "radio-canada": 0,
     "rcinet": 0,
@@ -11193,6 +11223,7 @@ var DOMAINS = {
     "t": 0,
     "vine": 0,
     "allconnected": 0,
+    "btbtt": 0,
     "betternet": 0,
     "bnews": 0,
     "carrd": 0,
@@ -11234,6 +11265,7 @@ var DOMAINS = {
     "t": 0,
     "telegram": 0,
     "about": 0,
+    "btbtt": 0,
     "baixing": 0,
     "biedian": 0,
     "blogcity": 0,
@@ -11265,12 +11297,13 @@ var DOMAINS = {
     "saiq": 0,
     "searx": 0,
     "seed4": 0,
-    "simplecd": 1,
+    "simplecd": 0,
     "speedcat": 0,
     "springwood": 0,
     "tingtalk": 0,
     "twip": 0,
     "tweeplike": 0,
+    "vilanet": 0,
     "vid": 0,
     "vpnsecure": 0,
     "wainao": 0,
@@ -11362,7 +11395,8 @@ var DOMAINS = {
   },
   "top": {
     "zhizhu": 0,
-    "dpool": 0
+    "dpool": 0,
+    "nightswatch": 0
   },
   "io": {
     "flexpool": 0,
@@ -11383,6 +11417,7 @@ var DOMAINS = {
       "assets": 0
     },
     "codeshare": 0,
+    "ddex": 0,
     "doub": 0,
     "firetweet": 0,
     "fountmedia": 0,
@@ -11542,6 +11577,7 @@ var DOMAINS = {
   "xyz": {
     "mastodon": 0,
     "abc": 0,
+    "2049bbs": 0,
     "gooday": 0,
     "hexieshe": 0,
     "honven": 0,
@@ -11562,6 +11598,7 @@ var DOMAINS = {
   "club": {
     "mohu": 0,
     "91vps": 0,
+    "cixiaoya": 0,
     "jfqu36": 0,
     "madou": 0
   },
@@ -11613,6 +11650,7 @@ var DOMAINS = {
     "freessh": 0,
     "hkdc": 0,
     "huaren": 0,
+    "invidio": 0,
     "iepl": 0,
     "imageshack": 0,
     "livingonline": 0,
@@ -11716,6 +11754,7 @@ var DOMAINS = {
     "google": 0,
     "tfhub": 0,
     "web": 0,
+    "fuchsia": 0,
     "unlock-music": {
       "demo": 0
     },
@@ -11755,7 +11794,6 @@ var DOMAINS = {
       "lamnia": 0,
       "my-private-network": 0,
       "national-lottery": 0,
-      "pinterest": 0,
       "thechasernews": 0,
       "telegraph": 0,
       "tibetrelieffund": 0,
@@ -11785,7 +11823,6 @@ var DOMAINS = {
     "nu": {
       "media": 0
     },
-    "pinterest": 0,
     "trouw": 0,
     "uighur": 0
   },
@@ -11799,12 +11836,27 @@ var DOMAINS = {
     "go-to-zlibrary": 0,
     "ipredator": 0,
     "nobel": 0,
-    "pinterest": 0,
     "share-videos": 0,
     "singlelogin": 0
   },
   "watch": {
     "fb": 0
+  },
+  "new": {
+    "doc": 0,
+    "form": 0,
+    "forms": 0,
+    "sheet": 0,
+    "sheets": 0,
+    "spreadsheet": 0,
+    "site": 0,
+    "sites": 0,
+    "website": 0,
+    "slides": 0,
+    "deck": 0,
+    "presentation": 0,
+    "docs": 0,
+    "whats": 0
   },
   "google": {
     "about": 0,
@@ -11833,12 +11885,6 @@ var DOMAINS = {
   "page": {
     "business": 0,
     "get": 0
-  },
-  "new": {
-    "docs": 0,
-    "sheets": 0,
-    "slides": 0,
-    "whats": 0
   },
   "app": {
     "get": 0,
@@ -12143,20 +12189,13 @@ var DOMAINS = {
   "fund": {
     "opentech": 0
   },
+  "pub": {
+    "pandafan": 0,
+    "xt": 0
+  },
   "link": {
     "page": 0,
     "vnet": 0
-  },
-  "at": {
-    "pinterest": 0
-  },
-  "mx": {
-    "com": {
-      "pinterest": 0
-    }
-  },
-  "dk": {
-    "pinterest": 0
   },
   "click": {
     "popxi": 0
@@ -12180,6 +12219,12 @@ var DOMAINS = {
   "video": {
     "rou": 0
   },
+  "nu": {
+    "shadowsocks": {
+      "secure": 0
+    },
+    "tibet": 0
+  },
   "sg": {
     "com": {
       "singaporepools": 0,
@@ -12201,9 +12246,6 @@ var DOMAINS = {
     "thu": {
       "hole": 0
     }
-  },
-  "nu": {
-    "tibet": 0
   },
   "help": {
     "v2": 0
@@ -12231,9 +12273,6 @@ var DOMAINS = {
   "red": {
     "wuw": 0
   },
-  "pub": {
-    "xt": 0
-  },
   "sk": {
     "yadi": 0
   },
@@ -12249,7 +12288,6 @@ var BLACKPAT = [
   "http://85.17.73.31/*",
   "*.casinobellini.com*",
   "http://img.dlsite.jp/*",
-  "*share.dmhy.org*",
   "http://www.dmm.com/netgame*",
   "*.expekt.com*",
   "*.extmatrix.com*",
@@ -12288,9 +12326,6 @@ var BLACKPAT = [
   "*china-mmm.sa.com*",
   "*.allowed.org*",
   "*.now.im*",
-  "*.amazon.com/Dalai-Lama*",
-  "*amazon.com/Prisoner-State-Secret-Journal-Premier*",
-  "*s3-ap-northeast-1.amazonaws.com*",
   "*video.aol.ca/video-detail*",
   "*video.aol.co.uk/video-detail*",
   "*video.aol.com*",
@@ -13318,7 +13353,6 @@ var BLACKPAT = [
   "*.dipity.com*",
   "*.discuss.com.hk*",
   "*.discuss4u.com*",
-  "*disp.cc*",
   "*.disqus.com*",
   "*.dit-inc.us*",
   "*.dizhidizhi.com*",
@@ -14728,7 +14762,6 @@ var BLACKPAT = [
   "*.pin6.com*",
   "*.ping.fm*",
   "*.pinkrod.com*",
-  "*.pinterest.com*",
   "*.pipii.tv*",
   "*.piposay.com*",
   "*piraattilahti.org*",
@@ -14944,7 +14977,6 @@ var BLACKPAT = [
   "*.sciencenets.com*",
   "*.scmp.com*",
   "*.scmpchinese.com*",
-  "*.scribd.com*",
   "*.searchtruth.com*",
   "*.secretchina.com*",
   "*.secretsline.biz*",
@@ -14956,7 +14988,6 @@ var BLACKPAT = [
   "*.sendspace.com*",
   "*sesawe.net*",
   "*.sesawe.org*",
-  "*.setn.com*",
   "*.settv.com.tw*",
   "*forum.setty.com.tw*",
   "*.sevenload.com*",
@@ -15367,7 +15398,6 @@ var BLACKPAT = [
   "*.tnp.org*",
   "http://tnp.org*",
   "*.to-porno.com*",
-  "*togetter.com*",
   "*.tokyo-247.com*",
   "*.tokyo-hot.com*",
   "*tw.tomonews.net*",
