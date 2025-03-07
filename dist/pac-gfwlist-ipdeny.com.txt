@@ -3906,6 +3906,8 @@ var CHINA = [
   [0xA3B10000, 0xFFFF0000], // 163.177.0.0/16
   [0xA3B30000, 0xFFFF0000], // 163.179.0.0/16
   [0xA3CC0000, 0xFFFF0000], // 163.204.0.0/16
+  [0xA3DF1C00, 0xFFFFFE00], // 163.223.28.0/23
+  [0xA3DF2000, 0xFFFFFE00], // 163.223.32.0/23
   [0xA3E40000, 0xFFFF0000], // 163.228.0.0/16
   [0xA4340000, 0xFFFF8000], // 164.52.0.0/17
   [0xA66F0000, 0xFFFF0000], // 166.111.0.0/16
@@ -5732,22 +5734,11 @@ var DOMAINS = {
     "dwnews": 0,
     "edgecastcdn": 0,
     "erights": 0,
-    "ettoday": {
-      "*": 0
-    },
     "evschool": 0,
     "exploader": 0,
     "falundafa-pa": 0,
     "falunworld": 0,
     "fastly": {
-      "ssl": {
-        "global": {
-          "*": 0
-        }
-      },
-      "freetls": {
-        "*": 0
-      },
       "map": {
         "nytimes": 0
       }
@@ -6375,8 +6366,7 @@ var DOMAINS = {
     },
     "ftchinese": 0,
     "googleapis": {
-      "translate": 0,
-      "maps": 0,
+      "@": 0,
       "clientservices": 1,
       "fonts": 1,
       "storage": 1,
@@ -6973,6 +6963,7 @@ var DOMAINS = {
     "github": 0,
     "githubcopilot": 0,
     "githubusercontent": 0,
+    "githubassets": 0,
     "gjczz": 0,
     "gmgard": 0,
     "goagentplus": 0,
@@ -7376,6 +7367,7 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "polymarket": 0,
     "proxz": 0,
     "potatso": 0,
     "pendrivelinux": 0,
@@ -9142,7 +9134,6 @@ var DOMAINS = {
     "tibethouse": 0,
     "twipple": 0,
     "vpngate": 0,
-    "wikiwiki": 0,
     "woopie": 0,
     "xcity": 0,
     "or": {
@@ -9978,6 +9969,9 @@ var DOMAINS = {
   },
   "pe": {
     "telesco": 0
+  },
+  "cx": {
+    "69shuba": 0
   },
   "to": {
     "1337x": 0,
@@ -11540,6 +11534,7 @@ var BLACKPAT = [
   "*.etaa.org.au*",
   "*.etadult.com*",
   "*etaiwannews.com*",
+  "*.ettoday.net*",
   "*etvonline.hk*",
   "*.eucasino.com*",
   "*.eulam.com*",
@@ -11597,6 +11592,8 @@ var BLACKPAT = [
   "*.fanyue.info*",
   "*.farwestchina.com*",
   "*en.favotter.net*",
+  "*.global.ssl.fastly.net*",
+  "*.freetls.fastly.net*",
   "*nytimes.map.fastly.net*",
   "*favstar.fm*",
   "*faydao.com/weblog*",
