@@ -7910,7 +7910,10 @@ var DOMAINS = {
     "yysub": 0,
     "zhanbin": 0,
     "zhongguotese": 0,
-    "zophar": 0
+    "zophar": 0,
+    "ettoday": {
+      "www": 1
+    }
   },
   "com": {
     "zoominfo": 0,
@@ -9183,6 +9186,7 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "musixmatch": 0,
     "mergersandinquisitions": 0,
     "mercari": 0,
     "mi": {
@@ -9607,6 +9611,7 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "twkan": 0,
     "streamguys1": {
       "tunein": 0
     },
