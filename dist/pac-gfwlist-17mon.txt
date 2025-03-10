@@ -8050,7 +8050,9 @@ var DOMAINS = {
     "olehdtv": 0,
     "onapp": 0,
     "ontrac": 0,
-    "openai": 0,
+    "openai": {
+      "chat": 0
+    },
     "pandora": 0,
     "parkansky": 0,
     "pure18": 0,
@@ -8062,7 +8064,9 @@ var DOMAINS = {
     "shiksha": 0,
     "slacker": 0,
     "sm-miracle": 0,
-    "spotify": 0,
+    "spotify": {
+      "open": 0
+    },
     "springboardplatform": 0,
     "superokayama": 0,
     "superpages": 0,
