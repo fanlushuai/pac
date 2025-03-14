@@ -12050,10 +12050,6 @@ var DOMAINS = {
   "ie": {
     "epochtimes": 0
   },
-  "run": {
-    "fastgpt": 0,
-    "mangmang": 0
-  },
   "zone": {
     "froth": 0
   },
@@ -12161,6 +12157,9 @@ var DOMAINS = {
         "addons": 0
       }
     }
+  },
+  "run": {
+    "mangmang": 0
   },
   "town": {
     "matters": 0
