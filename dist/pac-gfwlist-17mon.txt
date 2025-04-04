@@ -7700,7 +7700,8 @@ var DOMAINS = {
     "onapp": 0,
     "ontrac": 0,
     "openai": {
-      "chat": 0
+      "chat": 0,
+      "auth": 0
     },
     "pandora": 0,
     "parkansky": 0,
@@ -10394,6 +10395,7 @@ var DOMAINS = {
     "njactb": 0,
     "nokogiri": 0,
     "notepad-plus-plus": 0,
+    "opendesktop": 0,
     "october-review": 0,
     "ogaoga": 0,
     "ogate": 0,

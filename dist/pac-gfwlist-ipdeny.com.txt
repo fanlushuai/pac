@@ -2234,7 +2234,6 @@ var CHINA = [
   [0x67956E00, 0xFFFFFE00], // 103.149.110.0/23
   [0x67958400, 0xFFFFFE00], // 103.149.132.0/23
   [0x67959000, 0xFFFFFE00], // 103.149.144.0/23
-  [0x67959C00, 0xFFFFFE00], // 103.149.156.0/23
   [0x6795B500, 0xFFFFFF00], // 103.149.181.0/24
   [0x6795D200, 0xFFFFFE00], // 103.149.210.0/23
   [0x6795D600, 0xFFFFFE00], // 103.149.214.0/23
@@ -5747,7 +5746,8 @@ var DOMAINS = {
     "onapp": 0,
     "ontrac": 0,
     "openai": {
-      "chat": 0
+      "chat": 0,
+      "auth": 0
     },
     "pandora": 0,
     "parkansky": 0,
@@ -8441,6 +8441,7 @@ var DOMAINS = {
     "njactb": 0,
     "nokogiri": 0,
     "notepad-plus-plus": 0,
+    "opendesktop": 0,
     "october-review": 0,
     "ogaoga": 0,
     "ogate": 0,
