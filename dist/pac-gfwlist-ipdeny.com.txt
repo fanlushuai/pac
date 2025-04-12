@@ -2971,7 +2971,8 @@ var CHINA = [
   [0x67FFD000, 0xFFFFFE00], // 103.255.208.0/23
   [0x67FFD400, 0xFFFFFC00], // 103.255.212.0/22
   [0x67FFE400, 0xFFFFFC00], // 103.255.228.0/22
-  [0x68A71800, 0xFFFFF800], // 104.167.24.0/21
+  [0x68A71900, 0xFFFFFF00], // 104.167.25.0/24
+  [0x68A71A00, 0xFFFFFE00], // 104.167.26.0/23
   [0x68CF2000, 0xFFFFE000], // 104.207.32.0/19
   [0x6A000000, 0xFFFFFF00], // 106.0.0.0/24
   [0x6A000200, 0xFFFFFE00], // 106.0.2.0/23
@@ -5818,6 +5819,9 @@ var DOMAINS = {
     "amazonaws": {
       "s3-ap-southeast-1": 0,
       "s3-ap-southeast-2": 0,
+      "eu-central-1": {
+        "s3": 0
+      },
       "s3-ap-*": 0
     },
     "9cache": 0,
@@ -6208,6 +6212,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "audiomack": 0,
     "aljazeera": 0,
     "akinator": 0,
     "a-normal-day": 0,
@@ -7749,7 +7754,6 @@ var DOMAINS = {
     "livecoin": 0,
     "yobit": 0,
     "china-mmm": 0,
-    "cloudfront": 0,
     "facebook": {
       "connect": 0
     },

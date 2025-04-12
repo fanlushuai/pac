@@ -7772,6 +7772,9 @@ var DOMAINS = {
     "amazonaws": {
       "s3-ap-southeast-1": 0,
       "s3-ap-southeast-2": 0,
+      "eu-central-1": {
+        "s3": 0
+      },
       "s3-ap-*": 0
     },
     "9cache": 0,
@@ -8162,6 +8165,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "audiomack": 0,
     "aljazeera": 0,
     "akinator": 0,
     "a-normal-day": 0,
@@ -9703,7 +9707,6 @@ var DOMAINS = {
     "livecoin": 0,
     "yobit": 0,
     "china-mmm": 0,
-    "cloudfront": 0,
     "facebook": {
       "connect": 0
     },
