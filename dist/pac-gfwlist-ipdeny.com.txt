@@ -5998,6 +5998,7 @@ var DOMAINS = {
     "bbcchinese": 0,
     "bloomberg": 0,
     "bloombergview": 0,
+    "cloudflare-dns": 0,
     "dynu": 0,
     "accountkit": 0,
     "cdninstagram": 0,
@@ -6538,6 +6539,8 @@ var DOMAINS = {
     "expecthim": 0,
     "expressvpn": 0,
     "eyny": 0,
+    "fani": 0,
+    "favcomic": 0,
     "ft": 0,
     "facebookquotes4u": 0,
     "facesofnyfw": 0,
@@ -6661,6 +6664,7 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "h-ciyuan": 0,
     "haiwaikan": 0,
     "haijiao": 0,
     "happy-vpn": 0,
@@ -7190,6 +7194,7 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "sotwe": 0,
     "ssrtool": 0,
     "silvergatebank": 0,
     "slides": 0,
@@ -8495,6 +8500,9 @@ var DOMAINS = {
     "rsf": 0,
     "rsf-chinese": 0,
     "rtalabel": 0,
+    "sagernet": {
+      "sing-box": 0
+    },
     "synapse": 0,
     "sehuatang": 0,
     "savetibet": 0,
@@ -8717,6 +8725,7 @@ var DOMAINS = {
     "landofhope": 0,
     "nbyy": 0,
     "ntd": 0,
+    "thotsbay": 0,
     "tou": 0,
     "tibetonline": 0,
     "top": 0,
@@ -9354,6 +9363,7 @@ var DOMAINS = {
     "humanparty": 0,
     "javfor": 0,
     "line": 0,
+    "manwa": 0,
     "mikanani": 0,
     "monocloud": 0,
     "netalert": 0,
@@ -9959,7 +9969,8 @@ var DOMAINS = {
     "safety": 0,
     "stories": 0,
     "sustainability": 0,
-    "tv": 0
+    "tv": 0,
+    "8888": 0
   },
   "page": {
     "business": 0,
@@ -10092,7 +10103,10 @@ var DOMAINS = {
   },
   "network": {
     "bsky": 0,
-    "fanqiang": 0
+    "fanqiang": 0,
+    "hysteria": {
+      "v2": 0
+    }
   },
   "tl": {
     "bx": 0,
@@ -10305,6 +10319,10 @@ var DOMAINS = {
   "video": {
     "rou": 0
   },
+  "fun": {
+    "ssm": 0,
+    "sosad": 0
+  },
   "nu": {
     "shadowsocks": {
       "secure": 0
@@ -10316,9 +10334,6 @@ var DOMAINS = {
       "singaporepools": 0,
       "zaobao": 0
     }
-  },
-  "fun": {
-    "sosad": 0
   },
   "camp": {
     "sss": 0
