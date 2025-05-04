@@ -6101,9 +6101,7 @@ var DOMAINS = {
     "olehdtv": 0,
     "onapp": 0,
     "ontrac": 0,
-    "openai": {
-      "chat": 0
-    },
+    "openai": 0,
     "pandora": 0,
     "parkansky": 0,
     "pure18": 0,
@@ -6115,9 +6113,7 @@ var DOMAINS = {
     "shiksha": 0,
     "slacker": 0,
     "sm-miracle": 0,
-    "spotify": {
-      "open": 0
-    },
+    "spotify": 0,
     "springboardplatform": 0,
     "superokayama": 0,
     "superpages": 0,
@@ -6804,6 +6800,7 @@ var DOMAINS = {
     "curvefish": 0,
     "cyberghostvpn": 0,
     "cynscribe": 0,
+    "disneyplus": 0,
     "doubiyunbackup": 0,
     "dadazim": 0,
     "dailidaili": 0,
@@ -6888,6 +6885,7 @@ var DOMAINS = {
     "expecthim": 0,
     "expressvpn": 0,
     "eyny": 0,
+    "fast": 0,
     "ft": 0,
     "facebookquotes4u": 0,
     "facesofnyfw": 0,
@@ -7670,6 +7668,7 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "tellapart": 0,
     "threads": 0,
     "tg-me": 0,
     "twkan": 0,
@@ -9328,6 +9327,7 @@ var DOMAINS = {
     "fb": 0,
     "m": 0,
     "nytcn": 0,
+    "tx": 0,
     "t": 0,
     "telegram": 0,
     "about": 0,
@@ -9349,6 +9349,7 @@ var DOMAINS = {
     "klip": {
       "www": 0
     },
+    "hanime1": 0,
     "hdlt": 0,
     "hide": 0,
     "humanparty": 0,
@@ -9645,7 +9646,8 @@ var DOMAINS = {
     "jfqu37": 0,
     "mirror": 0,
     "uvwxyz": 0,
-    "yyjlymb": 0
+    "yyjlymb": 0,
+    "zodgame": 0
   },
   "news": {
     "matters": 0,
@@ -9772,6 +9774,7 @@ var DOMAINS = {
   },
   "one": {
     "big": 0,
+    "telega": 0,
     "2047": 0,
     "metacubex": {
       "wiki": 0
@@ -9816,6 +9819,7 @@ var DOMAINS = {
     "google": 0,
     "tfhub": 0,
     "web": 0,
+    "tg": 0,
     "fuchsia": 0,
     "unlock-music": {
       "demo": 0
@@ -10205,6 +10209,7 @@ var DOMAINS = {
   },
   "ws": {
     "localdomain": 0,
+    "missav": 0,
     "rmbl": 0
   },
   "org/*-*/firefox/addon/ublock-origin/*": {
@@ -10284,7 +10289,8 @@ var DOMAINS = {
     "ritter": 0
   },
   "chat": {
-    "rocket": 0
+    "rocket": 0,
+    "simplex": 0
   },
   "video": {
     "rou": 0
