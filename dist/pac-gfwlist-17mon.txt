@@ -9462,6 +9462,7 @@ var DOMAINS = {
     "efksoft": 0,
     "qstatus": 0,
     "qtweeter": 0,
+    "rule34video": 0,
     "radiovncr": 0,
     "raggedbanner": 0,
     "ranyunfei": 0,
@@ -9618,6 +9619,9 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "tnt-ea": {
+      "rtm": 0
+    },
     "tellapart": 0,
     "threads": 0,
     "tg-me": 0,
@@ -10402,6 +10406,7 @@ var DOMAINS = {
     "otnd": 0,
     "overdaily": 0,
     "ozvoice": 0,
+    "puredns": 0,
     "pastie": 0,
     "pbs": 0,
     "pbxes": 0,
@@ -11406,7 +11411,8 @@ var DOMAINS = {
     "ping": 0,
     "player": 0,
     "soundon": 0,
-    "tweetmylast": 0
+    "tweetmylast": 0,
+    "z-lib": 0
   },
   "vn": {
     "zim": 0,
@@ -11436,6 +11442,7 @@ var DOMAINS = {
       "assets": 0
     },
     "codeshare": 0,
+    "docker": 0,
     "ddex": 0,
     "doub": 0,
     "firetweet": 0,
@@ -11724,6 +11731,11 @@ var DOMAINS = {
   },
   "one": {
     "big": 0,
+    "one": {
+      "one": {
+        "one": 0
+      }
+    },
     "telega": 0,
     "2047": 0,
     "metacubex": {
@@ -11765,6 +11777,7 @@ var DOMAINS = {
   },
   "dev": {
     "go5": 0,
+    "workers": 0,
     "get": 0,
     "google": 0,
     "tfhub": 0,
@@ -11773,8 +11786,7 @@ var DOMAINS = {
     "fuchsia": 0,
     "unlock-music": {
       "demo": 0
-    },
-    "workers": 0
+    }
   },
   "ci": {
     "ns": {
@@ -11859,25 +11871,9 @@ var DOMAINS = {
   "watch": {
     "fb": 0
   },
-  "new": {
-    "doc": 0,
-    "form": 0,
-    "forms": 0,
-    "sheet": 0,
-    "sheets": 0,
-    "spreadsheet": 0,
-    "site": 0,
-    "sites": 0,
-    "website": 0,
-    "slides": 0,
-    "deck": 0,
-    "presentation": 0,
-    "docs": 0,
-    "whats": 0
-  },
   "google": {
+    "play": 0,
     "about": 0,
-    "ai": 0,
     "blog": 0,
     "chromeenterprise": 0,
     "com": 0,
@@ -11899,6 +11895,22 @@ var DOMAINS = {
     "sustainability": 0,
     "tv": 0
   },
+  "new": {
+    "doc": 0,
+    "form": 0,
+    "forms": 0,
+    "sheet": 0,
+    "sheets": 0,
+    "spreadsheet": 0,
+    "site": 0,
+    "sites": 0,
+    "website": 0,
+    "slides": 0,
+    "deck": 0,
+    "presentation": 0,
+    "docs": 0,
+    "whats": 0
+  },
   "page": {
     "business": 0,
     "get": 0
@@ -11916,7 +11928,8 @@ var DOMAINS = {
     "get": 0
   },
   "gl": {
-    "goo": 0
+    "goo": 0,
+    "z-lib": 0
   },
   "gle": {
     "goo": 0
@@ -11954,6 +11967,16 @@ var DOMAINS = {
   },
   "pe": {
     "telesco": 0
+  },
+  "best": {
+    "111666": {
+      "i": 0
+    }
+  },
+  "sk": {
+    "1lib": 0,
+    "yadi": 0,
+    "z-library": 0
   },
   "cx": {
     "69shuba": 0
@@ -11998,7 +12021,8 @@ var DOMAINS = {
     "yande": 0
   },
   "fo": {
-    "archive": 0
+    "archive": 0,
+    "z-lib": 0
   },
   "li": {
     "archive": 0,
@@ -12299,11 +12323,11 @@ var DOMAINS = {
   "red": {
     "wuw": 0
   },
-  "sk": {
-    "yadi": 0
-  },
   "tokyo": {
     "yunomi": 0
+  },
+  "gd": {
+    "z-lib": 0
   },
   "la": {
     "zuo": 0
@@ -13729,6 +13753,7 @@ var BLACKPAT = [
   "*fzh999.com*",
   "*fzh999.net*",
   "*fzlm.com*",
+  "http://gmp4.com*",
   "*.g6hentai.com*",
   "http://g6hentai.com*",
   "*.gaeproxy.com*",
@@ -14875,6 +14900,7 @@ var BLACKPAT = [
   "*.python.com.tw*",
   "*pythonhackers.com/p*",
   "*ss.pythonic.life*",
+  "http://qmp4.com*",
   "*.qanote.com*",
   "*.qi-gong.me*",
   "*.qidian.ca*",
