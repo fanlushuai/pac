@@ -8456,6 +8456,7 @@ var DOMAINS = {
     "tiktok": 0,
     "tiktokv": 0,
     "tiktokcdn-us": 0,
+    "tiktokcdn": 0,
     "tweetdeck": 0,
     "twimg": 0,
     "twitpic": 0,
@@ -9267,6 +9268,9 @@ var DOMAINS = {
     "myparagliding": 0,
     "mypopescu": 0,
     "myspacecdn": 0,
+    "nikke-kr": 0,
+    "nikke-jp": 0,
+    "nikke-en": 0,
     "nodeloc": 0,
     "newthuhole": 0,
     "nakido": 0,
@@ -10996,6 +11000,9 @@ var DOMAINS = {
     "myjs": 0,
     "memes": 0,
     "moptt": 0,
+    "hotcool": {
+      "nikke": 0
+    },
     "newtalk": 0,
     "okk": 0,
     "peoplenews": 0,
@@ -11872,6 +11879,8 @@ var DOMAINS = {
     "fb": 0
   },
   "google": {
+    "ai": 0,
+    "notebooklm": 0,
     "play": 0,
     "about": 0,
     "blog": 0,
