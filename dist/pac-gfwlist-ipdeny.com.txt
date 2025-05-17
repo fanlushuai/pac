@@ -5740,6 +5740,7 @@ var DOMAINS = {
     "falundafa-pa": 0,
     "falunworld": 0,
     "fastly": {
+      "freetls": 0,
       "map": {
         "nytimes": 0
       }
@@ -5821,6 +5822,7 @@ var DOMAINS = {
     "keontech": 0,
     "kompozer": 0,
     "kqes": 0,
+    "ldplayer": 0,
     "laqingdan": 0,
     "leafyvpn": 0,
     "letscorp": 0,
@@ -5834,6 +5836,9 @@ var DOMAINS = {
     "mobatek": 0,
     "mullvad": 0,
     "muzi": 0,
+    "naixi": {
+      "bbs": 0
+    },
     "naitik": 0,
     "nekoslovakia": 0,
     "neowin": 0,
@@ -6501,6 +6506,7 @@ var DOMAINS = {
     "tiktokv": 0,
     "tiktokcdn-us": 0,
     "tiktokcdn": 0,
+    "tiktokcdn-eu": 0,
     "tweetdeck": 0,
     "twimg": 0,
     "twitpic": 0,
@@ -8494,6 +8500,7 @@ var DOMAINS = {
     "rsf-chinese": 0,
     "rtalabel": 0,
     "rutracker": 0,
+    "sagernet": 0,
     "synapse": 0,
     "sehuatang": 0,
     "savetibet": 0,
@@ -9041,6 +9048,7 @@ var DOMAINS = {
     },
     "im88": 0,
     "inote": 0,
+    "ldplayer": 0,
     "myjs": 0,
     "memes": 0,
     "moptt": 0,
@@ -11658,7 +11666,6 @@ var BLACKPAT = [
   "*.farwestchina.com*",
   "*en.favotter.net*",
   "*.global.ssl.fastly.net*",
-  "*.freetls.fastly.net*",
   "*nytimes.map.fastly.net*",
   "*favstar.fm*",
   "*faydao.com/weblog*",
