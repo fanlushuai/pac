@@ -5609,6 +5609,11 @@ var CHINA = [
 var DOMAINS = {
   "net": {
     "blogjav": 0,
+    "akamaized": {
+      "abematv": 0,
+      "linear-abematv": 0,
+      "vod-abematv": 0
+    },
     "discordapp": 0,
     "dm530": 0,
     "fakku": 0,
@@ -5679,11 +5684,6 @@ var DOMAINS = {
       "e": {
         "a248": 0
       }
-    },
-    "akamaized": {
-      "abematv": 0,
-      "linear-abematv": 0,
-      "vod-abematv": 0
     },
     "al-qimmah": 0,
     "alforattv": 0,
@@ -5975,6 +5975,7 @@ var DOMAINS = {
     "airitilibrary": 0,
     "akiba-web": 0,
     "altrec": 0,
+    "amazonvideo": 0,
     "anthropic": 0,
     "apartmentratings": 0,
     "apartments": 0,
@@ -6052,6 +6053,8 @@ var DOMAINS = {
     "lifemiles": 0,
     "longtoes": 0,
     "lovetvshow": 0,
+    "lpsg": 0,
+    "lrfz": 0,
     "macgamestore": 0,
     "madonna-av": 0,
     "mandiant": 0,
@@ -6103,6 +6106,8 @@ var DOMAINS = {
     "openai": 0,
     "pandora": 0,
     "parkansky": 0,
+    "primevideo": 0,
+    "proyectoclubes": 0,
     "pure18": 0,
     "r18": 0,
     "rateyourmusic": 0,
@@ -7238,8 +7243,6 @@ var DOMAINS = {
       "secure": 0
     },
     "lookpic": 0,
-    "lpsg": 0,
-    "lrfz": 0,
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
@@ -7496,7 +7499,6 @@ var DOMAINS = {
     "privatevpn": 0,
     "procopytips": 0,
     "proxpn": 0,
-    "proyectoclubes": 0,
     "pshvpn": 0,
     "psiphon3": 0,
     "pttgame": 0,
@@ -8692,6 +8694,57 @@ var DOMAINS = {
     "li": 0,
     "metro": 0
   },
+  "io": {
+    "bwbx": {
+      "assets": 0
+    },
+    "flexpool": 0,
+    "ipfs": 0,
+    "nofile": 0,
+    "six-degrees": 0,
+    "dragonex": 0,
+    "etherscan": 0,
+    "gate": 0,
+    "opensea": 0,
+    "simpleswap": 0,
+    "gcr": 0,
+    "getmdl": 0,
+    "material": 0,
+    "shattered": 0,
+    "apiary": 0,
+    "codeshare": 0,
+    "docker": 0,
+    "ddex": 0,
+    "doub": 0,
+    "firetweet": 0,
+    "fountmedia": 0,
+    "gitbook": 0,
+    "geph": 0,
+    "git": 0,
+    "github": 0,
+    "hackmd": 0,
+    "mathable": 0,
+    "mega": 0,
+    "mod": 0,
+    "pen": 0,
+    "statically": {
+      "cdn": 0
+    },
+    "scramble": 0,
+    "soup": {
+      "@": 0,
+      "static": 1
+    },
+    "spatial": 0,
+    "storj": 0,
+    "tardigrade": 0,
+    "typeset": 0,
+    "tianti": 0,
+    "twaud": 0,
+    "typora": 0,
+    "z-lib": 0,
+    "zeronet": 0
+  },
   "tv": {
     "azubu": 0,
     "dnvod": 0,
@@ -9394,6 +9447,18 @@ var DOMAINS = {
     "zspeeder": 0,
     "zuobiao": 0
   },
+  "org/*-*/firefox/addon/ublock-origin/*": {
+    "mozilla": {
+      "addons": 0
+    }
+  },
+  "xpi": {
+    "org/firefox/downloads/file/*/ublock_origin-*": {
+      "mozilla": {
+        "addons": 0
+      }
+    }
+  },
   "gov": {
     "msha": 0,
     "nic": 0,
@@ -9481,57 +9546,6 @@ var DOMAINS = {
     "zhizhu": 0,
     "dpool": 0,
     "nightswatch": 0
-  },
-  "io": {
-    "flexpool": 0,
-    "ipfs": 0,
-    "nofile": 0,
-    "six-degrees": 0,
-    "dragonex": 0,
-    "etherscan": 0,
-    "gate": 0,
-    "opensea": 0,
-    "simpleswap": 0,
-    "gcr": 0,
-    "getmdl": 0,
-    "material": 0,
-    "shattered": 0,
-    "apiary": 0,
-    "bwbx": {
-      "assets": 0
-    },
-    "codeshare": 0,
-    "docker": 0,
-    "ddex": 0,
-    "doub": 0,
-    "firetweet": 0,
-    "fountmedia": 0,
-    "gitbook": 0,
-    "geph": 0,
-    "git": 0,
-    "github": 0,
-    "hackmd": 0,
-    "mathable": 0,
-    "mega": 0,
-    "mod": 0,
-    "pen": 0,
-    "statically": {
-      "cdn": 0
-    },
-    "scramble": 0,
-    "soup": {
-      "@": 0,
-      "static": 1
-    },
-    "spatial": 0,
-    "storj": 0,
-    "tardigrade": 0,
-    "typeset": 0,
-    "tianti": 0,
-    "twaud": 0,
-    "typora": 0,
-    "z-lib": 0,
-    "zeronet": 0
   },
   "icu": {
     "xn--11xs86f": 0,
@@ -10246,18 +10260,6 @@ var DOMAINS = {
     "localdomain": 0,
     "missav": 0,
     "rmbl": 0
-  },
-  "org/*-*/firefox/addon/ublock-origin/*": {
-    "mozilla": {
-      "addons": 0
-    }
-  },
-  "xpi": {
-    "org/firefox/downloads/file/*/ublock_origin-*": {
-      "mozilla": {
-        "addons": 0
-      }
-    }
   },
   "run": {
     "mangmang": 0
