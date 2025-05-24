@@ -6235,6 +6235,7 @@ var DOMAINS = {
     },
     "redditspace": 0,
     "reddit": 0,
+    "reddithelp": 0,
     "redditmedia": 0,
     "redditstatic": 0,
     "rixcloud": 0,
@@ -7323,7 +7324,9 @@ var DOMAINS = {
     "nikke-kr": 0,
     "nikke-jp": 0,
     "nikke-en": 0,
-    "nodeloc": 0,
+    "nodeloc": {
+      "www": 0
+    },
     "newthuhole": 0,
     "nakido": 0,
     "namsisi": 0,
