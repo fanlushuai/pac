@@ -11904,6 +11904,7 @@ var DOMAINS = {
     "fb": 0
   },
   "google": {
+    "gemini": 0,
     "ai": 0,
     "notebooklm": 0,
     "play": 0,
