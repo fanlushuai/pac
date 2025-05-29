@@ -6169,11 +6169,6 @@ var DOMAINS = {
     "xn--9pr62r24a": 0,
     "xn--ngstr-lra8j": 0,
     "abebooks": 0,
-    "amazonaws": {
-      "s3-ap-southeast-1": 0,
-      "s3-ap-southeast-2": 0,
-      "s3-ap-*": 0
-    },
     "9cache": 0,
     "9gag": 0,
     "apkmirror": 0,
@@ -6339,6 +6334,23 @@ var DOMAINS = {
     },
     "amazon": {
       "payments-jp": 0
+    },
+    "amazonaws": {
+      "s3-ap-*": 0,
+      "eu-central-1": {
+        "s3": 0
+      },
+      "s3-eu-central-1": 0,
+      "us-east-1": {
+        "s3": 0
+      },
+      "s3-ap-northeast-2": 0,
+      "ap-northeast-2": {
+        "s3": 0
+      },
+      "s3-ap-northeast-1": 0,
+      "s3-ap-southeast-1": 0,
+      "s3-ap-southeast-2": 0
     },
     "aol": {
       "aolchannels": 0,
@@ -9946,7 +9958,9 @@ var DOMAINS = {
   "watch": {
     "fb": 0
   },
-  "google": 0,
+  "google": {
+    "*": 0
+  },
   "new": {
     "doc": 0,
     "form": 0,
