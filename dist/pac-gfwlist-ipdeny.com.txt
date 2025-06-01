@@ -6730,6 +6730,7 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "ctinews": 0,
     "cachefly": 0,
     "campaign-archive": 0,
     "cfsh99": {
