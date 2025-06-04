@@ -5675,6 +5675,9 @@ var DOMAINS = {
     "12vpn": 0,
     "8z1": 0,
     "9bis": 0,
+    "arstechnica": {
+      "cdn": 0
+    },
     "ai-kan": 0,
     "aiph": 0,
     "akamai": {
@@ -5990,6 +5993,7 @@ var DOMAINS = {
     "carfax": 0,
     "casinobellini": 0,
     "ciciai": 0,
+    "cici": 0,
     "clearsurance": 0,
     "costco": 0,
     "coze": 0,
