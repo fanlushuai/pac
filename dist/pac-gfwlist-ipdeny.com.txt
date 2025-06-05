@@ -10054,6 +10054,7 @@ var DOMAINS = {
   "to": {
     "1337x": 0,
     "breached": 0,
+    "coffeemanga": 0,
     "mychat": {
       "bbs": 0
     },
