@@ -9171,6 +9171,7 @@ var DOMAINS = {
     "kyoyue": 0,
     "kyzyhello": 0,
     "kzaobao": 0,
+    "lingualeo": 0,
     "lagranepoca": 0,
     "laptoplockdown": 0,
     "larsgeorge": 0,
