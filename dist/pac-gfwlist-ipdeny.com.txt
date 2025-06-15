@@ -5733,6 +5733,7 @@ var DOMAINS = {
     "findyoutube": 0,
     "flowhongkong": 0,
     "frommel": 0,
+    "gitlab": 0,
     "gaoming": 0,
     "geek-art": 0,
     "geti2p": 0,
@@ -5744,6 +5745,7 @@ var DOMAINS = {
       "suche": 0
     },
     "greenvpn": 0,
+    "hinet": 0,
     "hackthatphone": 0,
     "hdtvb": 0,
     "he": {
