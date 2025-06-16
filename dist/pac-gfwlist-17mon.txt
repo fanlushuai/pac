@@ -10406,6 +10406,7 @@ var DOMAINS = {
     "helpster": 0,
     "i2p2": 0,
     "mobileways": 0,
+    "oojj": 0,
     "otto": 0,
     "privacybox": 0,
     "prosiben": 0,
