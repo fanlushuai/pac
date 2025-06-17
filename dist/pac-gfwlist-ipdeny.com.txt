@@ -5639,7 +5639,6 @@ var DOMAINS = {
     "livecoin": 0,
     "yobit": 0,
     "china-mmm": 0,
-    "cloudfront": 0,
     "facebook": {
       "connect": 0
     },
@@ -8479,6 +8478,9 @@ var DOMAINS = {
     "getmdl": 0,
     "material": 0,
     "shattered": 0,
+    "4everland": {
+      "ipfs": 0
+    },
     "apiary": 0,
     "codeshare": 0,
     "docker": 0,
@@ -8967,6 +8969,7 @@ var DOMAINS = {
     "landofhope": 0,
     "nbyy": 0,
     "ntd": 0,
+    "storry": 0,
     "subhd": 0,
     "tou": 0,
     "tibetonline": 0,
@@ -9767,6 +9770,12 @@ var DOMAINS = {
     },
     "rfi": 0
   },
+  "link": {
+    "dweb": 0,
+    "nftstorage": 0,
+    "page": 0,
+    "vnet": 0
+  },
   "cash": {
     "d": 0
   },
@@ -9909,10 +9918,6 @@ var DOMAINS = {
   "pub": {
     "pandafan": 0,
     "xt": 0
-  },
-  "link": {
-    "page": 0,
-    "vnet": 0
   },
   "click": {
     "popxi": 0
@@ -13003,6 +13008,7 @@ var BLACKPAT = [
   "*.vpser.net*",
   "*vraiesagesse.net*",
   "*.vrmtr.com*",
+  "https://w3s.link/ipfs*",
   "*lists.w3.org/archives/public*",
   "*.wahas.com*",
   "*waikeung.org/php_wind*",
