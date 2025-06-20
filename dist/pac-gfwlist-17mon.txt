@@ -8465,6 +8465,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "amuletmc": 0,
     "abplive": 0,
     "aljazeera": 0,
     "akinator": 0,
