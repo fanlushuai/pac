@@ -9597,9 +9597,11 @@ var DOMAINS = {
   "watch": {
     "fb": 0
   },
-  "google": {
-    "*": 0
+  "gle": {
+    "@": 0,
+    "goo": 0
   },
+  "google": 0,
   "new": {
     "doc": 0,
     "form": 0,
@@ -9635,9 +9637,6 @@ var DOMAINS = {
   "gl": {
     "goo": 0,
     "z-lib": 0
-  },
-  "gle": {
-    "goo": 0
   },
   "soy": {
     "iam": 0
@@ -9847,6 +9846,13 @@ var DOMAINS = {
   },
   "men": {
     "hsex": 0
+  },
+  "ir": {
+    "president": 0,
+    "gov": 0,
+    "irna": 0,
+    "arvanstorage": 0,
+    "irangov": 0
   },
   "works": {
     "improd": 0
