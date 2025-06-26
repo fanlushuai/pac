@@ -1738,7 +1738,7 @@ var CHINA = [
   [0x67561C00, 0xFFFFFC00], // 103.86.28.0/22
   [0x67562000, 0xFFFFFC00], // 103.86.32.0/22
   [0x67563C00, 0xFFFFFC00], // 103.86.60.0/22
-  [0x67565000, 0xFFFFF800], // 103.86.80.0/21
+  [0x67565400, 0xFFFFFC00], // 103.86.84.0/22
   [0x6756CC00, 0xFFFFFC00], // 103.86.204.0/22
   [0x6756D000, 0xFFFFF000], // 103.86.208.0/20
   [0x6756E000, 0xFFFFE000], // 103.86.224.0/19
@@ -3903,6 +3903,8 @@ var CHINA = [
   [0xA5630400, 0xFFFFFF00], // 165.99.4.0/24
   [0xA5632A00, 0xFFFFFE00], // 165.99.42.0/23
   [0xA5650400, 0xFFFFFE00], // 165.101.4.0/23
+  [0xA5654200, 0xFFFFFE00], // 165.101.66.0/23
+  [0xA5654600, 0xFFFFFE00], // 165.101.70.0/23
   [0xA66F0000, 0xFFFF0000], // 166.111.0.0/16
   [0xA78B0000, 0xFFFF0000], // 167.139.0.0/16
   [0xA7BD0000, 0xFFFF0000], // 167.189.0.0/16
@@ -5700,6 +5702,7 @@ var DOMAINS = {
     "catch22": 0,
     "ccthere": 0,
     "chinaaid": 0,
+    "chinadialogue": 0,
     "chinadigitaltimes": 0,
     "classicalguitarblog": 0,
     "creaders": 0,
@@ -6683,10 +6686,12 @@ var DOMAINS = {
     "chatgpt": 0,
     "chaturbate": 0,
     "checkgfw": 0,
+    "chengmingmag": 0,
     "chenguangcheng": 0,
     "chenpokong": 0,
     "chenpokongvip": 0,
     "cherrysave": 0,
+    "china-week": 0,
     "china101": 0,
     "china21": 0,
     "chinafile": 0,
@@ -7391,6 +7396,7 @@ var DOMAINS = {
     "qoos": 0,
     "efksoft": 0,
     "qstatus": 0,
+    "radmin-vpn": 0,
     "rule34video": 0,
     "radiovncr": 0,
     "raggedbanner": 0,
@@ -8046,9 +8052,11 @@ var DOMAINS = {
     "cfr": 0,
     "change": 0,
     "chanworld": 0,
+    "chhongbi": 0,
     "china18": 0,
     "china21": 0,
     "chinaaffairs": 0,
+    "chinaaid": 0,
     "chinachange": 0,
     "chinademocrats": 0,
     "chinaelections": 0,
@@ -9416,6 +9424,8 @@ var DOMAINS = {
     "careerengine": {
       "posts": 0
     },
+    "china5000": 0,
+    "chinaaid": 0,
     "devio": 0,
     "dit-inc": 0,
     "donmai": {
@@ -10762,25 +10772,6 @@ var BLACKPAT = [
   "*.changp.com*",
   "*.chaturbate.com*",
   "*.chuang-yen.org*",
-  "*chengmingmag.com*",
-  "*.chenguangcheng.com*",
-  "*.chenpokong.com*",
-  "*.chhongbi.org*",
-  "*chicagoncmtv.com*",
-  "http://chicagoncmtv.com*",
-  "*.china-week.com*",
-  "*china101.com*",
-  "*china21.org*",
-  "*.china5000.us*",
-  "*chinaaffairs.org*",
-  "*chinaaid.us*",
-  "*chinaaid.org*",
-  "*chinaaid.net*",
-  "*.chinachange.org*",
-  "*chinachannel.hk*",
-  "*.chinadialogue.net*",
-  "*.chinadigitaltimes.net*",
-  "*.chinaelections.org*",
   "*.chinagate.com*",
   "*chinagfw.org*",
   "*.chinagonet.com*",
@@ -11221,9 +11212,6 @@ var BLACKPAT = [
   "*.freechal.com*",
   "*.freedomhouse.org*",
   "*.freedomsherald.org*",
-  "*.freefq.com*",
-  "*.freefuckvids.com*",
-  "*.freegao.com*",
   "*freeilhamtohti.org*",
   "*.freelotto.com*",
   "*freeman2.com*",
