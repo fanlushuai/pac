@@ -7678,6 +7678,7 @@ var DOMAINS = {
     "dongtaiwang": 0,
     "drgan": 0,
     "dwnews": 0,
+    "e621": 0,
     "edgecastcdn": 0,
     "erights": 0,
     "evschool": 0,
