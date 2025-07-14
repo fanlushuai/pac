@@ -10370,6 +10370,9 @@ var DOMAINS = {
     "wnacg": 0,
     "wokar": 0,
     "workerempowerment": 0,
+    "xicons": {
+      "www": 0
+    },
     "x-wall": 0,
     "xiaoma": 0,
     "xinjiangpolicefiles": 0,
