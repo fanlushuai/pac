@@ -10378,6 +10378,7 @@ var DOMAINS = {
     "xinjiangpolicefiles": 0,
     "xpud": 0,
     "xuchao": 0,
+    "yangzhi": 0,
     "yogichen": 0,
     "youpai": 0,
     "yyii": 0,
