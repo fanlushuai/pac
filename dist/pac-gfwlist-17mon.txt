@@ -11379,7 +11379,8 @@ var DOMAINS = {
       "lab": 0
     },
     "sstm": 0,
-    "sstmlt": 0
+    "sstmlt": 0,
+    "wxw": 0
   },
   "rocks": {
     "pincong": 0,
@@ -11967,6 +11968,9 @@ var DOMAINS = {
   },
   "ac": {
     "vpn": 0
+  },
+  "cat": {
+    "wxw": 0
   },
   "tech": {
     "funami": {
