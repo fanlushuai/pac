@@ -8256,6 +8256,7 @@ var DOMAINS = {
     "bbcchinese": 0,
     "bloomberg": 0,
     "bloombergview": 0,
+    "cloudflare-dns": 0,
     "dynu": 0,
     "accountkit": 0,
     "cdninstagram": 0,
@@ -8538,6 +8539,7 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "bitget": 0,
     "blackmagicdesign": 0,
     "bearteach": 0,
     "blocktempo": 0,
@@ -9181,9 +9183,6 @@ var DOMAINS = {
     "nikke-kr": 0,
     "nikke-jp": 0,
     "nikke-en": 0,
-    "nodeloc": {
-      "www": 0
-    },
     "newthuhole": 0,
     "nakido": 0,
     "nanyang": 0,
@@ -9657,6 +9656,7 @@ var DOMAINS = {
     "twilio": {
       "contests": 0
     },
+    "upbit": 0,
     "u9un": 0,
     "udn": 0,
     "ultravpn": 0,
