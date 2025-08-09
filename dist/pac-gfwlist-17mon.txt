@@ -7762,6 +7762,9 @@ var DOMAINS = {
     "mobatek": 0,
     "mullvad": 0,
     "muzi": 0,
+    "neoforged": {
+      "maven": 0
+    },
     "naixi": {
       "bbs": 0
     },
