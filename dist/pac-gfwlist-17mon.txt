@@ -7642,6 +7642,7 @@ var DOMAINS = {
     "azurewebsites": {
       "boxun*": 0
     },
+    "betterhash": 0,
     "btbit": 0,
     "betaclouds": 0,
     "bayvoice": 0,
@@ -8909,6 +8910,7 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "herominers": 0,
     "hindustantimes": 0,
     "haiwaikan": 0,
     "haijiao": 0,
@@ -10477,6 +10479,7 @@ var DOMAINS = {
     "git": 0,
     "github": 0,
     "hackmd": 0,
+    "itch": 0,
     "infura": 0,
     "metamask": 0,
     "mega": 0,
