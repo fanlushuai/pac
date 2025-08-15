@@ -9123,6 +9123,7 @@ var DOMAINS = {
     "kuaichedao": 0,
     "pandapow": 0,
     "radioline": 0,
+    "swapspace": 0,
     "tcpspeed": 0,
     "net": {
       "twister": 0
