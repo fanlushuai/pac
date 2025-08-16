@@ -10228,6 +10228,8 @@ var DOMAINS = {
     "openstreetmap": 0,
     "overdaily": 0,
     "ozvoice": 0,
+    "pewresearch": 0,
+    "privacyguides": 0,
     "puredns": 0,
     "pastie": 0,
     "pbs": 0,
@@ -11484,7 +11486,8 @@ var DOMAINS = {
     }
   },
   "finance": {
-    "solv": 0
+    "solv": 0,
+    "pancakeswap": 0
   },
   "dev": {
     "go5": 0,
