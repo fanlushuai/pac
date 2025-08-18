@@ -6752,6 +6752,9 @@ var DOMAINS = {
     "curvefish": 0,
     "cyberghostvpn": 0,
     "cynscribe": 0,
+    "deno": {
+      "docs": 0
+    },
     "disneyplus": 0,
     "doubiyunbackup": 0,
     "dadazim": 0,
@@ -6831,6 +6834,7 @@ var DOMAINS = {
     "expecthim": 0,
     "expressvpn": 0,
     "eyny": 0,
+    "furrybar": 0,
     "forbes": 0,
     "financialexpress": 0,
     "fast": 0,
@@ -7220,6 +7224,7 @@ var DOMAINS = {
     "myparagliding": 0,
     "mypopescu": 0,
     "myspacecdn": 0,
+    "naver": 0,
     "newindianexpress": 0,
     "news18": 0,
     "nikke-kr": 0,
@@ -9534,6 +9539,7 @@ var DOMAINS = {
     "tfhub": 0,
     "web": 0,
     "tg": 0,
+    "deno": 0,
     "fuchsia": 0,
     "unlock-music": {
       "demo": 0
