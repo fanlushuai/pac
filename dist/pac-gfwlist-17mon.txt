@@ -8296,7 +8296,6 @@ var DOMAINS = {
       "@": 0,
       "clientservices": 1,
       "fonts": 1,
-      "storage": 1,
       "update": 1,
       "safebrowsing": 1
     },
@@ -11315,6 +11314,7 @@ var DOMAINS = {
     "popvote": 0,
     "rthk": 0,
     "sacom": 0,
+    "udomain": 0,
     "unwire": 0
   },
   "space": {
