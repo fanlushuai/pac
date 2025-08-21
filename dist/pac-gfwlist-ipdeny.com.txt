@@ -7009,6 +7009,7 @@ var DOMAINS = {
     "huhangfei": 0,
     "hung-ya": 0,
     "hyperrate": 0,
+    "itiger": 0,
     "india": 0,
     "imago-images": 0,
     "i818hk": 0,
