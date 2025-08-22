@@ -10765,6 +10765,7 @@ var DOMAINS = {
     "org": {
       "kinmen": 0,
       "ait": 0,
+      "covenantswatch": 0,
       "catholic": 0,
       "ccfd": 0,
       "cmi": 0,
