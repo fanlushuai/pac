@@ -8796,6 +8796,7 @@ var DOMAINS = {
     "expecthim": 0,
     "expressvpn": 0,
     "eyny": 0,
+    "feedly": 0,
     "fuckccp": 0,
     "furrybar": 0,
     "forbes": 0,
@@ -10667,6 +10668,7 @@ var DOMAINS = {
     "technews": 0,
     "dailyview": 0,
     "gov": {
+      "moj": 0,
       "archives": 0,
       "cwb": {
         "tacc": 0,
