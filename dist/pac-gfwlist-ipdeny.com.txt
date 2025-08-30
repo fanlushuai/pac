@@ -4076,6 +4076,7 @@ var CHINA = [
   [0xCA066E00, 0xFFFFFE00], // 202.6.110.0/23
   [0xCA067200, 0xFFFFFF00], // 202.6.114.0/24
   [0xCA06B000, 0xFFFFF000], // 202.6.176.0/20
+  [0xCA06CA00, 0xFFFFFE00], // 202.6.202.0/23
   [0xCA080000, 0xFFFFFF00], // 202.8.0.0/24
   [0xCA080200, 0xFFFFFE00], // 202.8.2.0/23
   [0xCA080400, 0xFFFFFE00], // 202.8.4.0/23
@@ -8092,7 +8093,6 @@ var DOMAINS = {
     "crchina": 0,
     "csis": 0,
     "ctowc": 0,
-    "dpdns": 0,
     "doom9": 0,
     "dalianmeng": 0,
     "daliulian": 0,
