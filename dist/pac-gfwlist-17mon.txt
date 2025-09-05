@@ -8542,6 +8542,7 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "bt4gprx": 0,
     "bitget": 0,
     "blackmagicdesign": 0,
     "bearteach": 0,
@@ -9996,6 +9997,7 @@ var DOMAINS = {
     "asiaharvest": 0,
     "avaaz": 0,
     "avidemux": 0,
+    "bt4g": 0,
     "binance": 0,
     "baijie": 0,
     "baizhi": 0,
@@ -10876,7 +10878,8 @@ var DOMAINS = {
     "nga": 0
   },
   "gg": {
-    "discord": 0
+    "discord": 0,
+    "tanks": 0
   },
   "jp": {
     "co": {

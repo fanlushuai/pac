@@ -4382,6 +4382,7 @@ var CHINA = [
   [0xCA868000, 0xFFFFF000], // 202.134.128.0/20
   [0xCA86D000, 0xFFFFF000], // 202.134.208.0/20
   [0xCA883000, 0xFFFFF000], // 202.136.48.0/20
+  [0xCA884800, 0xFFFFFE00], // 202.136.72.0/23
   [0xCA885000, 0xFFFFFE00], // 202.136.80.0/23
   [0xCA88D000, 0xFFFFF000], // 202.136.208.0/20
   [0xCA88E000, 0xFFFFF000], // 202.136.224.0/20
@@ -6579,6 +6580,7 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "bt4gprx": 0,
     "bitget": 0,
     "blackmagicdesign": 0,
     "bearteach": 0,
@@ -8033,6 +8035,7 @@ var DOMAINS = {
     "asiaharvest": 0,
     "avaaz": 0,
     "avidemux": 0,
+    "bt4g": 0,
     "binance": 0,
     "baijie": 0,
     "baizhi": 0,
@@ -8913,7 +8916,8 @@ var DOMAINS = {
     "nga": 0
   },
   "gg": {
-    "discord": 0
+    "discord": 0,
+    "tanks": 0
   },
   "jp": {
     "co": {
