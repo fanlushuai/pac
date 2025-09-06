@@ -10150,6 +10150,10 @@ var DOMAINS = {
     "huayuworld": 0,
     "humanrightspressawards": 0,
     "hxwk": 0,
+    "ipify": {
+      "@": 0,
+      "*": 1
+    },
     "icij": 0,
     "icl-fi": 0,
     "furbo": 0,
