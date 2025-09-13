@@ -9124,6 +9124,7 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "mcusercontent": 0,
     "musixmatch": 0,
     "mergersandinquisitions": 0,
     "mercari": 0,
@@ -9522,6 +9523,7 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "talkatone": 0,
     "thehansindia": 0,
     "tnt-ea": {
       "rtm": 0
@@ -11286,6 +11288,7 @@ var DOMAINS = {
       "logos": 0,
       "metroradio": 0,
       "nextdigital": 0,
+      "sina": 0,
       "shadowsocks": 0,
       "xinmiao": 0,
       "yesasia": 0
