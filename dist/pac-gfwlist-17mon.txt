@@ -7763,6 +7763,7 @@ var DOMAINS = {
     "mobatek": 0,
     "mullvad": 0,
     "muzi": 0,
+    "nirsoft": 0,
     "neoforged": {
       "maven": 0
     },
@@ -7850,6 +7851,7 @@ var DOMAINS = {
     },
     "lecloud": 0,
     "uberproxy": 0,
+    "vpsxb": 0,
     "vewas": 0,
     "vpn": 0,
     "vpnforgame": 0,
@@ -8855,6 +8857,7 @@ var DOMAINS = {
     "fullservicegame": 0,
     "furinkan": 0,
     "fxcm-chinese": 0,
+    "gitlab": 0,
     "g-queen": 0,
     "gab": 0,
     "gabocorp": 0,
@@ -10113,6 +10116,7 @@ var DOMAINS = {
     "frontlinedefenders": 0,
     "fscked": 0,
     "futuremessage": 0,
+    "garudalinux": 0,
     "getsession": 0,
     "gdaily": 0,
     "gfwatch": 0,
