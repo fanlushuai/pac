@@ -6886,7 +6886,9 @@ var DOMAINS = {
     "fullservicegame": 0,
     "furinkan": 0,
     "fxcm-chinese": 0,
-    "gitlab": 0,
+    "gitlab": {
+      "about": 0
+    },
     "g-queen": 0,
     "gab": 0,
     "gabocorp": 0,
