@@ -9382,8 +9382,7 @@ var DOMAINS = {
     "asianews": 0,
     "blockcast": 0,
     "epochtimes": 0,
-    "libredd": 0,
-    "uderzo": 0
+    "libredd": 0
   },
   "im": {
     "cmx": 0,
