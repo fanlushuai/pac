@@ -2249,7 +2249,6 @@ var CHINA = [
   [0x67979E00, 0xFFFFFE00], // 103.151.158.0/23
   [0x6797D800, 0xFFFFFE00], // 103.151.216.0/23
   [0x6797E400, 0xFFFFFE00], // 103.151.228.0/23
-  [0x67980E00, 0xFFFFFE00], // 103.152.14.0/23
   [0x67981800, 0xFFFFFE00], // 103.152.24.0/23
   [0x67981C00, 0xFFFFFC00], // 103.152.28.0/22
   [0x67983800, 0xFFFFFE00], // 103.152.56.0/23
@@ -7265,6 +7264,7 @@ var DOMAINS = {
     "nvdst": 0,
     "nybooks": 0,
     "nypost": 0,
+    "octocaptcha": 0,
     "onevps": 0,
     "onedrive": 0,
     "olelive": 0,
@@ -7288,6 +7288,9 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "palworldgame": {
+      "api": 0
+    },
     "pornmate": 0,
     "polymarket": 0,
     "proxz": 0,

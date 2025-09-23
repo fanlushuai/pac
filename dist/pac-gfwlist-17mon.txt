@@ -9236,6 +9236,7 @@ var DOMAINS = {
     "nvdst": 0,
     "nybooks": 0,
     "nypost": 0,
+    "octocaptcha": 0,
     "onevps": 0,
     "onedrive": 0,
     "olelive": 0,
@@ -9259,6 +9260,9 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "palworldgame": {
+      "api": 0
+    },
     "pornmate": 0,
     "polymarket": 0,
     "proxz": 0,
