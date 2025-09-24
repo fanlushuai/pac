@@ -6656,6 +6656,7 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "ctinets": 0,
     "cpu-monkey": 0,
     "ctinews": 0,
     "cachefly": 0,
@@ -8190,6 +8191,7 @@ var DOMAINS = {
     "huayuworld": 0,
     "humanrightspressawards": 0,
     "hxwk": 0,
+    "interseclab": 0,
     "ipify": {
       "@": 0,
       "*": 1
