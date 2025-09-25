@@ -9746,6 +9746,7 @@ var DOMAINS = {
     "vrchat": 0,
     "vrporn": 0,
     "vtunnel": 0,
+    "wikipedia": 0,
     "walletconnect": 0,
     "waffle1999": 0,
     "wallmama": 0,
