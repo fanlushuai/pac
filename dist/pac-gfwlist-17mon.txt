@@ -10525,6 +10525,8 @@ var DOMAINS = {
     },
     "spatial": 0,
     "storj": 0,
+    "tap": 0,
+    "taptap": 0,
     "tardigrade": 0,
     "typeset": 0,
     "tianti": 0,
