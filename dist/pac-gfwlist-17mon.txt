@@ -11287,6 +11287,7 @@ var DOMAINS = {
   },
   "icu": {
     "xn--11xs86f": 0,
+    "996": 0,
     "611study": 0,
     "unstable": 0
   },
