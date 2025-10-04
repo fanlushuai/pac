@@ -8247,6 +8247,7 @@ var DOMAINS = {
     "moegirl": {
       "m": 0
     },
+    "marxists": 0,
     "matrix": 0,
     "md-t": 0,
     "mercyprophet": 0,
@@ -11911,7 +11912,6 @@ var BLACKPAT = [
   "http://martsangkagyuofficial.org*",
   "*maruta.be/forget*",
   "*.marxist.com*",
-  "*.marxists.org/chinese*",
   "*mayimayi.com*",
   "*.maxing.jp*",
   "*.mcaf.ee*",
