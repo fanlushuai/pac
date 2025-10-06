@@ -7731,6 +7731,7 @@ var DOMAINS = {
     "uujiasu": 0,
     "uwants": 0,
     "uyghurtribunal": 0,
+    "vimeocdn": 0,
     "vocaroo": 0,
     "v2ray": 0,
     "v2raycn": 0,
