@@ -10517,6 +10517,7 @@ var DOMAINS = {
     "mega": 0,
     "mod": 0,
     "pen": 0,
+    "solscan": 0,
     "statically": {
       "cdn": 0
     },
