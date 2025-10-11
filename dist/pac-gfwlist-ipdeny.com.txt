@@ -9290,6 +9290,7 @@ var DOMAINS = {
   },
   "es": {
     "spreadshirt": 0,
+    "freegpt": 0,
     "lastfm": 0,
     "twittertim": 0,
     "unblocksit": 0,
@@ -9855,6 +9856,12 @@ var DOMAINS = {
   "nico": {
     "dmc": 0
   },
+  "tech": {
+    "freegpt": 0,
+    "funami": {
+      "wikiless": 0
+    }
+  },
   "zone": {
     "froth": 0
   },
@@ -10054,11 +10061,6 @@ var DOMAINS = {
   },
   "cat": {
     "wxw": 0
-  },
-  "tech": {
-    "funami": {
-      "wikiless": 0
-    }
   },
   "bible": {
     "wd": 0
