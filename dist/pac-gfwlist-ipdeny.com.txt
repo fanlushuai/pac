@@ -6505,6 +6505,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "asianfanfics": 0,
     "amuletmc": 0,
     "abplive": 0,
     "aljazeera": 0,
@@ -7562,6 +7563,7 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "trustwallet": 0,
     "talkatone": 0,
     "thehansindia": 0,
     "tnt-ea": {
@@ -10081,6 +10083,9 @@ var DOMAINS = {
   },
   "tokyo": {
     "yunomi": 0
+  },
+  "ec": {
+    "z-library": 0
   },
   "gd": {
     "z-lib": 0
