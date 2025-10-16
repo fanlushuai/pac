@@ -6107,6 +6107,7 @@ var DOMAINS = {
     "spiderpool": 0,
     "btc": 0,
     "w-pool": 0,
+    "xn--u2u927b": 0,
     "xn--4gq171p": 0,
     "xn--i2ru8q2qg": 0,
     "xn--noss43i": 0,
@@ -8053,7 +8054,6 @@ var DOMAINS = {
     "bitcointalk": 0,
     "bjzc": 0,
     "braumeister": 0,
-    "btdigg": 0,
     "btku": 0,
     "budaedu": 0,
     "bullog": 0,
@@ -8419,6 +8419,7 @@ var DOMAINS = {
     "vimperator": 0,
     "voicettank": 0,
     "vot": 0,
+    "websdr": 0,
     "work2icu": 0,
     "waltermartin": 0,
     "wan-press": {
@@ -9664,6 +9665,16 @@ var DOMAINS = {
   "watch": {
     "fb": 0
   },
+  "goog": {
+    "@": 0,
+    "pki": {
+      "@": 0,
+      "i": 1,
+      "ocsp": 1
+    },
+    "translate": 0,
+    "usercontent": 0
+  },
   "gle": {
     "@": 0,
     "goo": 0
@@ -9707,15 +9718,6 @@ var DOMAINS = {
   },
   "soy": {
     "iam": 0
-  },
-  "goog": {
-    "pki": {
-      "@": 0,
-      "i": 1,
-      "ocsp": 1
-    },
-    "translate": 0,
-    "usercontent": 0
   },
   "codes": {
     "plus": 0
