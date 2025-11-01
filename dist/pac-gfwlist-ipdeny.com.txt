@@ -7568,6 +7568,7 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "temu": 0,
     "trustwallet": 0,
     "talkatone": 0,
     "thehansindia": 0,
