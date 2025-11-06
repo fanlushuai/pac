@@ -6835,6 +6835,7 @@ var DOMAINS = {
     "expecthim": 0,
     "expressvpn": 0,
     "eyny": 0,
+    "flexclip": 0,
     "feedly": 0,
     "fuckccp": 0,
     "furrybar": 0,
