@@ -10522,6 +10522,9 @@ var DOMAINS = {
     "metamask": 0,
     "mega": 0,
     "mod": 0,
+    "prismic": {
+      "images": 0
+    },
     "pen": 0,
     "solscan": 0,
     "statically": {
