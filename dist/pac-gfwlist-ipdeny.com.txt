@@ -6509,6 +6509,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "adguard-vpn": 0,
     "aoxvpn": 0,
     "asianfanfics": 0,
     "amuletmc": 0,
@@ -6964,6 +6965,7 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "hbomax": 0,
     "hicairo": 0,
     "herominers": 0,
     "hindustantimes": 0,
@@ -7429,6 +7431,7 @@ var DOMAINS = {
     "qoos": 0,
     "efksoft": 0,
     "qstatus": 0,
+    "rustdesk": 0,
     "radmin-vpn": 0,
     "rule34video": 0,
     "radiovncr": 0,
@@ -9812,7 +9815,8 @@ var DOMAINS = {
     "6do": 0
   },
   "rip": {
-    "acg": 0
+    "acg": 0,
+    "mjj": 0
   },
   "bar": {
     "alive": 0
