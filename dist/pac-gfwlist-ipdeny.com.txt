@@ -6110,6 +6110,7 @@ var DOMAINS = {
     "spiderpool": 0,
     "btc": 0,
     "w-pool": 0,
+    "xn--9iqy04a7fi01l": 0,
     "xn--u2u927b": 0,
     "xn--4gq171p": 0,
     "xn--i2ru8q2qg": 0,
@@ -6295,6 +6296,7 @@ var DOMAINS = {
     "bbcchinese": 0,
     "bloomberg": 0,
     "bloombergview": 0,
+    "cloudflarestatus": 0,
     "cloudflare-dns": 0,
     "dynu": 0,
     "accountkit": 0,
@@ -9780,6 +9782,7 @@ var DOMAINS = {
   },
   "sk": {
     "1lib": 0,
+    "library-access": 0,
     "yadi": 0,
     "z-library": 0
   },
@@ -9817,6 +9820,8 @@ var DOMAINS = {
   },
   "rip": {
     "acg": 0,
+    "mij": 0,
+    "mji": 0,
     "mjj": 0
   },
   "bar": {
