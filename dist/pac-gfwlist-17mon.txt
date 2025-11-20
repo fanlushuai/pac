@@ -8871,6 +8871,7 @@ var DOMAINS = {
     "fullservicegame": 0,
     "furinkan": 0,
     "fxcm-chinese": 0,
+    "greatfirevpn": 0,
     "gitlab": {
       "about": 0
     },
@@ -10408,6 +10409,7 @@ var DOMAINS = {
     "vimperator": 0,
     "voicettank": 0,
     "vot": 0,
+    "wikiunblocked": 0,
     "websdr": 0,
     "work2icu": 0,
     "waltermartin": 0,
