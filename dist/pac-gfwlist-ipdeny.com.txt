@@ -11937,7 +11937,6 @@ var BLACKPAT = [
   "*.lyfhk.net*",
   "http://lyfhk.net*",
   "*.lzmtnews.org*",
-  "*http://*.m-team.cc*",
   "*.macrovpn.com*",
   "*mahabodhi.org*",
   "*my.mail.ru*",
