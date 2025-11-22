@@ -8889,6 +8889,7 @@ var DOMAINS = {
     "gazotube": 0,
     "gclubs": 0,
     "gcmasia": 0,
+    "gekikame": 0,
     "genius": 0,
     "getastrill": 0,
     "getcloak": 0,
@@ -9279,6 +9280,7 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "picsart": 0,
     "palworldgame": {
       "api": 0
     },
@@ -11999,6 +12001,9 @@ var DOMAINS = {
     "mlzs": 0,
     "nutsvpn": 0
   },
+  "wiki": {
+    "namu": 0
+  },
   "ninja": {
     "ninjaproxy": 0
   },
@@ -13374,7 +13379,6 @@ var BLACKPAT = [
   "*gdzf.org*",
   "*geekerhome.com/2010/03/xixiang-project-cross-gfw*",
   "*.gekikame.com*",
-  "http://gekikame.com*",
   "*.gelbooru.com*",
   "http://gelbooru.com*",
   "*.geocities.co.jp*",
