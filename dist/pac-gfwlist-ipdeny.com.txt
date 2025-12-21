@@ -7324,6 +7324,9 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "pocketcasts": {
+      "static": 0
+    },
     "picsart": 0,
     "palworldgame": {
       "api": 0
