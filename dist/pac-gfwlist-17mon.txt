@@ -7624,6 +7624,7 @@ var DOMAINS = {
     "12vpn": 0,
     "8z1": 0,
     "9bis": 0,
+    "aljazeera": 0,
     "arstechnica": {
       "cdn": 0
     },
@@ -8730,9 +8731,6 @@ var DOMAINS = {
     "cyberghostvpn": 0,
     "cynscribe": 0,
     "dockerstatus": 0,
-    "deno": {
-      "docs": 0
-    },
     "disneyplus": 0,
     "doubiyunbackup": 0,
     "dadazim": 0,
@@ -8873,6 +8871,7 @@ var DOMAINS = {
     "fullservicegame": 0,
     "furinkan": 0,
     "fxcm-chinese": 0,
+    "gfwbao": 0,
     "greatfirevpn": 0,
     "gitlab": {
       "about": 0
@@ -9442,6 +9441,7 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "steamladder": 0,
     "sora": 0,
     "ssrtool": 0,
     "silvergatebank": 0,
@@ -11584,7 +11584,6 @@ var DOMAINS = {
     "web": 0,
     "tg": 0,
     "ai": 0,
-    "deno": 0,
     "fuchsia": 0,
     "unlock-music": {
       "demo": 0
@@ -11682,6 +11681,11 @@ var DOMAINS = {
   },
   "watch": {
     "fb": 0
+  },
+  "org ": {
+    "chromium": {
+      "issues": 0
+    }
   },
   "goog": {
     "@": 0,
