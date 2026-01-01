@@ -11319,6 +11319,7 @@ var DOMAINS = {
     "moon": 0,
     "omny": 0,
     "overcast": 0,
+    "pdst": 0,
     "ping": 0,
     "player": 0,
     "soundon": 0,
@@ -11905,7 +11906,8 @@ var DOMAINS = {
     "free": 0
   },
   "audio": {
-    "fish": 0
+    "fish": 0,
+    "up": 0
   },
   "cm": {
     "fw": 0

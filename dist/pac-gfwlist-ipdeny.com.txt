@@ -2947,7 +2947,7 @@ var CHINA = [
   [0x67FFD000, 0xFFFFFE00], // 103.255.208.0/23
   [0x67FFD400, 0xFFFFFC00], // 103.255.212.0/22
   [0x67FFE400, 0xFFFFFC00], // 103.255.228.0/22
-  [0x68A71000, 0xFFFFFE00], // 104.167.16.0/23
+  [0x68A71100, 0xFFFFFF00], // 104.167.17.0/24
   [0x6A000000, 0xFFFFFF00], // 106.0.0.0/24
   [0x6A000200, 0xFFFFFE00], // 106.0.2.0/23
   [0x6A000400, 0xFFFFFC00], // 106.0.4.0/22
@@ -9361,6 +9361,7 @@ var DOMAINS = {
     "moon": 0,
     "omny": 0,
     "overcast": 0,
+    "pdst": 0,
     "ping": 0,
     "player": 0,
     "soundon": 0,
@@ -9947,7 +9948,8 @@ var DOMAINS = {
     "free": 0
   },
   "audio": {
-    "fish": 0
+    "fish": 0,
+    "up": 0
   },
   "cm": {
     "fw": 0
