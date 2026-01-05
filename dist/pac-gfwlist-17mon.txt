@@ -8730,6 +8730,7 @@ var DOMAINS = {
     "curvefish": 0,
     "cyberghostvpn": 0,
     "cynscribe": 0,
+    "dazn": 0,
     "dockerstatus": 0,
     "disneyplus": 0,
     "doubiyunbackup": 0,
@@ -9849,6 +9850,7 @@ var DOMAINS = {
     "wufafangwen": 0,
     "wujieliulan": 0,
     "wwitv": 0,
+    "xcancel": 0,
     "xt": 0,
     "x-berry": 0,
     "x-art": 0,
@@ -10282,6 +10284,7 @@ var DOMAINS = {
     "njactb": 0,
     "nokogiri": 0,
     "notepad-plus-plus": 0,
+    "ooni": 0,
     "october-review": 0,
     "ogaoga": 0,
     "ogate": 0,
@@ -10553,6 +10556,7 @@ var DOMAINS = {
     "metamask": 0,
     "mega": 0,
     "mod": 0,
+    "ooni": 0,
     "prismic": {
       "images": 0
     },
@@ -11690,6 +11694,9 @@ var DOMAINS = {
   },
   "watch": {
     "fb": 0
+  },
+  "studio": {
+    "ai": 0
   },
   "org ": {
     "chromium": {
