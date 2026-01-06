@@ -9742,9 +9742,7 @@ var DOMAINS = {
     "ai": 0
   },
   "org ": {
-    "chromium": {
-      "issues": 0
-    }
+    "chromium": 0
   },
   "goog": {
     "@": 0,
