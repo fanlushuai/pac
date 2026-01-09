@@ -8874,9 +8874,7 @@ var DOMAINS = {
     "fxcm-chinese": 0,
     "gfwbao": 0,
     "greatfirevpn": 0,
-    "gitlab": {
-      "about": 0
-    },
+    "gitlab": 0,
     "g-queen": 0,
     "gab": 0,
     "gabocorp": 0,
@@ -9984,6 +9982,7 @@ var DOMAINS = {
     "obyte": 0,
     "tronscan": 0,
     "rocksdb": 0,
+    "chromium": 0,
     "ampproject": 0,
     "certificate-transparency": 0,
     "data-vocabulary": 0,
@@ -11697,9 +11696,6 @@ var DOMAINS = {
   },
   "studio": {
     "ai": 0
-  },
-  "org ": {
-    "chromium": 0
   },
   "goog": {
     "@": 0,
