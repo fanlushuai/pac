@@ -2734,7 +2734,6 @@ var CHINA = [
   [0x67E62C00, 0xFFFFFC00], // 103.230.44.0/22
   [0x67E66000, 0xFFFFFC00], // 103.230.96.0/22
   [0x67E66E00, 0xFFFFFE00], // 103.230.110.0/23
-  [0x67E68000, 0xFFFFFE00], // 103.230.128.0/23
   [0x67E6C400, 0xFFFFFC00], // 103.230.196.0/22
   [0x67E6C800, 0xFFFFF800], // 103.230.200.0/21
   [0x67E6D400, 0xFFFFFC00], // 103.230.212.0/22
@@ -6919,7 +6918,9 @@ var DOMAINS = {
     "fxcm-chinese": 0,
     "gfwbao": 0,
     "greatfirevpn": 0,
-    "gitlab": 0,
+    "gitlab": {
+      "about": 0
+    },
     "g-queen": 0,
     "gab": 0,
     "gabocorp": 0,

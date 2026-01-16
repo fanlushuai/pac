@@ -8874,7 +8874,9 @@ var DOMAINS = {
     "fxcm-chinese": 0,
     "gfwbao": 0,
     "greatfirevpn": 0,
-    "gitlab": 0,
+    "gitlab": {
+      "about": 0
+    },
     "g-queen": 0,
     "gab": 0,
     "gabocorp": 0,
