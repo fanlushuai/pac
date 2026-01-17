@@ -9670,8 +9670,10 @@ var DOMAINS = {
     "tuvpn": 0,
     "tumblr": 0,
     "slutmoonbeam": 0,
+    "mytvsuper": 0,
+    "tvbanywhere": 0,
     "tvb": {
-      "forum": 0,
+      "akamai": 0,
       "inews-api": 0
     },
     "tvboxnow": 0,
@@ -10734,6 +10736,9 @@ var DOMAINS = {
       "taiwannews": 0,
       "treemall": 0,
       "ttv": 0,
+      "tvbs": {
+        "news": 0
+      },
       "udn": 0,
       "uforadio": 0,
       "wealth": 0,
@@ -11659,6 +11664,7 @@ var DOMAINS = {
   },
   "in": {
     "facebook": 0,
+    "annas-archive": 0,
     "avdb": 0,
     "gongm": 0,
     "indiatoday": 0,
@@ -11820,6 +11826,14 @@ var DOMAINS = {
   "world": {
     "6do": 0
   },
+  "li": {
+    "annas-archive": 0,
+    "archive": 0,
+    "hongzhi": 0
+  },
+  "pm": {
+    "annas-archive": 0
+  },
   "rip": {
     "acg": 0,
     "mij": 0,
@@ -11839,10 +11853,6 @@ var DOMAINS = {
   "fo": {
     "archive": 0,
     "z-lib": 0
-  },
-  "li": {
-    "archive": 0,
-    "hongzhi": 0
   },
   "md": {
     "archive": 0
@@ -14924,8 +14934,6 @@ var BLACKPAT = [
   "*.tv.com*",
   "http://tv.com*",
   "*tvants.com*",
-  "*news.tvbs.com.tw*",
-  "*.tvboxnow.com*",
   "*tvider.com*",
   "*.tvmost.com.hk*",
   "*.tvplayvideos.com*",
