@@ -2318,7 +2318,6 @@ var CHINA = [
   [0x67A0FE00, 0xFFFFFE00], // 103.160.254.0/23
   [0x67A10E00, 0xFFFFFE00], // 103.161.14.0/23
   [0x67A16600, 0xFFFFFE00], // 103.161.102.0/23
-  [0x67A18A00, 0xFFFFFE00], // 103.161.138.0/23
   [0x67A1D000, 0xFFFFFE00], // 103.161.208.0/23
   [0x67A1DC00, 0xFFFFFE00], // 103.161.220.0/23
   [0x67A1FE00, 0xFFFFFE00], // 103.161.254.0/23
@@ -7828,6 +7827,7 @@ var DOMAINS = {
     "vrchat": 0,
     "vrporn": 0,
     "vtunnel": 0,
+    "weights": 0,
     "wikipedia": 0,
     "walletconnect": 0,
     "waffle1999": 0,
@@ -7916,6 +7916,7 @@ var DOMAINS = {
     "xvbelink": 0,
     "xvinlink": 0,
     "xxx": 0,
+    "youmind": 0,
     "y2mate": 0,
     "yakbutterblues": 0,
     "yam": 0,
