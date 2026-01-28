@@ -6683,6 +6683,9 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "crixet": {
+      "backend-v2": 0
+    },
     "canva": 0,
     "chatpdf": 0,
     "chat": 0,
