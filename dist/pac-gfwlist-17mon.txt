@@ -8043,6 +8043,7 @@ var DOMAINS = {
       "login": 0,
       "rcam": 0
     },
+    "freeterabox": 0,
     "terabox": 0,
     "thinkgeek": 0,
     "thebodyshop-usa": 0,
