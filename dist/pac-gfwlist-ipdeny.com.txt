@@ -8732,6 +8732,7 @@ var DOMAINS = {
     "mlc": 0,
     "podwise": 0,
     "perplexity": 0,
+    "simianx": 0,
     "suno": 0,
     "wombo": 0,
     "x": 0
@@ -9113,6 +9114,7 @@ var DOMAINS = {
     "videomega": 0,
     "wav": 0,
     "woopie": 0,
+    "yfsp": 0,
     "yobt": 0
   },
   "ee": {
