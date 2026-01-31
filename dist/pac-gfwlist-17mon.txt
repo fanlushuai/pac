@@ -8553,6 +8553,9 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "byspotify": {
+      "help": 0
+    },
     "bitbaby": 0,
     "bt4gprx": 0,
     "bitget": 0,
@@ -9569,6 +9572,11 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "tritondigital": {
+      "pdn": {
+        "bbc": 0
+      }
+    },
     "terobox": 0,
     "temu": 0,
     "trustwallet": 0,
@@ -11339,6 +11347,9 @@ var DOMAINS = {
     "castbox": 0,
     "anchor": 0,
     "favstar": 0,
+    "megaphone": {
+      "dcs-spotify": 0
+    },
     "moon": 0,
     "omny": 0,
     "overcast": 0,
