@@ -5875,6 +5875,7 @@ var DOMAINS = {
     "surrenderat20": 0,
     "swissvpn": 0,
     "switchvpn": 0,
+    "tails": 0,
     "taiwandaily": 0,
     "taiwanhot": 0,
     "talkonly": 0,
