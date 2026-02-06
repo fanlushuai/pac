@@ -6600,6 +6600,7 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "bittorrent": 0,
     "byspotify": {
       "help": 0
     },
@@ -6994,6 +6995,7 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "hembed": 0,
     "hoyolab": {
       "www": 0
     },
@@ -9957,7 +9959,10 @@ var DOMAINS = {
   },
   "network": {
     "bsky": 0,
-    "fanqiang": 0
+    "fanqiang": 0,
+    "hysteria": {
+      "v2": 0
+    }
   },
   "my": {
     "com": {
