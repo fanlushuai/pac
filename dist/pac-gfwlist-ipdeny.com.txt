@@ -2215,7 +2215,6 @@ var CHINA = [
   [0x67950600, 0xFFFFFE00], // 103.149.6.0/23
   [0x67951100, 0xFFFFFF00], // 103.149.17.0/24
   [0x67952C00, 0xFFFFFE00], // 103.149.44.0/23
-  [0x67956E00, 0xFFFFFE00], // 103.149.110.0/23
   [0x67958400, 0xFFFFFE00], // 103.149.132.0/23
   [0x67959000, 0xFFFFFE00], // 103.149.144.0/23
   [0x6795B500, 0xFFFFFF00], // 103.149.181.0/24
@@ -6338,6 +6337,7 @@ var DOMAINS = {
     "googleapis": {
       "@": 0,
       "clientservices": 1,
+      "imasdk": 1,
       "fonts": 1,
       "update": 1,
       "safebrowsing": 1
@@ -6407,6 +6407,10 @@ var DOMAINS = {
     "googleweblight": 0,
     "gstatic": {
       "@": 0,
+      "g2": 1,
+      "g1": 1,
+      "g0": 1,
+      "checkin": 1,
       "connectivitycheck": 1,
       "csi": 1,
       "fonts": 1,
@@ -8027,7 +8031,8 @@ var DOMAINS = {
     "ampproject": {
       "@": 0,
       "www": 1,
-      "cdn": 1
+      "cdn": 1,
+      "cdn-china": 1
     },
     "certificate-transparency": 0,
     "data-vocabulary": 0,
@@ -9736,7 +9741,10 @@ var DOMAINS = {
     "@": 0,
     "pki": {
       "@": 0,
+      "crl": 1,
       "i": 1,
+      "c": 1,
+      "o": 1,
       "ocsp": 1
     },
     "translate": 0,

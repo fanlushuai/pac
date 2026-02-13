@@ -8292,6 +8292,7 @@ var DOMAINS = {
     "googleapis": {
       "@": 0,
       "clientservices": 1,
+      "imasdk": 1,
       "fonts": 1,
       "update": 1,
       "safebrowsing": 1
@@ -8361,6 +8362,10 @@ var DOMAINS = {
     "googleweblight": 0,
     "gstatic": {
       "@": 0,
+      "g2": 1,
+      "g1": 1,
+      "g0": 1,
+      "checkin": 1,
       "connectivitycheck": 1,
       "csi": 1,
       "fonts": 1,
@@ -9981,7 +9986,8 @@ var DOMAINS = {
     "ampproject": {
       "@": 0,
       "www": 1,
-      "cdn": 1
+      "cdn": 1,
+      "cdn-china": 1
     },
     "certificate-transparency": 0,
     "data-vocabulary": 0,
@@ -11690,7 +11696,10 @@ var DOMAINS = {
     "@": 0,
     "pki": {
       "@": 0,
+      "crl": 1,
       "i": 1,
+      "c": 1,
+      "o": 1,
       "ocsp": 1
     },
     "translate": 0,
