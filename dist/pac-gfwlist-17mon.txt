@@ -10760,8 +10760,12 @@ var DOMAINS = {
     },
     "technews": 0,
     "dailyview": 0,
+    "twgov": 0,
+    "gov": {
+      "@": 0,
+      "www": 1
+    },
     "org": {
-      "sef": 0,
       "kinmen": 0,
       "ait": 0,
       "covenantswatch": 0,
@@ -10786,46 +10790,6 @@ var DOMAINS = {
       "tpi": 0,
       "wufi": 0,
       "yam": 0
-    },
-    "gov": {
-      "moj": 0,
-      "anws": {
-        "aiss": 0
-      },
-      "archives": 0,
-      "cwb": {
-        "tacc": 0
-      },
-      "data": 0,
-      "exam": 0,
-      "ey": 0,
-      "fa": 0,
-      "fda": 0,
-      "hpa": 0,
-      "immigration": 0,
-      "itaiwan": 0,
-      "judicial": 0,
-      "ly": 0,
-      "mjib": 0,
-      "moeaic": 0,
-      "mofa": 0,
-      "mol": 0,
-      "mvdis": 0,
-      "nat": 0,
-      "nhi": 0,
-      "npa": 0,
-      "nsc": 0,
-      "ntbk": 0,
-      "ntbna": 0,
-      "ntbt": 0,
-      "pcc": 0,
-      "stat": 0,
-      "taipei": 0,
-      "taiwanjobs": 0,
-      "thb": 0,
-      "tipo": 0,
-      "wda": 0,
-      "npm": 0
     },
     "civilmedia": 0,
     "cofacts": 0,
