@@ -6418,6 +6418,10 @@ var DOMAINS = {
       "ssl": 1,
       "www": 1
     },
+    "gvt1": {
+      "@": 0,
+      "redirector": 1
+    },
     "gvt3": 0,
     "html5rocks": 0,
     "igoogle": 0,
@@ -7983,10 +7987,7 @@ var DOMAINS = {
     "zorrovpn": 0,
     "zuola": 0,
     "zvereff": 0,
-    "zyxel": 0,
-    "gvt1": {
-      "redirector": 1
-    }
+    "zyxel": 0
   },
   "pl": {
     "miuipolska": 0,
@@ -8606,6 +8607,7 @@ var DOMAINS = {
     "hackmd": 0,
     "itch": 0,
     "infura": 0,
+    "mosavi": 0,
     "metamask": 0,
     "mega": 0,
     "mod": 0,
@@ -10434,9 +10436,6 @@ var DOMAINS = {
     "localdomain": 0,
     "missav": 0,
     "rmbl": 0
-  },
-  "com]": {
-    "gvt1": 0
   },
   "soy": {
     "iam": 0
