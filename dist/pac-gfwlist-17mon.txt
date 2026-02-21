@@ -9264,6 +9264,7 @@ var DOMAINS = {
     "nvdst": 0,
     "nybooks": 0,
     "nypost": 0,
+    "opencritic": 0,
     "oaiusercontent": {
       "files": 0
     },
@@ -10276,6 +10277,9 @@ var DOMAINS = {
       "www": 0
     },
     "mykomica": 0,
+    "nxtrace": {
+      "assets": 0
+    },
     "naacoalition": 0,
     "nalandabodhi": 0,
     "nalandawest": 0,
@@ -10548,6 +10552,7 @@ var DOMAINS = {
     "4everland": {
       "ipfs": 0
     },
+    "akile": 0,
     "apiary": 0,
     "codeshare": 0,
     "docker": 0,
@@ -10733,6 +10738,7 @@ var DOMAINS = {
       "ltn": 0,
       "lama": 0,
       "libertytimes": 0,
+      "meee": 0,
       "merit-times": 0,
       "momoshop": 0,
       "money-link": 0,
@@ -11567,6 +11573,9 @@ var DOMAINS = {
     "web": 0,
     "tg": 0,
     "ai": 0,
+    "clashverge": {
+      "www": 0
+    },
     "fuchsia": 0,
     "unlock-music": {
       "demo": 0
