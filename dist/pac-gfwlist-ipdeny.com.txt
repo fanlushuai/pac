@@ -8409,6 +8409,9 @@ var DOMAINS = {
     "standwithhk": 0,
     "studentsforafreetibet": 0,
     "sylfoundation": 0,
+    "eff": {
+      "tor": 0
+    },
     "tukaani": 0,
     "thetatoken": 0,
     "taipeisociety": 0,
@@ -8450,6 +8453,7 @@ var DOMAINS = {
     "twiggit": 0,
     "twitter4j": 0,
     "twreporter": 0,
+    "uniswap": 0,
     "uc-japan": 0,
     "uhdwallpapers": 0,
     "uhrp": 0,
