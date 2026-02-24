@@ -9365,7 +9365,8 @@ var DOMAINS = {
     },
     "archives": 0,
     "cecc": 0,
-    "cms": 0
+    "cms": 0,
+    "freedom": 0
   },
   "cz": {
     "ntdtv": 0,
