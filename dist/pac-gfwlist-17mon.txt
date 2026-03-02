@@ -8644,6 +8644,7 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "claude": 0,
     "crixet": {
       "backend-v2": 0
     },
@@ -11432,6 +11433,7 @@ var DOMAINS = {
     "google": 0,
     "elgoog": 0,
     "lala": 0,
+    "manus": 0,
     "monica": 0,
     "pt": 0,
     "token": 0,
@@ -12804,7 +12806,6 @@ var BLACKPAT = [
   "http://www.idlcoyote.com*",
   "http://ift.tt*",
   "http://imb.org*",
-  "http://www.imdb.com/name/nm0482730*",
   "http://insecam.org*",
   "http://iportal.me*",
   "http://islam.org.hk*",
