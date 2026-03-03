@@ -9800,6 +9800,7 @@ var DOMAINS = {
     "vrchat": 0,
     "vrporn": 0,
     "vtunnel": 0,
+    "wispbyte": 0,
     "wallzhihu": 0,
     "weights": 0,
     "wikipedia": 0,
@@ -10032,6 +10033,7 @@ var DOMAINS = {
     "18comic": 0,
     "51jav": 0,
     "89-64": 0,
+    "arweave": 0,
     "aomedia": 0,
     "annas-archive": 0,
     "acgbox": 0,
@@ -10689,6 +10691,7 @@ var DOMAINS = {
     "com": {
       "google": 0
     },
+    "arena": 0,
     "character": 0,
     "dify": {
       "cloud": 0
