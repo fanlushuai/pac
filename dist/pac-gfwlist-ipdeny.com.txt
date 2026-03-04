@@ -6825,6 +6825,7 @@ var DOMAINS = {
     "dw-world": 0,
     "dwnews": 0,
     "dynawebinc": 0,
+    "economist": 0,
     "etherscan": 0,
     "elconfidencial": 0,
     "e-gold": 0,
@@ -10188,8 +10189,7 @@ var DOMAINS = {
   "sg": {
     "com": {
       "google": 0,
-      "singaporepools": 0,
-      "zaobao": 0
+      "singaporepools": 0
     }
   },
   "sl": {
