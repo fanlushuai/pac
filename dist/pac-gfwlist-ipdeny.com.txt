@@ -6310,6 +6310,9 @@ var DOMAINS = {
     "bloombergview": 0,
     "cloudflarestatus": 0,
     "cloudflare-dns": 0,
+    "cloudflare": {
+      "dns": 0
+    },
     "dynu": 0,
     "accountkit": 0,
     "cdninstagram": 0,
@@ -7055,6 +7058,10 @@ var DOMAINS = {
     "huhangfei": 0,
     "hung-ya": 0,
     "hyperrate": 0,
+    "investing": {
+      "@": 0,
+      "cn": 1
+    },
     "idcflare": 0,
     "itiger": 0,
     "india": 0,
@@ -9625,6 +9632,7 @@ var DOMAINS = {
     "go5": 0,
     "pages": 0,
     "workers": 0,
+    "google": 0,
     "get": 0,
     "tfhub": 0,
     "web": 0,
