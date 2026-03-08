@@ -8395,6 +8395,7 @@ var DOMAINS = {
     "rsf-chinese": 0,
     "rtalabel": 0,
     "rutracker": 0,
+    "shitjournal": 0,
     "sagernet": 0,
     "synapse": 0,
     "sehuatang": 0,
