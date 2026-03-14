@@ -9883,6 +9883,7 @@ var DOMAINS = {
     "wufafangwen": 0,
     "wujieliulan": 0,
     "wwitv": 0,
+    "xdaforums": 0,
     "xcancel": 0,
     "xt": 0,
     "x-berry": 0,
