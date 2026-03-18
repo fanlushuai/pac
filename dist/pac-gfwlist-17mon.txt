@@ -8487,6 +8487,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "aave": 0,
     "anuneko": 0,
     "adguard-vpn": 0,
     "aoxvpn": 0,
