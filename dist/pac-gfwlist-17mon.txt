@@ -9277,6 +9277,8 @@ var DOMAINS = {
     "nvdst": 0,
     "nybooks": 0,
     "nypost": 0,
+    "oklink": 0,
+    "okcoin": 0,
     "opencritic": 0,
     "oaiusercontent": {
       "files": 0
