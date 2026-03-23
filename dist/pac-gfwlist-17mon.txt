@@ -9435,6 +9435,9 @@ var DOMAINS = {
     "qoos": 0,
     "efksoft": 0,
     "qstatus": 0,
+    "rmimg": {
+      "s": 0
+    },
     "radiojar": 0,
     "rustdesk": 0,
     "radmin-vpn": 0,
