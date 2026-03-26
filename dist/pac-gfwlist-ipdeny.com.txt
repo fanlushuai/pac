@@ -6125,6 +6125,7 @@ var DOMAINS = {
     "spiderpool": 0,
     "btc": 0,
     "w-pool": 0,
+    "xn--kcrv3utim32hx9f6qe": 0,
     "xn--1jqvh729avzfcy2d8ummib": 0,
     "xn--9iqy04a7fi01l": 0,
     "xn--u2u927b": 0,
