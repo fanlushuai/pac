@@ -7781,6 +7781,7 @@ var DOMAINS = {
     "neowin": 0,
     "nhentai": 0,
     "nutaku": 0,
+    "osmand": 0,
     "opendemocracy": 0,
     "openid": 0,
     "openvpn": 0,
