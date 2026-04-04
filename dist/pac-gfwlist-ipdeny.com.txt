@@ -3880,6 +3880,7 @@ var CHINA = [
   [0xA33DD600, 0xFFFFFE00], // 163.61.214.0/23
   [0xA37D0000, 0xFFFF0000], // 163.125.0.0/16
   [0xA3801E00, 0xFFFFFE00], // 163.128.30.0/23
+  [0xA3809800, 0xFFFFFE00], // 163.128.152.0/23
   [0xA38E0000, 0xFFFF0000], // 163.142.0.0/16
   [0xA3B10000, 0xFFFF0000], // 163.177.0.0/16
   [0xA3B30000, 0xFFFF0000], // 163.179.0.0/16
@@ -8274,10 +8275,7 @@ var DOMAINS = {
     "humanrightspressawards": 0,
     "hxwk": 0,
     "interseclab": 0,
-    "ipify": {
-      "@": 0,
-      "*": 1
-    },
+    "ipify": 0,
     "icij": 0,
     "icl-fi": 0,
     "furbo": 0,
