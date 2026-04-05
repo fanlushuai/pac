@@ -8099,6 +8099,7 @@ var DOMAINS = {
     "18comic": 0,
     "51jav": 0,
     "89-64": 0,
+    "archive-it": 0,
     "arweave": 0,
     "aomedia": 0,
     "annas-archive": 0,
@@ -10206,7 +10207,10 @@ var DOMAINS = {
   "sb": {
     "com": {
       "google": 0
-    }
+    },
+    "dns": 0,
+    "doh": 0,
+    "dot": 0
   },
   "sg": {
     "com": {
