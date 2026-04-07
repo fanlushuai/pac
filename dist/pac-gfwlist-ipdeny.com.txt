@@ -6381,6 +6381,10 @@ var DOMAINS = {
     "duck": 0,
     "feedburner": 0,
     "firebaseio": 0,
+    "crashlytics": {
+      "@": 0,
+      "firebase-settings": 1
+    },
     "ggpht": 0,
     "gmail": 0,
     "gmodules": 0,
