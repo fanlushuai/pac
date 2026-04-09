@@ -9631,7 +9631,6 @@ var DOMAINS = {
     "talkcc": 0,
     "tapatalk": 0,
     "taweet": 0,
-    "techspot": 0,
     "tehrantimes": 0,
     "tenor": 0,
     "tenzinpalmo": 0,
@@ -10056,7 +10055,6 @@ var DOMAINS = {
     "archive-it": 0,
     "arweave": 0,
     "aomedia": 0,
-    "annas-archive": 0,
     "acgbox": 0,
     "aei": 0,
     "airvpn": 0,
@@ -11178,7 +11176,6 @@ var DOMAINS = {
     "co": {
       "google": 0
     },
-    "annas-archive": 0,
     "avdb": 0,
     "gongm": 0,
     "indiatoday": 0,
@@ -11575,7 +11572,6 @@ var DOMAINS = {
   "li": {
     "huobi": 0,
     "google": 0,
-    "annas-archive": 0,
     "archive": 0,
     "hongzhi": 0
   },
@@ -11653,7 +11649,6 @@ var DOMAINS = {
       "pinterest": 0,
       "standard": 0,
       "thechasernews": 0,
-      "telegraph": 0,
       "tibetrelieffund": 0,
       "yasni": 0
     },
@@ -11686,7 +11681,6 @@ var DOMAINS = {
   "se": {
     "facebook": 0,
     "google": 0,
-    "annas-archive": 0,
     "acgnx": 0,
     "desc": 0,
     "epochtimes": 0,
@@ -11754,6 +11748,7 @@ var DOMAINS = {
   "gl": {
     "goo": 0,
     "google": 0,
+    "annas-archive": 0,
     "z-lib": 0
   },
   "ac": {
@@ -12136,7 +12131,8 @@ var DOMAINS = {
   "pk": {
     "com": {
       "google": 0
-    }
+    },
+    "annas-archive": 0
   },
   "pr": {
     "com": {
@@ -12480,8 +12476,9 @@ var DOMAINS = {
   "world": {
     "6do": 0
   },
-  "pm": {
-    "annas-archive": 0
+  "gd": {
+    "annas-archive": 0,
+    "z-lib": 0
   },
   "rip": {
     "acg": 0,
@@ -12679,9 +12676,6 @@ var DOMAINS = {
   },
   "tokyo": {
     "yunomi": 0
-  },
-  "gd": {
-    "z-lib": 0
   }
 };
 
