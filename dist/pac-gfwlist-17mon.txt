@@ -7726,7 +7726,6 @@ var DOMAINS = {
     "heqinglian": 0,
     "hexxeh": 0,
     "hideman": 0,
-    "hkacg": 0,
     "hsjp": 0,
     "htkou": 0,
     "huping": 0,
@@ -8244,21 +8243,7 @@ var DOMAINS = {
       "payments-jp": 0
     },
     "amazonaws": {
-      "s3-ap-*": 0,
-      "eu-central-1": {
-        "s3": 0
-      },
-      "s3-eu-central-1": 0,
-      "us-east-1": {
-        "s3": 0
-      },
-      "s3-ap-northeast-2": 0,
-      "ap-northeast-2": {
-        "s3": 0
-      },
-      "s3-ap-northeast-1": 0,
-      "s3-ap-southeast-1": 0,
-      "s3-ap-southeast-2": 0
+      "s3-ap-northeast-1": 0
     },
     "aol": {
       "video": 0,
@@ -8989,7 +8974,6 @@ var DOMAINS = {
     "hiitch": 0,
     "himemix": 0,
     "hk01": 0,
-    "hkacg": 0,
     "hkbookcity": 0,
     "hkchronicles": 0,
     "hkcnews": 0,
@@ -9233,7 +9217,6 @@ var DOMAINS = {
     "mubi": 0,
     "multiply": 0,
     "muzi": 0,
-    "mx981": 0,
     "myaudiocast": 0,
     "mychinanews": 0,
     "mycnnews": 0,
@@ -10696,9 +10679,7 @@ var DOMAINS = {
     "tomp3": 0,
     "tiny": 0,
     "vern": 0,
-    "vocus": 0,
-    "vuku": 0,
-    "xjp": 0
+    "vocus": 0
   },
   "ai": {
     "claude": 0,
@@ -10722,6 +10703,7 @@ var DOMAINS = {
     "lmarena": 0,
     "mistral": 0,
     "mlc": 0,
+    "openart": 0,
     "podwise": 0,
     "perplexity": 0,
     "simianx": 0,
@@ -12712,7 +12694,6 @@ var BLACKPAT = [
   "http://acg18.me*",
   "http://adpl.org.hk*",
   "http://afantibbs.com*",
-  "http://download.aircrack-ng.org*",
   "https://fbcdn*.akamaihd.net/*",
   "http://akademiye.org/ug*",
   "http://alanhou.com*",
