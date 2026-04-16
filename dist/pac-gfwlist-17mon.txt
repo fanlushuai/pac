@@ -12390,6 +12390,7 @@ var DOMAINS = {
   "to": {
     "google": 0,
     "1337x": 0,
+    "avistaz": 0,
     "breached": 0,
     "coffeemanga": 0,
     "mychat": {
