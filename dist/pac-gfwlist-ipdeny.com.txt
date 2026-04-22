@@ -6600,6 +6600,7 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "bellingcat": 0,
     "bittorrent": 0,
     "byspotify": {
       "help": 0
@@ -7472,6 +7473,9 @@ var DOMAINS = {
     "qoos": 0,
     "efksoft": 0,
     "qstatus": 0,
+    "rawstory": 0,
+    "recordedfuture": 0,
+    "roblox": 0,
     "radiojar": 0,
     "rustdesk": 0,
     "radmin-vpn": 0,
@@ -8014,7 +8018,6 @@ var DOMAINS = {
     "khatrimaza": 0,
     "miraheze": 0,
     "phmsociety": 0,
-    "soylentnews": 0,
     "crazypool": 0,
     "flypool": 0,
     "nanopool": 0,
@@ -8039,7 +8042,9 @@ var DOMAINS = {
     "obyte": 0,
     "tronscan": 0,
     "rocksdb": 0,
-    "chromium": 0,
+    "chromium": {
+      "issues": 0
+    },
     "ampproject": {
       "@": 0,
       "www": 1,
@@ -8083,6 +8088,7 @@ var DOMAINS = {
     "18comic": 0,
     "51jav": 0,
     "89-64": 0,
+    "asiasociety": 0,
     "archive-it": 0,
     "arweave": 0,
     "aomedia": 0,
@@ -8613,6 +8619,9 @@ var DOMAINS = {
     "docker": 0,
     "ddex": 0,
     "doub": 0,
+    "element": {
+      "app": 0
+    },
     "firetweet": 0,
     "fountmedia": 0,
     "gitbook": 0,
@@ -8622,6 +8631,7 @@ var DOMAINS = {
     "hackmd": 0,
     "itch": 0,
     "infura": 0,
+    "lantern": 0,
     "mosavi": 0,
     "metamask": 0,
     "mega": 0,
@@ -10200,7 +10210,8 @@ var DOMAINS = {
     "com": {
       "google": 0,
       "singaporepools": 0
-    }
+    },
+    "thinkchina": 0
   },
   "sl": {
     "com": {
