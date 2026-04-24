@@ -7631,6 +7631,7 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "techbang": 0,
     "tritondigital": {
       "pdn": {
         "bbc": 0
