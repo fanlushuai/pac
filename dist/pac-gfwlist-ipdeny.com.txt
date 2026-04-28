@@ -7789,6 +7789,7 @@ var DOMAINS = {
     "twilio": {
       "contests": 0
     },
+    "upsangel": 0,
     "upbit": 0,
     "u9un": 0,
     "udn": 0,
