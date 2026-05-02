@@ -10928,7 +10928,8 @@ var DOMAINS = {
       "kadokawa": 0,
       "kk-whys": 0,
       "oricon": 0,
-      "rakuten": 0
+      "rakuten": 0,
+      "softether": 0
     },
     "kawaiikawaii": 0,
     "mvg": 0,
