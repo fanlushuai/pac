@@ -8164,12 +8164,6 @@ var DOMAINS = {
     },
     "vrsmash": 0,
     "vultryhw": 0,
-    "vzw": {
-      "scache": 0,
-      "scache1": 0,
-      "scache2": 0,
-      "ss7": 0
-    },
     "steemit": 0,
     "washingtonpost": 0,
     "whatsonweibo": 0,
