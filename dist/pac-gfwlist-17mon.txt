@@ -8087,6 +8087,10 @@ var DOMAINS = {
     "xn--noss43i": 0,
     "xn--9pr62r24a": 0,
     "xn--ngstr-lra8j": 0,
+    "amazon": {
+      "music": 0,
+      "payments-jp": 0
+    },
     "mailchimp": {
       "cdn-images": 0
     },
@@ -8232,9 +8236,6 @@ var DOMAINS = {
     "read01": 0,
     "datalabour": {
       "social": 0
-    },
-    "amazon": {
-      "payments-jp": 0
     },
     "amazonaws": {
       "s3-ap-northeast-1": 0
@@ -8546,6 +8547,8 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "boomplay": 0,
+    "bleepingcomputer": 0,
     "bellingcat": 0,
     "bittorrent": 0,
     "byspotify": {
@@ -8635,6 +8638,8 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "ctinsider": 0,
+    "cnbc": 0,
     "claude": 0,
     "crixet": {
       "backend-v2": 0
@@ -9085,6 +9090,7 @@ var DOMAINS = {
     "jwplayer": {
       "cdn": 0
     },
+    "kathmandupost": 0,
     "ka-wai": 0,
     "kakao": 0,
     "kannewyork": 0,
@@ -9220,6 +9226,8 @@ var DOMAINS = {
     "myparagliding": 0,
     "mypopescu": 0,
     "myspacecdn": 0,
+    "nfscofficial": 0,
+    "newstimes": 0,
     "nephobox": 0,
     "naver": 0,
     "newindianexpress": 0,
@@ -9261,6 +9269,7 @@ var DOMAINS = {
     "nvdst": 0,
     "nybooks": 0,
     "nypost": 0,
+    "overdrive": 0,
     "oklink": 0,
     "okcoin": 0,
     "opencritic": 0,
@@ -9577,6 +9586,10 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "tvdy1": 0,
+    "tgstat": 0,
+    "the-sun": 0,
+    "theweek": 0,
     "techbang": 0,
     "tritondigital": {
       "pdn": {
@@ -9757,6 +9770,7 @@ var DOMAINS = {
     "uujiasu": 0,
     "uwants": 0,
     "uyghurtribunal": 0,
+    "vox": 0,
     "vimeocdn": 0,
     "vocaroo": 0,
     "v2ray": 0,
@@ -9802,6 +9816,7 @@ var DOMAINS = {
     "vrchat": 0,
     "vrporn": 0,
     "vtunnel": 0,
+    "worldjournal": 0,
     "wispbyte": 0,
     "wallzhihu": 0,
     "weights": 0,
@@ -10257,6 +10272,7 @@ var DOMAINS = {
     "lupm": 0,
     "lvhai": 0,
     "lzmtnews": 0,
+    "mediamatters": 0,
     "moegirl": {
       "m": 0
     },
@@ -10492,6 +10508,7 @@ var DOMAINS = {
     "incredibox": 0,
     "info-graf": 0,
     "iphonix": 0,
+    "lemonde": 0,
     "pinterest": 0,
     "radio-en-ligne": 0,
     "rfi": 0,
@@ -10617,6 +10634,7 @@ var DOMAINS = {
       "aobo": 0,
       "illawarramercury": 0,
       "oursteps": 0,
+      "penguin": 0,
       "pinterest": 0,
       "smh": 0,
       "theaustralian": {
@@ -11142,6 +11160,7 @@ var DOMAINS = {
     "civicparty": 0,
     "cusp": 0,
     "demosisto": 0,
+    "edigest": 0,
     "e123": 0,
     "exchristian": 0,
     "fantv": 0,
@@ -11513,7 +11532,8 @@ var DOMAINS = {
     "unseen": 0,
     "google": 0,
     "archive": 0,
-    "hypothes": 0
+    "hypothes": 0,
+    "libgen": 0
   },
   "tools": {
     "ssr": 0
@@ -11816,6 +11836,7 @@ var DOMAINS = {
     "lematin": 0,
     "mad-ar": 0,
     "gotdns": 0,
+    "rts": 0,
     "swissinfo": 0,
     "tibetoffice": 0,
     "tibetswiss": 0,
@@ -11883,7 +11904,8 @@ var DOMAINS = {
   "nz": {
     "co": {
       "google": 0,
-      "mega": 0
+      "mega": 0,
+      "newshub": 0
     },
     "mega": 0,
     "pinterest": 0
@@ -12061,7 +12083,8 @@ var DOMAINS = {
       "cari": 0,
       "chinapress": 0,
       "kwongwah": 0,
-      "orientaldaily": 0
+      "orientaldaily": 0,
+      "sinchew": 0
     },
     "rfi": 0
   },
@@ -12298,7 +12321,8 @@ var DOMAINS = {
     "google": 0
   },
   "mn": {
-    "google": 0
+    "google": 0,
+    "acg": 0
   },
   "ms": {
     "google": 0
@@ -12496,6 +12520,7 @@ var DOMAINS = {
   },
   "today": {
     "archive": 0,
+    "mjj": 0,
     "qiandao": 0,
     "twelve": 0
   },
@@ -12556,7 +12581,8 @@ var DOMAINS = {
     "generated": 0
   },
   "press": {
-    "gfw": 0
+    "gfw": 0,
+    "nfsc": 0
   },
   "report": {
     "gfw": 0,
@@ -12564,6 +12590,7 @@ var DOMAINS = {
   },
   "blog": {
     "github": 0,
+    "hive": 0,
     "meizhong": 0
   },
   "school": {
@@ -12587,6 +12614,9 @@ var DOMAINS = {
   },
   "men": {
     "hsex": 0
+  },
+  "exchange": {
+    "infosec": 0
   },
   "ir": {
     "president": 0,
