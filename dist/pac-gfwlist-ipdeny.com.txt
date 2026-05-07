@@ -8556,6 +8556,9 @@ var DOMAINS = {
     "info-graf": 0,
     "iphonix": 0,
     "lemonde": 0,
+    "openstreetmap": {
+      "umap": 0
+    },
     "pinterest": 0,
     "radio-en-ligne": 0,
     "rfi": 0,
