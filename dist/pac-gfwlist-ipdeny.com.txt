@@ -6784,6 +6784,8 @@ var DOMAINS = {
     "curvefish": 0,
     "cyberghostvpn": 0,
     "cynscribe": 0,
+    "data18": 0,
+    "dt18": 0,
     "dappcdn": {
       "download": 0
     },
