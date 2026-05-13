@@ -10094,6 +10094,7 @@ var DOMAINS = {
     "bullog": 0,
     "business-humanrights": 0,
     "bypasscensorship": 0,
+    "chonglangtv": 0,
     "clementine-player": 0,
     "crosswall": 0,
     "c-span": 0,
