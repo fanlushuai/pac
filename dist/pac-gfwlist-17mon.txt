@@ -7884,6 +7884,7 @@ var DOMAINS = {
     "yhcw": 0,
     "yunchao": 0,
     "yysub": 0,
+    "zhangzhehan": 0,
     "zhongguotese": 0,
     "zophar": 0
   },
@@ -10736,6 +10737,7 @@ var DOMAINS = {
     "openart": 0,
     "podwise": 0,
     "perplexity": 0,
+    "sider": 0,
     "simianx": 0,
     "suno": 0,
     "wombo": 0,
