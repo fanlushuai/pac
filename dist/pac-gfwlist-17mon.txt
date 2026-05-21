@@ -9589,6 +9589,7 @@ var DOMAINS = {
     "surfshark": 0,
     "sydneytoday": 0,
     "syncback": 0,
+    "sotwe": 0,
     "tvdy1": 0,
     "tgstat": 0,
     "the-sun": 0,
@@ -10727,11 +10728,13 @@ var DOMAINS = {
     },
     "devv": 0,
     "forefront": 0,
+    "g": 0,
     "gmgn": 0,
     "jan": 0,
     "javfinder": 0,
     "lovart": 0,
     "lmarena": 0,
+    "leonardo": 0,
     "mistral": 0,
     "mlc": 0,
     "openart": 0,
@@ -11122,6 +11125,7 @@ var DOMAINS = {
     "invidio": 0,
     "imageshack": 0,
     "referer": 0,
+    "rule34": 0,
     "ssrshare": 0,
     "sadpanda": 0,
     "thedw": 0,
@@ -11760,6 +11764,7 @@ var DOMAINS = {
     "glarity": 0,
     "netlify": 0,
     "rsshub": 0,
+    "raphael": 0,
     "vercel": 0
   },
   "how": {
@@ -12433,6 +12438,7 @@ var DOMAINS = {
     "avistaz": 0,
     "breached": 0,
     "coffeemanga": 0,
+    "f95zone": 0,
     "mychat": {
       "bbs": 0
     },
