@@ -8442,6 +8442,7 @@ var DOMAINS = {
       "evchk": 0
     },
     "yahoo": 0,
+    "24hbook": 0,
     "91dasai": 0,
     "611study": 0,
     "000webhost": 0,
@@ -12439,6 +12440,7 @@ var DOMAINS = {
     "breached": 0,
     "coffeemanga": 0,
     "f95zone": 0,
+    "mas": 0,
     "mychat": {
       "bbs": 0
     },
@@ -12660,6 +12662,9 @@ var DOMAINS = {
   "work": {
     "mlzs": 0,
     "nutsvpn": 0
+  },
+  "social ": {
+    "neodb": 0
   },
   "wiki": {
     "namu": 0
