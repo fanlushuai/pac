@@ -8783,6 +8783,7 @@ var DOMAINS = {
     "leonardo": 0,
     "mistral": 0,
     "mlc": 0,
+    "mozilla": 0,
     "openart": 0,
     "podwise": 0,
     "perplexity": 0,
