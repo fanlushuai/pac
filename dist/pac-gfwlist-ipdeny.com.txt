@@ -8637,6 +8637,7 @@ var DOMAINS = {
     "docker": 0,
     "ddex": 0,
     "doub": 0,
+    "dowjones": 0,
     "element": {
       "app": 0
     },
