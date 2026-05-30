@@ -3851,6 +3851,7 @@ var CHINA = [
   [0xA2043600, 0xFFFFFE00], // 162.4.54.0/23
   [0xA2048800, 0xFFFFFE00], // 162.4.136.0/23
   [0xA204A800, 0xFFFFFE00], // 162.4.168.0/23
+  [0xA204C600, 0xFFFFFE00], // 162.4.198.0/23
   [0xA20E0000, 0xFFFF0000], // 162.14.0.0/16
   [0xA2690000, 0xFFFF0000], // 162.105.0.0/16
   [0xA3000000, 0xFFFF0000], // 163.0.0.0/16
@@ -6685,7 +6686,6 @@ var DOMAINS = {
     "buzzsprout": 0,
     "bvpn": 0,
     "ctinsider": 0,
-    "cnbc": 0,
     "claude": 0,
     "crixet": {
       "backend-v2": 0
@@ -6952,6 +6952,7 @@ var DOMAINS = {
     "gclubs": 0,
     "gcmasia": 0,
     "gekikame": 0,
+    "gencraft": 0,
     "genius": 0,
     "getastrill": 0,
     "getcloak": 0,
@@ -7015,6 +7016,7 @@ var DOMAINS = {
     "hexieshe": 0,
     "heyuedi": 0,
     "hiccears": 0,
+    "hiddify": 0,
     "hideipvpn": 0,
     "hidemyass": 0,
     "hidemycomp": 0,
@@ -7581,7 +7583,6 @@ var DOMAINS = {
     },
     "sndcdn": 0,
     "socialblade": 0,
-    "softether-download": 0,
     "sogclub": 0,
     "sohcradio": 0,
     "sorting-algorithms": 0,
@@ -7975,7 +7976,6 @@ var DOMAINS = {
     "yesasia": 0,
     "yespornplease": 0,
     "yibaochina": 0,
-    "yidio": 0,
     "yimg": {
       "s": 0
     },
@@ -8675,6 +8675,7 @@ var DOMAINS = {
     "tianti": 0,
     "twaud": 0,
     "typora": 0,
+    "veed": 0,
     "z-lib": 0,
     "zeronet": 0
   },
@@ -9058,8 +9059,10 @@ var DOMAINS = {
     "1pondo": 0,
     "av01": 0,
     "avdb": 0,
+    "bangumi": 0,
     "bbchat": 0,
     "bb-chat": 0,
+    "bgm": 0,
     "blip": 0,
     "boxun": 0,
     "chinauncensored": 0,
@@ -9244,6 +9247,7 @@ var DOMAINS = {
       "google": 0
     },
     "avdb": 0,
+    "chii": 0,
     "gongm": 0,
     "indiatoday": 0,
     "indiandefensenews": 0,
@@ -10588,6 +10592,9 @@ var DOMAINS = {
   },
   "su": {
     "arethusa": 0
+  },
+  "mr": {
+    "as": 0
   },
   "movie": {
     "av": 0
