@@ -9588,6 +9588,7 @@ var DOMAINS = {
     "sunporno": 0,
     "surfeasy": 0,
     "surfshark": 0,
+    "suyingtv": 0,
     "sydneytoday": 0,
     "syncback": 0,
     "sotwe": 0,
@@ -11620,7 +11621,6 @@ var DOMAINS = {
   },
   "dev": {
     "go5": 0,
-    "pages": 0,
     "workers": 0,
     "google": 0,
     "get": 0,
@@ -12629,7 +12629,8 @@ var DOMAINS = {
   },
   "live": {
     "hkmap": 0,
-    "inherit": 0
+    "inherit": 0,
+    "wplace": 0
   },
   "mo": {
     "com": {
