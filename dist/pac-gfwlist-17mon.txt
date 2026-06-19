@@ -8088,6 +8088,7 @@ var DOMAINS = {
     "xn--noss43i": 0,
     "xn--9pr62r24a": 0,
     "xn--ngstr-lra8j": 0,
+    "xn--vuqv2cf7wzyig79c": 0,
     "amazon": {
       "music": 0,
       "payments-jp": 0
@@ -8476,6 +8477,7 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "accountboy": 0,
     "aave": 0,
     "anuneko": 0,
     "adguard-vpn": 0,
@@ -9157,6 +9159,7 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "moomoo": 0,
     "mcusercontent": 0,
     "musixmatch": 0,
     "mergersandinquisitions": 0,
