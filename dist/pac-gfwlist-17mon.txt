@@ -7599,6 +7599,7 @@ var DOMAINS = {
     "bitbay": 0,
     "livecoin": 0,
     "yobit": 0,
+    "tigerbrokers": 0,
     "china-mmm": 0,
     "facebook": {
       "connect": 0
@@ -7619,6 +7620,7 @@ var DOMAINS = {
     "jtvnw": 0,
     "ttvnw": 0,
     "twitchcdn": 0,
+    "18mh": 0,
     "1000giri": 0,
     "10beasts": 0,
     "12vpn": 0,
@@ -8235,6 +8237,96 @@ var DOMAINS = {
     "topbtc": 0,
     "xbtce": 0,
     "zb": 0,
+    "futuhk": 0,
+    "futunn": {
+      "@": 0,
+      "qtcard": 0,
+      "openapi": 0,
+      "api": 0,
+      "api5": 0,
+      "trade": 0,
+      "support": 0,
+      "download": 0
+    },
+    "futuhn": 0,
+    "futu": 0,
+    "futu0": 0,
+    "futu1": 0,
+    "futu2": 0,
+    "futu3": 0,
+    "futu4": 0,
+    "futu5": 0,
+    "futu6": 0,
+    "futu7": 0,
+    "futu8": 0,
+    "futu9": 0,
+    "futuinc": 0,
+    "futuniuniu": 0,
+    "futufin": {
+      "@": 0,
+      "qtcardfthk": 0
+    },
+    "futuhk2": 0,
+    "futuholdings": 0,
+    "futuesop": 0,
+    "futuchain": 0,
+    "moomoo": 0,
+    "lbctrl": 0,
+    "lbkrs": {
+      "@": 0,
+      "api": 0,
+      "api-gl": 0
+    },
+    "wbrks": 0,
+    "longportapp": {
+      "@": 0,
+      "trade": 0
+    },
+    "longbridgeapp": 0,
+    "longbridgehk": 0,
+    "longbridge": {
+      "@": 0,
+      "openapi": 0,
+      "openapi-quote": 0,
+      "openapi-trade": 0
+    },
+    "itiger": 0,
+    "itigerup": 0,
+    "laohu8": 0,
+    "tigerbbs": 0,
+    "tigerfintech": 0,
+    "tradeup": 0,
+    "xiaohu8": 0,
+    "zhijianfengyi": 0,
+    "schwab": 0,
+    "futustatic": {
+      "@": 0,
+      "cdn": 0
+    },
+    "futuau": 0,
+    "futuhkapp": 0,
+    "fututrade": 0,
+    "fututrustee": 0,
+    "moomoobull": {
+      "api": 0
+    },
+    "moomooequity": 0,
+    "moomootrustee": 0,
+    "appsflyersdk": {
+      "launches": {
+        "9oju31": 0,
+        "sgqt0j": 0
+      }
+    },
+    "qcloud": {
+      "im": {
+        "shortconn": 0
+      }
+    },
+    "tigerbrokers": 0,
+    "play-analytics": {
+      "cg": 0
+    },
     "read01": 0,
     "datalabour": {
       "social": 0
@@ -8551,6 +8643,7 @@ var DOMAINS = {
     "axios": 0,
     "axureformac": 0,
     "azirevpn": 0,
+    "bilinovel": 0,
     "boomplay": 0,
     "bleepingcomputer": 0,
     "bellingcat": 0,
@@ -9019,7 +9112,6 @@ var DOMAINS = {
       "cn": 1
     },
     "idcflare": 0,
-    "itiger": 0,
     "india": 0,
     "imago-images": 0,
     "i818hk": 0,
@@ -9159,7 +9251,6 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
-    "moomoo": 0,
     "mcusercontent": 0,
     "musixmatch": 0,
     "mergersandinquisitions": 0,
@@ -11145,7 +11236,9 @@ var DOMAINS = {
   "hk": {
     "gettyimages": 0,
     "agro": 0,
+    "longbridge": 0,
     "com": {
+      "schwab": 0,
       "google": 0,
       "yahoo": 0,
       "am730": 0,
@@ -11448,6 +11541,19 @@ var DOMAINS = {
   "cn": {
     "666pool": 0,
     "uupool": 0,
+    "futu": 0,
+    "futubull": 0,
+    "longportapp": 0,
+    "tigerbbs": 0,
+    "zhijianfengyi": 0,
+    "com": {
+      "schwab": 0
+    },
+    "longbridge": {
+      "openapi": 0,
+      "openapi-quote": 0,
+      "openapi-trade": 0
+    },
     "bloomberg": 0,
     "daxa": 0,
     "lightnovel": 0,
@@ -11498,6 +11604,7 @@ var DOMAINS = {
   },
   "cloud": {
     "mastodon": 0,
+    "longbridge": 0,
     "unirule": 0
   },
   "host": {
@@ -11623,6 +11730,68 @@ var DOMAINS = {
     "solv": 0,
     "pancakeswap": 0
   },
+  "link": {
+    "futu": 0,
+    "dweb": 0,
+    "nftstorage": 0,
+    "page": 0,
+    "vnet": 0
+  },
+  "global": {
+    "longbridge": {
+      "@": 0,
+      "quote": 0
+    }
+  },
+  "uk": {
+    "co": {
+      "schwab": 0,
+      "bbc": 0,
+      "bbci": 0,
+      "google": 0,
+      "abebooks": 0,
+      "barnabu": 0,
+      "cdpuk": 0,
+      "dabr": 0,
+      "dailymail": 0,
+      "englishfromengland": 0,
+      "independent": 0,
+      "lamnia": 0,
+      "my-private-network": 0,
+      "national-lottery": 0,
+      "pinterest": 0,
+      "standard": 0,
+      "thechasernews": 0,
+      "tibetrelieffund": 0,
+      "yasni": 0
+    },
+    "org": {
+      "csw": 0,
+      "proxynetwork": 0
+    },
+    "kukuku": 0,
+    "sntp": {
+      "lt": 0
+    }
+  },
+  "sg": {
+    "longbridge": 0,
+    "com": {
+      "google": 0,
+      "singaporepools": 0
+    },
+    "thinkchina": 0
+  },
+  "nz": {
+    "tigerbrokers": 0,
+    "co": {
+      "google": 0,
+      "mega": 0,
+      "newshub": 0
+    },
+    "mega": 0,
+    "pinterest": 0
+  },
   "dev": {
     "go5": 0,
     "workers": 0,
@@ -11664,36 +11833,6 @@ var DOMAINS = {
   "pw": {
     "avmo": 0,
     "avmoo": 0
-  },
-  "uk": {
-    "co": {
-      "bbc": 0,
-      "bbci": 0,
-      "google": 0,
-      "abebooks": 0,
-      "barnabu": 0,
-      "cdpuk": 0,
-      "dabr": 0,
-      "dailymail": 0,
-      "englishfromengland": 0,
-      "independent": 0,
-      "lamnia": 0,
-      "my-private-network": 0,
-      "national-lottery": 0,
-      "pinterest": 0,
-      "standard": 0,
-      "thechasernews": 0,
-      "tibetrelieffund": 0,
-      "yasni": 0
-    },
-    "org": {
-      "csw": 0,
-      "proxynetwork": 0
-    },
-    "kukuku": 0,
-    "sntp": {
-      "lt": 0
-    }
   },
   "design": {
     "facebook": 0
@@ -11923,15 +12062,6 @@ var DOMAINS = {
     "co": {
       "google": 0
     }
-  },
-  "nz": {
-    "co": {
-      "google": 0,
-      "mega": 0,
-      "newshub": 0
-    },
-    "mega": 0,
-    "pinterest": 0
   },
   "tz": {
     "co": {
@@ -12200,13 +12330,6 @@ var DOMAINS = {
     "dns": 0,
     "doh": 0,
     "dot": 0
-  },
-  "sg": {
-    "com": {
-      "google": 0,
-      "singaporepools": 0
-    },
-    "thinkchina": 0
   },
   "sl": {
     "com": {
@@ -12576,12 +12699,6 @@ var DOMAINS = {
     "hysteria": {
       "v2": 0
     }
-  },
-  "link": {
-    "dweb": 0,
-    "nftstorage": 0,
-    "page": 0,
-    "vnet": 0
   },
   "cash": {
     "d": 0
