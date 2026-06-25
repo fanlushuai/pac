@@ -5986,6 +5986,10 @@ var DOMAINS = {
     "fnac": 0,
     "funkyimg": 0,
     "fxnetworks": 0,
+    "dappcdn": {
+      "get": 0,
+      "download": 0
+    },
     "getuploader": 0,
     "glype": 0,
     "go141": 0,
@@ -6881,9 +6885,6 @@ var DOMAINS = {
     "cynscribe": 0,
     "data18": 0,
     "dt18": 0,
-    "dappcdn": {
-      "download": 0
-    },
     "dazn": 0,
     "dockerstatus": 0,
     "disneyplus": 0,
