@@ -8824,6 +8824,7 @@ var DOMAINS = {
     "coursehero": 0,
     "crackle": 0,
     "crazyshit": 0,
+    "creader": 0,
     "cristyli": 0,
     "croxyproxy": 0,
     "crucial": 0,
