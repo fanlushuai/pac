@@ -8983,6 +8983,7 @@ var DOMAINS = {
     "fullservicegame": 0,
     "furinkan": 0,
     "fxcm-chinese": 0,
+    "gate": 0,
     "grokipedia": 0,
     "gfwbao": 0,
     "greatfirevpn": 0,
@@ -9191,6 +9192,7 @@ var DOMAINS = {
     "jwplayer": {
       "cdn": 0
     },
+    "kfor": 0,
     "kathmandupost": 0,
     "ka-wai": 0,
     "kakao": 0,
@@ -9401,6 +9403,7 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "pcgamesn": 0,
     "prompthero": 0,
     "pocketcasts": {
       "static": 0
@@ -9689,6 +9692,9 @@ var DOMAINS = {
     "sydneytoday": 0,
     "syncback": 0,
     "sotwe": 0,
+    "theintercept": 0,
+    "trtworld": 0,
+    "twstalker": 0,
     "tvdy1": 0,
     "tgstat": 0,
     "the-sun": 0,
@@ -9767,6 +9773,7 @@ var DOMAINS = {
     "tibettelegraph": 0,
     "tibettruth": 0,
     "tigervpn": 0,
+    "time": 0,
     "timesnownews": 0,
     "timtales": 0,
     "tiney": {
@@ -9919,6 +9926,7 @@ var DOMAINS = {
     "vrchat": 0,
     "vrporn": 0,
     "vtunnel": 0,
+    "washingtontimes": 0,
     "worldjournal": 0,
     "wispbyte": 0,
     "wallzhihu": 0,
@@ -10375,6 +10383,7 @@ var DOMAINS = {
     "lupm": 0,
     "lvhai": 0,
     "lzmtnews": 0,
+    "mhwindow": 0,
     "mediamatters": 0,
     "moegirl": {
       "m": 0
@@ -10445,6 +10454,7 @@ var DOMAINS = {
     "qbittorrent": 0,
     "qiangyou": 0,
     "quitccp": 0,
+    "restofworld": 0,
     "rael": 0,
     "radiovaticana": 0,
     "rarbgprx": 0,
@@ -10806,6 +10816,7 @@ var DOMAINS = {
     "moeshare": 0,
     "netme": 0,
     "on": 0,
+    "perma": 0,
     "ptt": 0,
     "sex8": 0,
     "tomp3": 0,
@@ -11013,6 +11024,7 @@ var DOMAINS = {
   },
   "mil": {
     "darpa": 0,
+    "spaceforce": 0,
     "dma": 0,
     "pacom": 0,
     "soc": 0,
@@ -11281,6 +11293,7 @@ var DOMAINS = {
     "e123": 0,
     "exchristian": 0,
     "fantv": 0,
+    "hkong": 0,
     "hku": {
       "jmsc": 0
     },
@@ -11458,6 +11471,7 @@ var DOMAINS = {
     "america": {
       "share": 0
     },
+    "supremecourt": 0,
     "americorps": 0,
     "nasa": {
       "jpl": 0,
@@ -11495,6 +11509,9 @@ var DOMAINS = {
   "edu": {
     "sans": {
       "isc": 0
+    },
+    "af": {
+      "airuniversity": 0
     },
     "brookings": 0,
     "mit": {
@@ -12237,9 +12254,11 @@ var DOMAINS = {
       "google": 0,
       "cari": 0,
       "chinapress": 0,
+      "guangming": 0,
       "kwongwah": 0,
       "orientaldaily": 0,
-      "sinchew": 0
+      "sinchew": 0,
+      "xuan": 0
     },
     "rfi": 0
   },
@@ -13085,7 +13104,6 @@ var BLACKPAT = [
   "http://tibetansports.org*",
   "http://tibetanwomen.org*",
   "http://timdir.com*",
-  "http://time.com*",
   "http://tmi.me*",
   "http://tmpp.org*",
   "http://tnp.org*",
