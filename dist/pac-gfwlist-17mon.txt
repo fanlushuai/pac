@@ -7932,6 +7932,7 @@ var DOMAINS = {
     "dvdpac": 0,
     "esurance": 0,
     "expekt": 0,
+    "expressnews": 0,
     "extmatrix": 0,
     "filesor": 0,
     "financetwitter": 0,
