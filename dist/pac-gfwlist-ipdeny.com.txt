@@ -6792,6 +6792,7 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "clashyun": 0,
     "ctinsider": 0,
     "claude": 0,
     "crixet": {
@@ -7619,6 +7620,7 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "sysub": 0,
     "spacex": 0,
     "stephaniered": 0,
     "steamladder": 0,
