@@ -8912,7 +8912,8 @@ var DOMAINS = {
     "simianx": 0,
     "suno": 0,
     "wombo": 0,
-    "x": 0
+    "x": 0,
+    "zenmux": 0
   },
   "tw": {
     "com": {
