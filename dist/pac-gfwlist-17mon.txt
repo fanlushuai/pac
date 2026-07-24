@@ -9194,6 +9194,7 @@ var DOMAINS = {
     "jwplayer": {
       "cdn": 0
     },
+    "kards": 0,
     "kfor": 0,
     "kathmandupost": 0,
     "ka-wai": 0,
@@ -10205,6 +10206,7 @@ var DOMAINS = {
     "bullog": 0,
     "business-humanrights": 0,
     "bypasscensorship": 0,
+    "circle19": 0,
     "chonglangtv": 0,
     "clementine-player": 0,
     "crosswall": 0,

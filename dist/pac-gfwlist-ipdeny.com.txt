@@ -3828,6 +3828,7 @@ var CHINA = [
   [0xA0CAD800, 0xFFFFF800], // 160.202.216.0/21
   [0xA0CAE000, 0xFFFFE000], // 160.202.224.0/19
   [0xA0EC4E00, 0xFFFFFE00], // 160.236.78.0/23
+  [0xA0EC9400, 0xFFFFFE00], // 160.236.148.0/23
   [0xA0FA0E00, 0xFFFFFE00], // 160.250.14.0/23
   [0xA0FA1000, 0xFFFFFC00], // 160.250.16.0/22
   [0xA0FA1800, 0xFFFFFE00], // 160.250.24.0/23
@@ -7245,6 +7246,7 @@ var DOMAINS = {
     "jwplayer": {
       "cdn": 0
     },
+    "kards": 0,
     "kfor": 0,
     "kathmandupost": 0,
     "ka-wai": 0,
@@ -8256,6 +8258,7 @@ var DOMAINS = {
     "bullog": 0,
     "business-humanrights": 0,
     "bypasscensorship": 0,
+    "circle19": 0,
     "chonglangtv": 0,
     "clementine-player": 0,
     "crosswall": 0,
