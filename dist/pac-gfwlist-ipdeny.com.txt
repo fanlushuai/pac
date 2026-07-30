@@ -5809,6 +5809,7 @@ var DOMAINS = {
     "justmysocks1": 0,
     "kompozer": 0,
     "kqes": 0,
+    "level-plus": 0,
     "ldplayer": 0,
     "laqingdan": 0,
     "leafyvpn": 0,
@@ -10920,6 +10921,9 @@ var DOMAINS = {
     "thu": {
       "hole": 0
     }
+  },
+  "recipes": {
+    "v": 0
   },
   "help": {
     "v2": 0
