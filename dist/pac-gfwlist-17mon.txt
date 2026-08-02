@@ -9540,7 +9540,6 @@ var DOMAINS = {
     "rawstory": 0,
     "recordedfuture": 0,
     "roblox": 0,
-    "radiojar": 0,
     "rustdesk": 0,
     "radmin-vpn": 0,
     "rule34video": 0,
@@ -10443,7 +10442,6 @@ var DOMAINS = {
     "ozvoice": 0,
     "pewresearch": 0,
     "privacyguides": 0,
-    "puredns": 0,
     "pastie": 0,
     "pbs": 0,
     "pbxes": 0,
@@ -10479,7 +10477,6 @@ var DOMAINS = {
     "rtalabel": 0,
     "rutracker": 0,
     "shitjournal": 0,
-    "sagernet": 0,
     "synapse": 0,
     "sehuatang": 0,
     "savetibet": 0,
@@ -10841,6 +10838,7 @@ var DOMAINS = {
       "google": 0
     },
     "arena": 0,
+    "cerebras": 0,
     "character": 0,
     "dify": {
       "cloud": 0
@@ -10856,7 +10854,6 @@ var DOMAINS = {
     "leonardo": 0,
     "mistral": 0,
     "mlc": 0,
-    "mozilla": 0,
     "openart": 0,
     "podwise": 0,
     "perplexity": 0,
@@ -10879,6 +10876,7 @@ var DOMAINS = {
       "books": 0,
       "bookwalker": 0,
       "businesstoday": 0,
+      "cht": 0,
       "cna": 0,
       "ctitv": 0,
       "cts": 0,
@@ -11829,9 +11827,6 @@ var DOMAINS = {
     "web": 0,
     "tg": 0,
     "ai": 0,
-    "clashverge": {
-      "www": 0
-    },
     "fuchsia": 0,
     "tryai": 0,
     "unun": {
