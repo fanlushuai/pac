@@ -8371,10 +8371,7 @@ var DOMAINS = {
     "parse": 0,
     "thefacebook": 0,
     "whatsapp": 0,
-    "fandom": {
-      "auntology": 0,
-      "hongkong": 0
-    },
+    "fandom": 0,
     "ftchinese": 0,
     "googleapis": {
       "@": 0,
