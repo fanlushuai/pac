@@ -6626,6 +6626,10 @@ var DOMAINS = {
     "91porny": 0,
     "99btgc01": 0,
     "9bis": 0,
+    "arcgis": {
+      "basemaps": 0,
+      "experience": 0
+    },
     "accountboy": 0,
     "aave": 0,
     "anuneko": 0,
@@ -7588,6 +7592,9 @@ var DOMAINS = {
     "qoos": 0,
     "efksoft": 0,
     "qstatus": 0,
+    "redteago": {
+      "esim": 0
+    },
     "rawstory": 0,
     "recordedfuture": 0,
     "roblox": 0,
@@ -9639,6 +9646,7 @@ var DOMAINS = {
   "top": {
     "zhizhu": 0,
     "dpool": 0,
+    "aihub": 0,
     "nightswatch": 0
   },
   "icu": {
