@@ -6628,6 +6628,7 @@ var DOMAINS = {
     "99btgc01": 0,
     "9bis": 0,
     "arcgis": {
+      "livingatlas": 0,
       "basemaps": 0,
       "experience": 0
     },
