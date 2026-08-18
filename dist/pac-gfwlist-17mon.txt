@@ -8097,6 +8097,14 @@ var DOMAINS = {
     "xn--9pr62r24a": 0,
     "xn--ngstr-lra8j": 0,
     "xn--vuqv2cf7wzyig79c": 0,
+    "amazonaws": {
+      "us-west-2": {
+        "dualstack": {
+          "s3": 0
+        }
+      },
+      "s3-ap-northeast-1": 0
+    },
     "amazon": {
       "music": 0,
       "payments-jp": 0
@@ -8336,9 +8344,6 @@ var DOMAINS = {
     "read01": 0,
     "datalabour": {
       "social": 0
-    },
-    "amazonaws": {
-      "s3-ap-northeast-1": 0
     },
     "aol": {
       "video": 0,
@@ -9937,6 +9942,7 @@ var DOMAINS = {
     "vrchat": 0,
     "vrporn": 0,
     "vtunnel": 0,
+    "windy": 0,
     "washingtontimes": 0,
     "worldjournal": 0,
     "wispbyte": 0,
