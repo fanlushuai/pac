@@ -8259,6 +8259,7 @@ var DOMAINS = {
     "asiaharvest": 0,
     "avaaz": 0,
     "avidemux": 0,
+    "briarproject": 0,
     "bt4g": 0,
     "binance": 0,
     "baijie": 0,
@@ -9696,6 +9697,7 @@ var DOMAINS = {
   },
   "site": {
     "free-ss": 0,
+    "chatgpt": 0,
     "wingy": 0
   },
   "cloud": {
