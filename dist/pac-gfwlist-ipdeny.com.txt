@@ -5821,6 +5821,7 @@ var DOMAINS = {
     "liaowangxizang": 0,
     "liuxiaobo": 0,
     "longtermly": 0,
+    "historylines": 0,
     "marxist": 0,
     "mercdn": 0,
     "minhhue": 0,
@@ -7323,6 +7324,7 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "mceindex": 0,
     "mcusercontent": 0,
     "musixmatch": 0,
     "mergersandinquisitions": 0,
@@ -8458,6 +8460,7 @@ var DOMAINS = {
     "lupm": 0,
     "lvhai": 0,
     "lzmtnews": 0,
+    "kiwix": 0,
     "mhwindow": 0,
     "mediamatters": 0,
     "moegirl": {
@@ -10431,7 +10434,8 @@ var DOMAINS = {
     },
     "dns": 0,
     "doh": 0,
-    "dot": 0
+    "dot": 0,
+    "sb": 0
   },
   "sl": {
     "com": {
