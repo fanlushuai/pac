@@ -7639,6 +7639,9 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "shuaiapi": {
+      "api": 0
+    },
     "sysub": 0,
     "spacex": 0,
     "stephaniered": 0,
@@ -8705,7 +8708,8 @@ var DOMAINS = {
     "pinterest": 0,
     "radio-en-ligne": 0,
     "rfi": 0,
-    "ultravpn": 0
+    "ultravpn": 0,
+    "x86": 0
   },
   "de": {
     "angela-merkel": 0,
