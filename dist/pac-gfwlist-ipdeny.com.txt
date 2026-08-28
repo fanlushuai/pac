@@ -10050,7 +10050,8 @@ var DOMAINS = {
     "google": 0
   },
   "as": {
-    "google": 0
+    "google": 0,
+    "write": 0
   },
   "at": {
     "google": 0,
