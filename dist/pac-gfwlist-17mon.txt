@@ -9058,6 +9058,7 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "hkej": 0,
     "hembed": 0,
     "hoyolab": {
       "www": 0
@@ -10898,6 +10899,7 @@ var DOMAINS = {
       "books": 0,
       "bookwalker": 0,
       "businesstoday": 0,
+      "ctee": 0,
       "cht": 0,
       "cna": 0,
       "ctitv": 0,
@@ -12386,6 +12388,7 @@ var DOMAINS = {
     "dns": 0,
     "doh": 0,
     "dot": 0,
+    "linux": 0,
     "sb": 0
   },
   "sl": {

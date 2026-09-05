@@ -3864,6 +3864,7 @@ var CHINA = [
   [0xA32F0400, 0xFFFFFC00], // 163.47.4.0/22
   [0xA3341C00, 0xFFFFFE00], // 163.52.28.0/23
   [0xA3344C00, 0xFFFFFE00], // 163.52.76.0/23
+  [0xA3346C00, 0xFFFFFE00], // 163.52.108.0/23
   [0xA3350000, 0xFFFFF000], // 163.53.0.0/20
   [0xA3352400, 0xFFFFFC00], // 163.53.36.0/22
   [0xA3352800, 0xFFFFF800], // 163.53.40.0/21
@@ -7114,6 +7115,7 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "hkej": 0,
     "hembed": 0,
     "hoyolab": {
       "www": 0
@@ -8954,6 +8956,7 @@ var DOMAINS = {
       "books": 0,
       "bookwalker": 0,
       "businesstoday": 0,
+      "ctee": 0,
       "cht": 0,
       "cna": 0,
       "ctitv": 0,
@@ -10442,6 +10445,7 @@ var DOMAINS = {
     "dns": 0,
     "doh": 0,
     "dot": 0,
+    "linux": 0,
     "sb": 0
   },
   "sl": {
