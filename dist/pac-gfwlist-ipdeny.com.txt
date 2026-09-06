@@ -6601,6 +6601,7 @@ var DOMAINS = {
       "evchk": 0
     },
     "yahoo": 0,
+    "123av": 0,
     "24hbook": 0,
     "91dasai": 0,
     "611study": 0,
@@ -7605,6 +7606,7 @@ var DOMAINS = {
     "qoos": 0,
     "efksoft": 0,
     "qstatus": 0,
+    "roushuwo": 0,
     "redteago": {
       "esim": 0
     },
@@ -7641,6 +7643,7 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "supjav": 0,
     "shuaiapi": {
       "api": 0
     },
@@ -7771,6 +7774,7 @@ var DOMAINS = {
     "sydneytoday": 0,
     "syncback": 0,
     "sotwe": 0,
+    "taiav": 0,
     "theintercept": 0,
     "trtworld": 0,
     "twstalker": 0,
@@ -8005,6 +8009,7 @@ var DOMAINS = {
     "vrchat": 0,
     "vrporn": 0,
     "vtunnel": 0,
+    "wtfpass": 0,
     "windy": 0,
     "washingtontimes": 0,
     "worldjournal": 0,
@@ -8222,6 +8227,8 @@ var DOMAINS = {
     "cdn-telegram": 0,
     "graph": 0,
     "telegram": 0,
+    "taiwanembassy": 0,
+    "roc-taiwan": 0,
     "teco-hk": 0,
     "teco-mo": 0,
     "mediawiki": 0,
@@ -9223,6 +9230,7 @@ var DOMAINS = {
     "cableav": 0,
     "dlive": 0,
     "dropbooks": 0,
+    "hentai": 0,
     "hoy": 0,
     "iwara": 0,
     "jable": 0,
@@ -9500,6 +9508,7 @@ var DOMAINS = {
     "tx": 0,
     "t": 0,
     "telegram": 0,
+    "123av": 0,
     "about": 0,
     "btbtt": 0,
     "baixing": 0,
