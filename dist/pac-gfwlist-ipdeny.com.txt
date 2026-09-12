@@ -6238,10 +6238,6 @@ var DOMAINS = {
     "tineye": 0,
     "top10vpn": 0,
     "tubepornclassic": 0,
-    "uptodown": {
-      "cn": 0,
-      "@": 0
-    },
     "vrsmash": 0,
     "vultryhw": 0,
     "steemit": 0,
@@ -6310,16 +6306,7 @@ var DOMAINS = {
     "xbtce": 0,
     "zb": 0,
     "futuhk": 0,
-    "futunn": {
-      "@": 0,
-      "qtcard": 0,
-      "openapi": 0,
-      "api": 0,
-      "api5": 0,
-      "trade": 0,
-      "support": 0,
-      "download": 0
-    },
+    "futunn": 0,
     "futuhn": 0,
     "futu": 0,
     "futu0": 0,
@@ -6334,34 +6321,19 @@ var DOMAINS = {
     "futu9": 0,
     "futuinc": 0,
     "futuniuniu": 0,
-    "futufin": {
-      "@": 0,
-      "qtcardfthk": 0
-    },
+    "futufin": 0,
     "futuhk2": 0,
     "futuholdings": 0,
     "futuesop": 0,
     "futuchain": 0,
     "moomoo": 0,
     "lbctrl": 0,
-    "lbkrs": {
-      "@": 0,
-      "api": 0,
-      "api-gl": 0
-    },
+    "lbkrs": 0,
     "wbrks": 0,
-    "longportapp": {
-      "@": 0,
-      "trade": 0
-    },
+    "longportapp": 0,
     "longbridgeapp": 0,
     "longbridgehk": 0,
-    "longbridge": {
-      "@": 0,
-      "openapi": 0,
-      "openapi-quote": 0,
-      "openapi-trade": 0
-    },
+    "longbridge": 0,
     "itiger": 0,
     "itigerup": 0,
     "laohu8": 0,
@@ -6371,10 +6343,7 @@ var DOMAINS = {
     "xiaohu8": 0,
     "zhijianfengyi": 0,
     "schwab": 0,
-    "futustatic": {
-      "@": 0,
-      "cdn": 0
-    },
+    "futustatic": 0,
     "futuau": 0,
     "futuhkapp": 0,
     "fututrade": 0,
@@ -7181,10 +7150,7 @@ var DOMAINS = {
     "huhangfei": 0,
     "hung-ya": 0,
     "hyperrate": 0,
-    "investing": {
-      "@": 0,
-      "cn": 1
-    },
+    "investing": 0,
     "idcflare": 0,
     "india": 0,
     "imago-images": 0,
@@ -7601,6 +7567,7 @@ var DOMAINS = {
     "purepdf": 0,
     "purevpn": 0,
     "pursuestar": 0,
+    "quakemachinex": 0,
     "qianglie": 0,
     "qiangwaikan": 0,
     "qoos": 0,
@@ -7953,6 +7920,7 @@ var DOMAINS = {
     "underwoodammo": 0,
     "unholyknight": 0,
     "upghsbc": 0,
+    "uptodown": 0,
     "urbandictionary": 0,
     "urbansurvival": 0,
     "urlborg": 0,
@@ -11123,7 +11091,6 @@ var BLACKPAT = [
   "http://hegre-art.com*",
   "http://hitomi.la*",
   "http://hk-pub.com*",
-  "https://m.hkgalden.com*",
   "http://homeservershow.com*",
   "http://old.honeynet.org/scans/scan31/sub/doug_eric/spam_translation.html*",
   "http://hornytrip.com*",
