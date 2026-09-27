@@ -5762,6 +5762,9 @@ var DOMAINS = {
     "findyoutube": 0,
     "flowhongkong": 0,
     "frommel": 0,
+    "go-mpulse": {
+      "c": 0
+    },
     "gitlab": 0,
     "gaoming": 0,
     "geek-art": 0,
@@ -7568,6 +7571,7 @@ var DOMAINS = {
     "purepdf": 0,
     "purevpn": 0,
     "pursuestar": 0,
+    "qobuz": 0,
     "quakemachinex": 0,
     "qianglie": 0,
     "qiangwaikan": 0,
@@ -7932,6 +7936,7 @@ var DOMAINS = {
     "uujiasu": 0,
     "uwants": 0,
     "uyghurtribunal": 0,
+    "vava8": 0,
     "vox": 0,
     "vimeocdn": 0,
     "vocaroo": 0,
