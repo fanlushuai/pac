@@ -10833,7 +10833,8 @@ var DOMAINS = {
     "tomp3": 0,
     "tiny": 0,
     "vern": 0,
-    "vocus": 0
+    "vocus": 0,
+    "wallhaven": 0
   },
   "ai": {
     "claude": 0,
