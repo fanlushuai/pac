@@ -8338,6 +8338,7 @@ var DOMAINS = {
       "dns": 0
     },
     "dynu": 0,
+    "metaaivm": 0,
     "accountkit": 0,
     "cdninstagram": 0,
     "f8": 0,
@@ -8522,6 +8523,7 @@ var DOMAINS = {
       "evchk": 0
     },
     "yahoo": 0,
+    "7x24hrs": 0,
     "123av": 0,
     "24hbook": 0,
     "91dasai": 0,
@@ -10854,6 +10856,7 @@ var DOMAINS = {
   "ai": {
     "claude": 0,
     "bitz": 0,
+    "meta": 0,
     "api": 0,
     "google": 0,
     "com": {
