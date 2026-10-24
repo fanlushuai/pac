@@ -8800,6 +8800,9 @@ var DOMAINS = {
     "hackmd": 0,
     "itch": 0,
     "infura": 0,
+    "jspm": {
+      "ga": 0
+    },
     "lantern": 0,
     "mosavi": 0,
     "metamask": 0,
@@ -8924,6 +8927,9 @@ var DOMAINS = {
       "google": 0
     },
     "arena": 0,
+    "typesafe": {
+      "console": 0
+    },
     "cerebras": 0,
     "character": 0,
     "dify": {
