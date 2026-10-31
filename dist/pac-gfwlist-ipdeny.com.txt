@@ -5978,6 +5978,9 @@ var DOMAINS = {
     "altrec": 0,
     "amazonvideo": 0,
     "anthropic": 0,
+    "auth0": {
+      "anthropic": 0
+    },
     "apartmentratings": 0,
     "apartments": 0,
     "athenaeizou": 0,
@@ -5994,6 +5997,8 @@ var DOMAINS = {
     "casinobellini": 0,
     "ciciai": 0,
     "cici": 0,
+    "claudeusercontent": 0,
+    "claudemcpcontent": 0,
     "clearsurance": 0,
     "costco": 0,
     "coze": 0,
@@ -8968,6 +8973,21 @@ var DOMAINS = {
     "x": 0,
     "zenmux": 0
   },
+  "app": {
+    "claude": 0,
+    "get": 0,
+    "comments": 0,
+    "bsky": 0,
+    "glarity": 0,
+    "netlify": 0,
+    "rsshub": 0,
+    "raphael": 0,
+    "tokenplus": {
+      "@": 0,
+      "*": 1
+    },
+    "vercel": 0
+  },
   "tw": {
     "com": {
       "cnbeta": 0,
@@ -10064,20 +10084,6 @@ var DOMAINS = {
     "business": 0,
     "get": 0
   },
-  "app": {
-    "get": 0,
-    "comments": 0,
-    "bsky": 0,
-    "glarity": 0,
-    "netlify": 0,
-    "rsshub": 0,
-    "raphael": 0,
-    "tokenplus": {
-      "@": 0,
-      "*": 1
-    },
-    "vercel": 0
-  },
   "how": {
     "get": 0
   },
@@ -10853,6 +10859,7 @@ var DOMAINS = {
   },
   "chat": {
     "bettergpt": 0,
+    "bsky": 0,
     "rocket": 0,
     "simplex": 0
   },
