@@ -10049,6 +10049,7 @@ var DOMAINS = {
     "xvbelink": 0,
     "xvinlink": 0,
     "xxx": 0,
+    "youversionapi": 0,
     "youmind": 0,
     "y2mate": 0,
     "yakbutterblues": 0,
@@ -10540,6 +10541,10 @@ var DOMAINS = {
     "standwithhk": 0,
     "studentsforafreetibet": 0,
     "sylfoundation": 0,
+    "themoviedb": {
+      "api": 0
+    },
+    "torrentleech": 0,
     "eff": {
       "tor": 0
     },
