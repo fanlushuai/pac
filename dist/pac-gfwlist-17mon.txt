@@ -11222,6 +11222,7 @@ var DOMAINS = {
     "bbchat": 0,
     "bb-chat": 0,
     "bgm": 0,
+    "bilibili": 0,
     "blip": 0,
     "boxun": 0,
     "chinauncensored": 0,
