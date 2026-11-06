@@ -7785,9 +7785,7 @@ var DOMAINS = {
     "mullvad": 0,
     "muzi": 0,
     "nirsoft": 0,
-    "neoforged": {
-      "maven": 0
-    },
+    "neoforged": 0,
     "naixi": {
       "bbs": 0
     },
