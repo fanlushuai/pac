@@ -8530,6 +8530,7 @@ var DOMAINS = {
       "evchk": 0
     },
     "yahoo": 0,
+    "51papaya": 0,
     "7x24hrs": 0,
     "123av": 0,
     "24hbook": 0,
