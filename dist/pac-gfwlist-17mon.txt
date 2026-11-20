@@ -8997,7 +8997,6 @@ var DOMAINS = {
     "gabocorp": 0,
     "gagaoolala": 0,
     "galenwu": 0,
-    "game735": 0,
     "ganjing": 0,
     "ganjingworld": 0,
     "gartlive": 0,
@@ -9583,6 +9582,7 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "soulogic": 0,
     "supjav": 0,
     "shuaiapi": {
       "api": 0
@@ -10890,6 +10890,7 @@ var DOMAINS = {
     },
     "cerebras": 0,
     "character": 0,
+    "duck": 0,
     "dify": {
       "cloud": 0
     },
@@ -10921,6 +10922,7 @@ var DOMAINS = {
     "get": 0,
     "comments": 0,
     "bsky": 0,
+    "gamma": 0,
     "glarity": 0,
     "netlify": 0,
     "rsshub": 0,
