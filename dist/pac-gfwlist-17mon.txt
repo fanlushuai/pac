@@ -7878,6 +7878,7 @@ var DOMAINS = {
     "vpnforgame": 0,
     "vpngate": 0,
     "vpninja": 0,
+    "womany": 0,
     "wanderinghorse": 0,
     "wangafu": 0,
     "watchmygf": 0,
@@ -8738,6 +8739,7 @@ var DOMAINS = {
     "buzzorange": 0,
     "buzzsprout": 0,
     "bvpn": 0,
+    "cnyes": 0,
     "clashyun": 0,
     "ctinsider": 0,
     "claude": 0,
@@ -9047,6 +9049,9 @@ var DOMAINS = {
     "gospelherald": 0,
     "gumroad": 0,
     "gunsamerica": 0,
+    "hkfeature": 0,
+    "hkcourtnews": 0,
+    "hkcitycreation": 0,
     "hanime1": 0,
     "hkej": 0,
     "hembed": 0,
@@ -9222,6 +9227,7 @@ var DOMAINS = {
     "ktzhk": 0,
     "kurtmunger": 0,
     "kzaobao": 0,
+    "lifesitenews": 0,
     "ludepress": 0,
     "lingualeo": 0,
     "lagranepoca": 0,
@@ -9257,6 +9263,7 @@ var DOMAINS = {
     "lushstories": 0,
     "lvv2": 0,
     "lzjscript": 0,
+    "master-insight": 0,
     "minkch": 0,
     "moeli-desu": 0,
     "mceindex": 0,
@@ -9334,6 +9341,7 @@ var DOMAINS = {
     "myparagliding": 0,
     "mypopescu": 0,
     "myspacecdn": 0,
+    "nextapple": 0,
     "njavtv": 0,
     "njav": 0,
     "nationthailand": 0,
@@ -9413,6 +9421,7 @@ var DOMAINS = {
     "ovpn": 0,
     "owltail": 0,
     "oxfordscholarship": 0,
+    "pulsehknews": 0,
     "po-kaki-to": 0,
     "pcgamesn": 0,
     "prompthero": 0,
@@ -9582,6 +9591,7 @@ var DOMAINS = {
     "rssmeme": 0,
     "rumble": 0,
     "rusvpn": 0,
+    "shanghainationalparty": 0,
     "soulogic": 0,
     "supjav": 0,
     "shuaiapi": {
@@ -9714,6 +9724,10 @@ var DOMAINS = {
     "sydneytoday": 0,
     "syncback": 0,
     "sotwe": 0,
+    "thewitnesshk": 0,
+    "thestar": 0,
+    "theonlinecitizen": 0,
+    "thecollectivehk": 0,
     "taiav": 0,
     "theintercept": 0,
     "trtworld": 0,
@@ -10953,6 +10967,7 @@ var DOMAINS = {
       "books": 0,
       "bookwalker": 0,
       "businesstoday": 0,
+      "cmmedia": 0,
       "ctee": 0,
       "cht": 0,
       "cna": 0,
@@ -10978,6 +10993,8 @@ var DOMAINS = {
       "ltn": 0,
       "lama": 0,
       "libertytimes": 0,
+      "my-formosa": 0,
+      "moneynet": 0,
       "meee": 0,
       "merit-times": 0,
       "momoshop": 0,
@@ -11031,6 +11048,7 @@ var DOMAINS = {
       "coolloud": 0,
       "ct": 0,
       "dpp": 0,
+      "e-info": 0,
       "ecfa": 0,
       "hakkatv": 0,
       "hwayue": 0,
@@ -11053,6 +11071,7 @@ var DOMAINS = {
       "@": 0,
       "www": 1
     },
+    "cmoney": 0,
     "civilmedia": 0,
     "cofacts": 0,
     "culture": 0,
@@ -11069,6 +11088,7 @@ var DOMAINS = {
     "focustaiwan": 0,
     "im88": 0,
     "inote": 0,
+    "limedia": 0,
     "ldplayer": 0,
     "myjs": 0,
     "memes": 0,
@@ -11087,6 +11107,7 @@ var DOMAINS = {
     "shopee": 0,
     "showwe": 0,
     "soh": 0,
+    "taiwantoday": 0,
     "taaze": 0,
     "wikis": 0,
     "watchout": 0
@@ -11272,6 +11293,7 @@ var DOMAINS = {
     "ok": 0,
     "r0": 0,
     "yandex": {
+      "mc": 0,
       "disk": 0
     },
     "com": {
@@ -11359,8 +11381,10 @@ var DOMAINS = {
       "logos": 0,
       "metroradio": 0,
       "nextdigital": 0,
+      "singpao": 0,
       "sina": 0,
       "shadowsocks": 0,
+      "thestandard": 0,
       "xinmiao": 0,
       "yesasia": 0
     },
@@ -11399,6 +11423,7 @@ var DOMAINS = {
     "lausan": 0,
     "left21": 0,
     "ourtv": 0,
+    "passiontimes": 0,
     "pentoy": 0,
     "popvote": 0,
     "rthk": 0,
@@ -12845,6 +12870,11 @@ var DOMAINS = {
     "fish": 0,
     "up": 0
   },
+  "media": {
+    "greenbean": 0,
+    "gsearch": 0,
+    "zi": 0
+  },
   "photos": {
     "generated": 0
   },
@@ -12863,10 +12893,6 @@ var DOMAINS = {
   },
   "school": {
     "goodhope": 0
-  },
-  "media": {
-    "gsearch": 0,
-    "zi": 0
   },
   "saxo": {
     "home": 0
